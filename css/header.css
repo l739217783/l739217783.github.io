@@ -1,0 +1,130 @@
+/*  
+.imqi1-header-title：面包屑标题
+.imqi1-header：导航栏
+.imqi1-header-sticked：滚动情况下的导航栏样式
+.imqi1-header-links：导航栏菜单
+.imqi1-header-links-item：导航栏菜单项
+*/
+
+
+
+
+.imqi1-header-title {
+    display: none;
+    font-weight: 700;
+    width: 100%;
+    z-index: 15;
+    text-shadow: var(--text-shadow); /* 设置文本阴影 */
+    transition: .1s; /* 过渡效果设置为0.1秒 */
+}
+
+
+
+.imqi1-header {
+    grid-area: header;
+    font-size: 1.2em;
+    position: sticky;
+    top: -1px;
+    padding: 20px 65px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-items: center;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content
+}
+
+.imqi1-header{
+    width: 100%;
+    z-index: 15;
+}
+
+.imqi1-header-sticked .imqi1-header-links-item,
+.imqi1-header-sticked .imqi1-header-title,
+.imqi1-header-sticked .imqi1-header-title a {
+    color: var(--color-base)
+}
+
+.imqi1-header-links,
+.imqi1-header-title {
+    gap: 5px;
+    height: -webkit-max-content;
+    height: -moz-max-content;
+    height: max-content;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex
+}
+
+
+
+.imqi1-header-links-item,
+.imqi1-header-title,
+.imqi1-header-title a {
+    color: var(--color-base);
+    box-sizing: border-box;
+    cursor: pointer
+}
+
+/* 隐藏超链接下划线 */
+.imqi1-header-links-item:hover,
+.imqi1-header-title a:hover {
+    text-decoration: underline
+}
+
+.imqi1-header-links,
+.imqi1-header-title {
+    align-items: center;
+    flex-wrap: wrap
+}
+
+.imqi1-header-title span {
+    cursor: text
+}
+
+/* 滑动附加阴影效果 */
+.imqi1-header-sticked {
+    -webkit-box-shadow: 0 10px 15px -3px rgb(0 0 0 / .1), 0 4px 6px -4px rgb(0 0 0 / .1);
+    box-shadow: 0 10px 15px -3px rgb(0 0 0 / .1), 0 4px 6px -4px rgb(0 0 0 / .1)
+}
+
+.skin-dark .imqi1-header-title,
+.skin-dark .imqi1-header-title a {
+    font-weight: 400
+}
+
+/* imqi1-body-container */
+
+
+.imqi1-body-container {
+    display: -ms-grid;
+    display: grid;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    grid-template-areas: "holder" "header" "photo" "content" "footer" "comment";
+    background: 0;
+    justify-items: center;
+    -ms-grid-columns: 100%;
+    grid-template-columns: 100%;
+    -ms-grid-rows: -webkit-max-content;
+    grid-template-rows: -webkit-max-content;
+    -ms-grid-rows: max-content;
+    grid-template-rows: max-content;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1
+}
+
+.imqi1-fadeUp {
+    -webkit-animation: .4s cubic-bezier(.4, 0, .2, 1) slideUp;
+    animation: .4s cubic-bezier(.4, 0, .2, 1) slideUp;
+    -webkit-animation-fill-mode: backwards;
+    animation-fill-mode: backwards
+}
+
+

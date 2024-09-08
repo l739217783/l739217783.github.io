@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html>
+    <!-- 引入头部 -->
+    <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>浮生一梦</title>
+    <link rel="stylesheet" href="/css/main copy.css" />
+    <link rel="stylesheet" href="/css/remixicon.css" />
+    <link rel="stylesheet" href="/css/resource.css" />
+    <script src="/js/theme.js"></script>
+
+    <!-- 代码块样式 -->
+    <link rel="stylesheet" href="/css/monokai.css">
+
+  
+    <!-- 代码块复制功能 -->
+    <script src="/js/clipboard.min.js"></script>
+    <script src="/js/clipboard_use.js"></script>
+    
+    <!-- 灯箱(排除首页) -->
+    
+    <link rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css">
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+    
+
+<meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/feed.xml" title="Hexo" type="application/rss+xml">
+</head>
+
+    <body>
+        <!-- 导航栏 -->
+        <header class="imqi1-header">
+  <!-- 标题 -->
+  
+  <div class="imqi1-header-title">
+  <!-- 面包屑 -->
+  
+
+
+  <!-- 路径包含日期格式，转换并显示 -->
+  <span>
+    <a href="/">浮生一梦</a> /
+    2024.08.17
+  </span>
+
+  </div>
+
+  <!-- links -->
+  <div class="imqi1-header-links">
+    <div class="imqi1-header-search" style="display:none;">
+      <input type="text" id="searchInput" class="imqi1-search-input" />
+      <button id="searchSubmit"><i class="ri-search-line"></i></button>
+    </div>
+    
+    <div class="imqi1-header-links">
+      
+      <a class="imqi1-header-links-item" href="/messages">
+        <i class="ri-chat-1-line"></i>
+        留言
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/tags">
+        <i class="ri-hashtag"></i>
+        标签
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/archives">
+        <i class="ri-menu-line"></i>
+        归档
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/about">
+        <i class="ri-user-line"></i>
+        关于
+      </a>
+      
+    </div>
+</header>
+        
+        <!-- 文档主体-->
+        <div class="imqi1-body-container" id="main" role="main">
+            <!-- 大标题 -->
+<div class="imqi1-big-title-box imqi1-fadeUp">
+    <h1 class="imqi1-post-big-title">
+        账户精简的一些思考
+    </h1>
+    <div class="imqi1-post-description">
+        
+    </div>
+</div>
+
+
+<!-- 生成目录 -->
+
+
+
+  <div class="imqi1-content imqi1-fadeUp imqi1-has-toc">
+    <div class="imqi1-toc">
+        <nav id="panel-toc" class="imqi1-toc-card imqi1-menu-checkbox-target">
+            <div id="panel-toc-label" class="imqi1-toc-header">目录</div>
+            <div class="toc-target">
+                <ol class="toc-list">
+                    
+                        <li class="toc-list-item">
+                            <a title="前言" href="#前言"
+                                class="toc-link node-name--H1 is-active">
+                                前言
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="历程" href="#历程"
+                                class="toc-link node-name--H1">
+                                历程
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="寻找代替" href="#寻找代替"
+                                class="toc-link node-name--H2">
+                                寻找代替
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="区别" href="#区别"
+                                class="toc-link node-name--H2">
+                                区别
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="思考" href="#思考"
+                                class="toc-link node-name--H1">
+                                思考
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="数据迁移" href="#数据迁移"
+                                class="toc-link node-name--H2">
+                                数据迁移
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="注销账户" href="#注销账户"
+                                class="toc-link node-name--H2">
+                                注销账户
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="看山看水" href="#看山看水"
+                                class="toc-link node-name--H2">
+                                看山看水
+                            </a>
+                        </li>
+                    
+                </ol>
+            </div>
+        </nav>
+    </div>
+
+    <div class="imqi1-post-content imqi1-fadeUp">
+      <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本月本来想要写篇自建邮件服务器的博文分享<br>奈何体验感确实欠佳，跟现有的 QQ 邮箱体验感天差地别，遂作罢</p>
+<p>个人的服务器运行内存只有1G，当时采用了<a target="_blank" rel="noopener" href="https://github.com/Jinnrry/PMail">PMail</a>，该方案占用资源小，我本身服务器运行了一些服务，其他方案占用资源多条件不支持，</p>
+<p>分享下QQ邮箱替代、数据断舍离的一些历程和思考吧</p>
+<h1 id="历程"><a href="#历程" class="headerlink" title="历程"></a>历程</h1><h2 id="寻找代替"><a href="#寻找代替" class="headerlink" title="寻找代替"></a>寻找代替</h2><p>Q：为什么要替换QQ邮箱？</p>
+<p>F：因为个人现在的QQ其实没怎么用的到了，除了一个基本的QQ邮箱功能，其他功能基本没有怎么用，QQ空间N年前关闭了，好友也都删除光了，现在基本都用微信联系，也就是现在的QQ对我其实是一个可有可无的软件，而我要注销QQ，但QQ邮箱是跟我QQ绑定的，一注销两个就一起注销了，所以就有了寻找邮箱代替方案的过程</p>
+<p>动机：替代邮箱——&gt;QQ邮箱跟QQ解绑——&gt;注销QQ</p>
+<p>在寻找代替方案的过程中，环视一圈，发现竟然没有一家纯粹的电子邮件服务商😅<br>就字面意思，足够纯粹，软件只做邮件这件事情，足够精简，没有捆绑功能<br>但可能没有赚钱的前景，竟然一家做的都没有….</p>
+<ul>
+<li>outlook：微软的，微软账户绑定，其中有日历、套件等功能</li>
+<li>163邮箱：网易旗下产品，同QQ一样，也就意味着我要注册网易的账户，网易又是一生态，但产品其实用的少</li>
+<li>新浪：同上，我微博都注销了，又要注册，相当于另一种程度的捆绑</li>
+<li>Gmail：国外产品，网络是问题</li>
+<li>….</li>
+</ul>
+<p>没有合适的方案，那就尝试自部署，就有了前言提到的，结果不尽如意，体验感太差<br>然后环视一圈，突然发现QQ邮箱竟然可以微信登录，兜兜转转又回到原点😑</p>
+<p><strong>如果你也想要注销QQ，也在找寻代替品</strong><br><strong>那么我推荐你使用微信注册QQ邮箱，我推荐一些理由</strong></p>
+<ol>
+<li>支持快速登录</li>
+<li>支持收信规则（我在<a target="_blank" rel="noopener" href="https://linguoguang.com/2024/02/05/2024.02.05/">2024.02.05#邮件规则自动化</a>其中也提到该自动化，感兴趣可以看看）</li>
+<li>支持微信通知，微信有插件可以直接显示邮件通知</li>
+<li>支持邮件翻译（如果用微信插件则不支持）</li>
+<li>多平台：可以使用微信插件，也有网页端，必要情况下手机甚至可以不装客户端</li>
+<li>微信：微信是国内人手必备，意味着不用额外注册其他平台账户</li>
+</ol>
+<h2 id="区别"><a href="#区别" class="headerlink" title="区别"></a>区别</h2><p>原本我以为登录方式会繁琐一点<br>原先用QQ登录，如果你本地有登录QQ，那么QQ邮箱是可以快速登录的<br>如图所示<br><img src="/../images/image-20240817222554199.png" alt="image-20240817222554199"></p>
+<p>我原本以为换到微信登录会很麻烦，每次要用微信扫描登录<br>但意外发现本地如果打开微信，也能快速登录，算是一点意外之喜<br><img src="/../images/image-20240817222738939.png" alt="image-20240817222738939"></p>
+<p>登录后，其他变化界面功能其实与原本一样，差别不大</p>
+<p><img src="/../images/image-20240817223519074.png" alt="image-20240817223519074"></p>
+<p>有的朋友可能会发现，我的侧边栏怎么没有应用<br>我这里装了Chrome插件「Stylus」，该插件可以自定义页面CSS<br>我这里使用CSS将其隐藏起来了，可以去装一个，将不需要的元素都隐藏</p>
+<p>默认的如下</p>
+<p><img src="/../images/image-20240817224131353.png" alt="image-20240817224131353"> </p>
+<p>修改后效果</p>
+<p><img src="/../images/image-20240817223519074.png" alt="image-20240817223519074"></p>
+<h1 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h1><h2 id="数据迁移"><a href="#数据迁移" class="headerlink" title="数据迁移"></a>数据迁移</h2><p>数据迁移方面，都2024了，邮件竟然不支持数据迁移，这是我没想到的<br>而转发邮件又不支持批量，可以说是很无语🙄</p>
+<p>这意味着我要么一封封转发，要么保留重要的，其他删除<br>但一封封转发，有400-500多封，转到何年何月</p>
+<h2 id="注销账户"><a href="#注销账户" class="headerlink" title="注销账户"></a>注销账户</h2><p>由于打算要注销QQ邮箱，原先采用该邮件注册的平台全部要解绑换绑成新邮箱<br>然后不常用的软件顺手注销，然后就遇到了一些波澜</p>
+<ol>
+<li>换绑邮箱竟然要会员，我会员过期了，意味着我需要续费才能换绑定….</li>
+<li>无法注销，有的平台、网站不支持注销账户，完全没有找到账户注销的按钮，这种我只能发邮件联系站长帮忙，但有的不一定帮忙，可以说很无解，我的数据成了对方的资产，我没有自主选择权</li>
+</ol>
+<p>对于以上第2点，我决定了以后采用的注册方式<br><strong>我以后注册，先采用临时一次性邮箱注册，看看网站能不能注销，可以注销，我再使用自己邮箱注册</strong><br><strong>反之，则是临时使用，我不想我连自己的数据都无法操控</strong></p>
+<p>注销账户这个过程，我不想要别人也体验跟我相同的经历<br>我这里做份声明，<strong>在我博客留言的，以后不想在互联网留痕迹的，只要邮件致电我，我会从数据库中将其在我这的留言数据全部清空</strong></p>
+<h2 id="看山看水"><a href="#看山看水" class="headerlink" title="看山看水"></a>看山看水</h2><p>有的人可能会说，干嘛要这么麻烦，精简账户有什么意义，不需要丢着就是，也就一堆电子数据，不可能干涉现实世界。</p>
+<p>我觉得这东西看人吧，我那天想到以前看过的一段话，拿来解释感觉颇为合适</p>
+<ul>
+<li>看山是山，看水是水</li>
+<li>看山不是山，看水不是水</li>
+</ul>
+<p><strong>有的人假如不想要某样东西，眼中东西在那里，但心中放下了包袱，那其实东西在不在那里，已经无所谓了，世界对他而言，取决于他，他是这个世界的观察者，他观察到，东西才存在，反之不存在</strong></p>
+<p>但我远远做不到这种境界，东西在那里，忽视完全做不到<br>想着没有了，但心中还是介意，还是知道它（账户）就在那里，不去处理不痛快😑</p>
+<p>扯的有点玄幻的感觉😂，但算是心态上的一种思考吧</p>
+
+    </div>
+  </div>
+
+
+<!-- 评论 -->
+
+    <div class="imqi1-comment imqi1-fadeUp" id="comments">
+        <!-- Waline 评论容器 -->
+        <div id="waline"></div>
+    </div>
+
+    <!-- 异步加载 Waline 样式 -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+        id="waline-style"
+    />
+
+    <!-- 异步加载 Waline 脚本 -->
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            var script = document.createElement('script');
+            script.src = "/js/comment.js";
+            script.type = "module"
+            script.async = true; // 或者使用 script.defer = true;
+            document.body.appendChild(script);
+        });
+    </script>
+
+
+
+<!-- 代码块复制、高亮 -->
+
+<script src="/js/highlight.min.js"></script>
+<script src="/js/highlightjs-line-numbers.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+  // 初始化高亮
+  hljs.highlightAll();
+
+  // 为每个代码块添加行号
+  document.querySelectorAll('code.hljs').forEach((el) => {
+    hljs.lineNumbersBlock(el);
+  });
+});
+</script>
+<script>
+  // 更新目录高亮的函数
+  function updateTocHighlight() {
+        // 获取所有的标题和目录链接
+    const headings = document.querySelectorAll('.imqi1-content h1, .imqi1-content h2, .imqi1-content h3, .imqi1-content h4, .imqi1-content h5, .imqi1-content h6');
+    const tocLinks = document.querySelectorAll('.toc-list .toc-list-item a');
+    // 清除所有活跃状态
+    tocLinks.forEach(link => link.classList.remove('is-active'));
+
+    // 获取滚动位置
+    const scrollPosition = window.scrollY + (window.innerHeight || document.documentElement.clientHeight) / 2;
+    let currentActive = null;
+
+    // 遍历所有标题，找到最接近视口顶部的标题
+    headings.forEach(heading => {
+      const headingPosition = heading.offsetTop;
+      const headingId = heading.id;
+      const link = document.querySelector(`.toc-list .toc-link[href="#${headingId}"]`);
+      if (headingPosition <= scrollPosition && (!currentActive || headingPosition > currentActive.position)) {
+        currentActive = { link: link, position: headingPosition };
+      }
+    });
+
+    // 如果找到了活跃的标题，添加活跃状态
+    if (currentActive && currentActive.link) {
+      currentActive.link.classList.add('is-active');
+    }
+  }
+// 当文档加载完成后执行
+document.addEventListener('DOMContentLoaded', function () {
+
+// 监听页面滚动事件
+window.addEventListener('scroll', updateTocHighlight);
+
+// 初次调用更新函数，以确保加载页面时高亮正确的目录项
+updateTocHighlight();
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // 获取包含所有目录链接的父元素
+  const tocList = document.querySelector(".toc-list");
+  if (tocList) {
+    // 使用事件委托监听点击事件
+    tocList.addEventListener("click", function (event) {
+        
+      // 检查点击的是否是 a 标签
+      if (event.target.tagName === "A") {
+        // 移除已有（移除所有链接的 'is-active' 类）
+        document.querySelectorAll(".toc-link").forEach((link) => {
+          link.classList.remove("is-active");
+        });
+        // 为被点击的链接添加 'is-active' 类
+        event.target.classList.add("is-active");
+
+        // 阻止默认的锚点导航行为
+        event.preventDefault();
+
+        // 获取锚点对应的元素 ID
+        const targetId = event.target.getAttribute('href').substring(1);
+        // 找到对应的元素
+        const targetElement = document.getElementById(targetId);
+        if (targetElement) {
+          // 计算目标元素相对于文档顶部的位置
+          const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+
+          // 检查目标元素是否是 h2 标签
+          if (targetElement.tagName === 'H2' || targetElement.tagName === 'H3') {
+            // 如果是 h2 标签，添加额外的偏移量
+            const additionalOffset = 70; // 根据实际情况调整这个值
+            window.scroll({
+              top: targetPosition - additionalOffset,
+              left: 0,
+              behavior: 'smooth'
+            });
+          } else {
+            // 如果不是 h2 标签，直接滚动到目标位置
+            targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+          // 移除滚动事件（显示阅读进度），防止相互影响
+          window.removeEventListener('scroll', updateTocHighlight);
+        }
+      }
+    // 点击事件结束后再添加回去滚动事件（显示阅读进度）
+    window.addEventListener('scroll', updateTocHighlight);
+    });
+
+  }
+});
+
+</script>
+        </div>
+
+        <!-- 脚本 -->
+        <script src="/js/events.js"></script>
+        
+<script src="/js/fancybox.js"></script>
+
+        <footer class="imqi1-footer2">
+
+  <!-- 备案信息 -->
+  <div class="footer-beian">
+    <span>2024 © <a href="https://imqi1.com/" target="_blank">ImQi1</a></span> |
+    <!-- ICP -->
+    
+        <a href="https://beian.miit.gov.cn" target="_blank">京ICP证123456号</a>
+
+        <a href="https://beian.miit.gov.cn" target="_blank">京公网安备12345678号</a>
+    
+  </div>
+
+
+  <div class="footer-links">
+    
+        <a href="/feed.xml" style="padding-left:2px;">RSS</a>
+    
+        <a target="_blank" rel="noopener" href="https://travellings.cn/go.html" style="padding-left:2px;">开往</a>
+    
+        <a target="_blank" rel="noopener" href="https://foreverblog.cn/go.html" style="padding-left:2px;">虫洞</a>
+    
+        <a target="_blank" rel="noopener" href="https://www.upyun.com/?utm_source=lianmeng&amp;utm_medium=referral" style="padding-left:2px;">又拍云</a>
+    
+  </div>
+  
+</footer>
+        <!-- 悬浮按钮组 -->
+
+<div class="imqi1-footer-buttons">
+    <div class="imqi1-footer-button" id="scroll-top">
+        <i class="ri-arrow-up-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="theme-toggle">
+        <i class="ri-moon-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="music-player">
+        <i class="ri-headphone-line"></i>
+    </div>
+</div>
+
+    </body>
+
+</html>

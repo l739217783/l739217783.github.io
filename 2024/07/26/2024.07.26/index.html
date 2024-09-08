@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html>
+    <!-- 引入头部 -->
+    <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>浮生一梦</title>
+    <link rel="stylesheet" href="/css/main copy.css" />
+    <link rel="stylesheet" href="/css/remixicon.css" />
+    <link rel="stylesheet" href="/css/resource.css" />
+    <script src="/js/theme.js"></script>
+
+    <!-- 代码块样式 -->
+    <link rel="stylesheet" href="/css/monokai.css">
+
+  
+    <!-- 代码块复制功能 -->
+    <script src="/js/clipboard.min.js"></script>
+    <script src="/js/clipboard_use.js"></script>
+    
+    <!-- 灯箱(排除首页) -->
+    
+    <link rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css">
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+    
+
+<meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/feed.xml" title="Hexo" type="application/rss+xml">
+</head>
+
+    <body>
+        <!-- 导航栏 -->
+        <header class="imqi1-header">
+  <!-- 标题 -->
+  
+  <div class="imqi1-header-title">
+  <!-- 面包屑 -->
+  
+
+
+  <!-- 路径包含日期格式，转换并显示 -->
+  <span>
+    <a href="/">浮生一梦</a> /
+    2024.07.26
+  </span>
+
+  </div>
+
+  <!-- links -->
+  <div class="imqi1-header-links">
+    <div class="imqi1-header-search" style="display:none;">
+      <input type="text" id="searchInput" class="imqi1-search-input" />
+      <button id="searchSubmit"><i class="ri-search-line"></i></button>
+    </div>
+    
+    <div class="imqi1-header-links">
+      
+      <a class="imqi1-header-links-item" href="/messages">
+        <i class="ri-chat-1-line"></i>
+        留言
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/tags">
+        <i class="ri-hashtag"></i>
+        标签
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/archives">
+        <i class="ri-menu-line"></i>
+        归档
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/about">
+        <i class="ri-user-line"></i>
+        关于
+      </a>
+      
+    </div>
+</header>
+        
+        <!-- 文档主体-->
+        <div class="imqi1-body-container" id="main" role="main">
+            <!-- 大标题 -->
+<div class="imqi1-big-title-box imqi1-fadeUp">
+    <h1 class="imqi1-post-big-title">
+        Eagle外链增强
+    </h1>
+    <div class="imqi1-post-description">
+        
+    </div>
+</div>
+
+
+<!-- 生成目录 -->
+
+
+
+  <div class="imqi1-content imqi1-fadeUp imqi1-has-toc">
+    <div class="imqi1-toc">
+        <nav id="panel-toc" class="imqi1-toc-card imqi1-menu-checkbox-target">
+            <div id="panel-toc-label" class="imqi1-toc-header">目录</div>
+            <div class="toc-target">
+                <ol class="toc-list">
+                    
+                        <li class="toc-list-item">
+                            <a title="前言" href="#前言"
+                                class="toc-link node-name--H1 is-active">
+                                前言
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="思路" href="#思路"
+                                class="toc-link node-name--H1">
+                                思路
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="参考资料" href="#参考资料"
+                                class="toc-link node-name--H1">
+                                参考资料
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="代码讲解" href="#代码讲解"
+                                class="toc-link node-name--H1">
+                                代码讲解
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="接受参数" href="#接受参数"
+                                class="toc-link node-name--H2">
+                                接受参数
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="查找文件" href="#查找文件"
+                                class="toc-link node-name--H2">
+                                查找文件
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="切换对应资源库" href="#切换对应资源库"
+                                class="toc-link node-name--H2">
+                                切换对应资源库
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="直达" href="#直达"
+                                class="toc-link node-name--H2">
+                                直达
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="完整代码" href="#完整代码"
+                                class="toc-link node-name--H2">
+                                完整代码
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="打包" href="#打包"
+                                class="toc-link node-name--H1">
+                                打包
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="使用方法" href="#使用方法"
+                                class="toc-link node-name--H1">
+                                使用方法
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="后话" href="#后话"
+                                class="toc-link node-name--H1">
+                                后话
+                            </a>
+                        </li>
+                    
+                </ol>
+            </div>
+        </nav>
+    </div>
+
+    <div class="imqi1-post-content imqi1-fadeUp">
+      <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>花费半天时间，将之前的一个小开发想法落地，作为本月博文分享给大家下</p>
+<p><strong>本篇博文仅适用于Eagle用户，非Eagle用户可以直接退出了</strong><br>但好像更适用于Eagle+开发用户？😑，得，估计Eagle用户看也懵</p>
+<p>先了解下前因后果</p>
+<p>Eagle软件本身支持文件外链，例如：<code>eagle://item/LT119HK340IHU</code><br>通过外链可以直接快速从其他使用Eagle打开指定文件</p>
+<p>例如，我有张莲花山的图</p>
+<p><img src="/../images/image-20240726195824579.png" alt="image-20240726195824579"></p>
+<p>复制链接，外链是<code>eagle://item/LT119HK30UGE3</code>，如果在Obsidian或者其他地方点击这个超链接<br>那么就能迅速打开Eagle跳转到这张图片</p>
+<p><img src="/../images/Egale%E5%A4%96%E9%93%BE%E7%A4%BA%E4%BE%8B.gif" alt="Egale外链示例"></p>
+<p>这种外链在引用文件的时候非常非常便捷，尤其是Eagle2.0之后增加更多的格式支持后，可以说就是个万能的资源管理器</p>
+<p>我通常使用Eagle作为Obsidian的外部资源拓展，例如视频笔记，例如书签管理</p>
+<p>但是其中有个痛点，外链是没办法跨资源库的<br>Eagle可以创建多个资源库，例如我网站书签放一个资源库，音乐放一个资源库，图片放一个….</p>
+<p>我在A资源库复制了文件外链，Eagle处于其他资源库（B、C、D等）的时候，这个文件外链是没办法达成上面效果（直达文件），外链只能打开Eagle而已，失去了直达的效果</p>
+<p>这种只能自己手动先切换Eagle资源库成这个文件所在的资源库，再点击链接才有效<br>可以说是很难受，这个就是外链使用过程中遇到的痛点😕</p>
+<p>毕竟多个资源库是不可避免的，于是就想到替代协议，想法落地，就有了本篇</p>
+<h1 id="思路"><a href="#思路" class="headerlink" title="思路"></a>思路</h1><p>Eagle的外链<code>eagle://item/LT119HK30UGE3</code>是自定义协议，那么就是通过注册表注册的<br>打开注册表，在<code>HKEY_CLASSES_ROOT</code>下搜索Eagle，果然有</p>
+<p>定位：<code>\HKEY_CLASSES_ROOT\eagle\shell\open\command</code></p>
+<p><img src="/../images/image-20240726201338625.png" alt="image-20240726201338625"></p>
+<p>可以发现就是将<code>%1</code>也就是外链<code>eagle://item/LT119HK30UGE3</code>传递给<code>Eagle.exe</code>进行打开而已</p>
+<p>那么我的思路就是我直接开发个脚本，替换掉注册表中的Eagle.exe<br>这样每次点击外链，则运行的是我开发的脚本</p>
+<p>脚本中实现的逻辑</p>
+<ol>
+<li>接受参数（文件外链）</li>
+<li>去查找这个文件是处于哪个资源库</li>
+<li>使用 API 切换成对应资源库</li>
+<li>模拟系统命令，向Eagle软件发送外链，实现直达文件</li>
+</ol>
+<p>想法如上，开始落地</p>
+<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol>
+<li><a target="_blank" rel="noopener" href="https://eagle.cool/"># Eagle - 图片收集及管理必备工具</a>：Eagle 软件，这里安利一波，五星好评😘😘</li>
+<li><a target="_blank" rel="noopener" href="https://www.yuque.com/augus-gsjgn/eagle-api"># Eagle API 官方文档</a>：Eagle 官方的 API 文档，好的软件必备👍👍</li>
+<li><a target="_blank" rel="noopener" href="https://eagleteam.notion.site/Eagle-ad3da12cfda048668ac57b88d57faa31"># Eagle 媒体资源包</a>：图标资源，用于打包时候使用</li>
+</ol>
+<h1 id="代码讲解"><a href="#代码讲解" class="headerlink" title="代码讲解"></a>代码讲解</h1><h2 id="接受参数"><a href="#接受参数" class="headerlink" title="接受参数"></a>接受参数</h2><p>使用<code>sys.argv</code>接受外链参数即可</p>
+<pre><code class="python">url = sys.argv[1]
+</code></pre>
+<h2 id="查找文件"><a href="#查找文件" class="headerlink" title="查找文件"></a>查找文件</h2><p>原先使用Eagle的 API查找，但发现效率不如直接使用 <code>os</code> 模块的路径判断，所以改用 <code>os</code></p>
+<p>Eagle一个资源库的所有文件是在其资源库下的<code>images</code>文件夹中，每个文件有个对应id的文件夹</p>
+<p><img src="/../images/image-20240726202509878.png" alt="image-20240726202509878"></p>
+<p>直接使用<code>os.path.exist()</code>进行判断文件是否在这个资源库即可<br>举例：</p>
+<p>外链是<code>eagle://item/LT119HK30UGE3</code>，提取文件id（<code>LT119HK30UGE3</code>）<br>那么使用<code>os.path.exist()</code>判断该资源库下是否有这个文件夹，就可以知道是处于哪个资源库中了</p>
+<p>我个人是所有资源库放在D盘，直接提取所有资源库的名称，进行遍历所有资源库即可</p>
+<p>示例代码</p>
+<pre><code class="python"># 读取所有资源库名称
+library_list = [i for i in os.listdir(&quot;D:/Software&quot;) if i.endswith(&quot;.library&quot;)]
+
+for library in library_list:
+    path = f&quot;D:/Software/&#123;library&#125;/images/&#123;item&#125;.info&quot;
+    if os.path.exists(path):
+        pass
+</code></pre>
+<h2 id="切换对应资源库"><a href="#切换对应资源库" class="headerlink" title="切换对应资源库"></a>切换对应资源库</h2><p>使用Eagle的API就能将Eagle软件切换到对应资源库，API文档具体看参考资料</p>
+<pre><code class="python">def switch_library(library_name):
+    # 数据字典
+    data = &#123;
+        &quot;libraryPath&quot;: f&quot;D:/Software/&#123;library_name&#125;&quot;,
+    &#125;
+
+    # 请求选项
+    url = &quot;http://localhost:41595/api/library/switch&quot;
+    headers = &#123;
+        &quot;Content-Type&quot;: &quot;application/json&quot;,
+        &quot;Accept&quot;: &quot;application/json&quot;,
+    &#125;
+
+    # 将数据字典转换为JSON格式的字符串
+    json_data = json.dumps(data)
+
+    # 发送POST请求
+    response = requests.post(url, headers=headers, data=json_data)
+
+    # 检查请求是否成功
+    if response.ok:
+        # 解析JSON响应
+        result = response.json()
+        print(result)
+    else:
+        print(f&quot;Request failed with status code: &#123;response.status_code&#125;&quot;)
+
+    # 处理可能发生的异常
+    try:
+        # 可以尝试再次解析JSON响应
+        result = response.json()
+        print(result)
+    except json.JSONDecodeError as error:
+        print(f&quot;Error decoding JSON: &#123;error&#125;&quot;)
+</code></pre>
+<h2 id="直达"><a href="#直达" class="headerlink" title="直达"></a>直达</h2><p>模拟Eagle注册表中的写法，也就是将外链发送给Eagle即可<br>这里使用<code>subprocess</code>模块运行系统命令</p>
+<pre><code class="python"># 定义Eagle执行文件的路径
+eagle_exe = &quot;D:/Software/Eagle/Eagle.exe&quot;
+
+# 定义要打开的Eagle链接
+eagle_link = &quot;eagle://item/LT119HK340IHU&quot;
+
+# 构建命令
+command = f&#39;&quot;&#123;eagle_exe&#125;&quot; --allow-file-access-from-files &quot;&#123;eagle_link&#125;&quot;&#39;
+
+# 使用subprocess.run执行命令
+subprocess.run(command, shell=True)
+</code></pre>
+<h2 id="完整代码"><a href="#完整代码" class="headerlink" title="完整代码"></a>完整代码</h2><p>将上面的所有功能拼凑起来，实现完整的代码逻辑<br>注：目前仅适用于个人使用，仅供参考，不要直接运行，是无效果的</p>
+<pre><code class="python">import json
+import os
+import subprocess
+import sys
+
+import requests
+from win10toast import ToastNotifier
+
+def switch_library(library_name):
+    &quot;&quot;&quot;切换资源库
+    @param str library_name: 资源库名称
+    &quot;&quot;&quot;    
+    data = &#123;
+        &quot;libraryPath&quot;: f&quot;D:/Software/&#123;library_name&#125;&quot;,
+    &#125;
+    url = &quot;http://localhost:41595/api/library/switch&quot;
+    headers = &#123;
+        &quot;Content-Type&quot;: &quot;application/json&quot;,
+        &quot;Accept&quot;: &quot;application/json&quot;,
+    &#125;
+
+    # 转换为JSON格式的字符串
+    json_data = json.dumps(data)
+    response = requests.post(url, headers=headers, data=json_data)
+
+    # 检查请求
+    if response.ok:
+        result = response.json()
+        print(result)
+    else:
+        print(f&quot;Request failed with status code: &#123;response.status_code&#125;&quot;)
+
+    try:
+        # 尝试再次解析JSON响应
+        result = response.json()
+        print(result)
+    except json.JSONDecodeError as error:
+        print(f&quot;Error decoding JSON: &#123;error&#125;&quot;)
+
+
+def send_notification(title, message):
+    &quot;&quot;&quot;弹窗提示
+    @param str title: 弹窗标题
+    @param str message: 弹窗备注
+    &quot;&quot;&quot;    
+    toaster = ToastNotifier()
+    toaster.show_toast(title, message, duration=3)
+
+def main():
+    &quot;&quot;&quot;主函数&quot;&quot;&quot;
+
+    if len(sys.argv) &gt; 1:
+
+        
+        eagle_exe = &quot;D:/Software/Eagle/Eagle.exe&quot;  # 定义Eagle执行文件的路径
+        eagle_link = sys.argv[1]  # 定义要打开的Eagle链接
+        command = f&#39;&quot;&#123;eagle_exe&#125;&quot; --allow-file-access-from-files &quot;&#123;eagle_link&#125;&quot;&#39; # 构建命令
+
+        item = eagle_link.replace(&quot;eagle://item/&quot;, &quot;&quot;)
+        result_lib = None  # 待切换成的资源库
+
+        # 读取所有资源库名称
+        library_list = [i for i in os.listdir(&quot;D:/Software&quot;) if i.endswith(&quot;.library&quot;)]
+
+        for library in library_list:
+            path = f&quot;D:/Software/&#123;library&#125;/images/&#123;item&#125;.info&quot;
+            if os.path.exists(path):
+                result_lib = library
+                break
+
+        if result_lib:
+            switch_library(result_lib)
+            subprocess.run(command, shell=True)
+
+            sys.exit(0)
+        else:
+            send_notification(&quot;Eagle 增强插件&quot;, &quot;未找到文件&quot;)
+            # print(&quot;未找到文件&quot;)
+
+
+if __name__ == &quot;__main__&quot;:
+    main()
+</code></pre>
+<h1 id="打包"><a href="#打包" class="headerlink" title="打包"></a>打包</h1><p>注册表中是不能使用脚本的，只能是可执行文件<code>.exe</code>，所以我们需要将脚本打包成exe<br>emmm…，也许也可以？将脚本作为参数传递，再将<code>%1</code>作为参数传递给脚本<br>像这样<code>&quot;c:\Users\Lin-BLACKBOOK\AppData\Local\Programs\Python\Python310\python.exe&quot; &quot;D:\develop\Python\demo.py&quot; &quot;%1&quot;</code>，也许可以，没尝试过</p>
+<p>我这里是先打包，再使用</p>
+<p>使用<code>pyinstaller</code>打包成单文件<code>Eagle_enhance.exe</code><br>想要文件更小，可以使用<code>pipenv</code>创建个虚拟环境，能使文件小N多</p>
+<pre><code class="python">pyinstaller -F -w -i &quot;D:\systemLibrary\Desktop\Eagle\4.ico&quot; Eagle_enhance.pyw
+</code></pre>
+<p>为了防止不小心删除，可以将打包后的<code>Eagle_enhance.exe</code>跟Eagle放一起</p>
+<p><img src="/../images/image-20240726204839703.png" alt="image-20240726204839703"></p>
+<h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><ol>
+<li>运行中输入<code>regedit</code>，打开注册表</li>
+<li>定位：<code>\HKEY_CLASSES_ROOT\eagle\shell\open\command</code></li>
+<li>将项改成打包好的程序位置+空格+<code>%1</code><br><img src="/../images/image-20240726204934424.png" alt="image-20240726204934424"></li>
+<li>点击外链，愉快玩耍~</li>
+</ol>
+<h1 id="后话"><a href="#后话" class="headerlink" title="后话"></a>后话</h1><p>目前仅仅是一个适用个人的版本，会编程的直接改改就能用了<br>博客看的人还是少，博客+Eagle可能遇到的更加少，所以没有想浪费时间开发通用版的念头，虽然实际可能用不了多少时间</p>
+<p>看看吧，如果有需要的朋友也可以留言，可以开发个适用全部人的通用版本程序，直接一键运行完成部署</p>
+<p>吐槽个无语的，其实难度不大，开发应该非常快可以完成的，但中途陷入了无限死循环，搞的有点懵，算了，无力吐槽，有这时间刷视频不香吗</p>
+
+    </div>
+  </div>
+
+
+<!-- 评论 -->
+
+    <div class="imqi1-comment imqi1-fadeUp" id="comments">
+        <!-- Waline 评论容器 -->
+        <div id="waline"></div>
+    </div>
+
+    <!-- 异步加载 Waline 样式 -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+        id="waline-style"
+    />
+
+    <!-- 异步加载 Waline 脚本 -->
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            var script = document.createElement('script');
+            script.src = "/js/comment.js";
+            script.type = "module"
+            script.async = true; // 或者使用 script.defer = true;
+            document.body.appendChild(script);
+        });
+    </script>
+
+
+
+<!-- 代码块复制、高亮 -->
+
+<script src="/js/highlight.min.js"></script>
+<script src="/js/highlightjs-line-numbers.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+  // 初始化高亮
+  hljs.highlightAll();
+
+  // 为每个代码块添加行号
+  document.querySelectorAll('code.hljs').forEach((el) => {
+    hljs.lineNumbersBlock(el);
+  });
+});
+</script>
+<script>
+  // 更新目录高亮的函数
+  function updateTocHighlight() {
+        // 获取所有的标题和目录链接
+    const headings = document.querySelectorAll('.imqi1-content h1, .imqi1-content h2, .imqi1-content h3, .imqi1-content h4, .imqi1-content h5, .imqi1-content h6');
+    const tocLinks = document.querySelectorAll('.toc-list .toc-list-item a');
+    // 清除所有活跃状态
+    tocLinks.forEach(link => link.classList.remove('is-active'));
+
+    // 获取滚动位置
+    const scrollPosition = window.scrollY + (window.innerHeight || document.documentElement.clientHeight) / 2;
+    let currentActive = null;
+
+    // 遍历所有标题，找到最接近视口顶部的标题
+    headings.forEach(heading => {
+      const headingPosition = heading.offsetTop;
+      const headingId = heading.id;
+      const link = document.querySelector(`.toc-list .toc-link[href="#${headingId}"]`);
+      if (headingPosition <= scrollPosition && (!currentActive || headingPosition > currentActive.position)) {
+        currentActive = { link: link, position: headingPosition };
+      }
+    });
+
+    // 如果找到了活跃的标题，添加活跃状态
+    if (currentActive && currentActive.link) {
+      currentActive.link.classList.add('is-active');
+    }
+  }
+// 当文档加载完成后执行
+document.addEventListener('DOMContentLoaded', function () {
+
+// 监听页面滚动事件
+window.addEventListener('scroll', updateTocHighlight);
+
+// 初次调用更新函数，以确保加载页面时高亮正确的目录项
+updateTocHighlight();
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // 获取包含所有目录链接的父元素
+  const tocList = document.querySelector(".toc-list");
+  if (tocList) {
+    // 使用事件委托监听点击事件
+    tocList.addEventListener("click", function (event) {
+        
+      // 检查点击的是否是 a 标签
+      if (event.target.tagName === "A") {
+        // 移除已有（移除所有链接的 'is-active' 类）
+        document.querySelectorAll(".toc-link").forEach((link) => {
+          link.classList.remove("is-active");
+        });
+        // 为被点击的链接添加 'is-active' 类
+        event.target.classList.add("is-active");
+
+        // 阻止默认的锚点导航行为
+        event.preventDefault();
+
+        // 获取锚点对应的元素 ID
+        const targetId = event.target.getAttribute('href').substring(1);
+        // 找到对应的元素
+        const targetElement = document.getElementById(targetId);
+        if (targetElement) {
+          // 计算目标元素相对于文档顶部的位置
+          const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+
+          // 检查目标元素是否是 h2 标签
+          if (targetElement.tagName === 'H2' || targetElement.tagName === 'H3') {
+            // 如果是 h2 标签，添加额外的偏移量
+            const additionalOffset = 70; // 根据实际情况调整这个值
+            window.scroll({
+              top: targetPosition - additionalOffset,
+              left: 0,
+              behavior: 'smooth'
+            });
+          } else {
+            // 如果不是 h2 标签，直接滚动到目标位置
+            targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+          // 移除滚动事件（显示阅读进度），防止相互影响
+          window.removeEventListener('scroll', updateTocHighlight);
+        }
+      }
+    // 点击事件结束后再添加回去滚动事件（显示阅读进度）
+    window.addEventListener('scroll', updateTocHighlight);
+    });
+
+  }
+});
+
+</script>
+        </div>
+
+        <!-- 脚本 -->
+        <script src="/js/events.js"></script>
+        
+<script src="/js/fancybox.js"></script>
+
+        <footer class="imqi1-footer2">
+
+  <!-- 备案信息 -->
+  <div class="footer-beian">
+    <span>2024 © <a href="https://imqi1.com/" target="_blank">ImQi1</a></span> |
+    <!-- ICP -->
+    
+        <a href="https://beian.miit.gov.cn" target="_blank">京ICP证123456号</a>
+
+        <a href="https://beian.miit.gov.cn" target="_blank">京公网安备12345678号</a>
+    
+  </div>
+
+
+  <div class="footer-links">
+    
+        <a href="/feed.xml" style="padding-left:2px;">RSS</a>
+    
+        <a target="_blank" rel="noopener" href="https://travellings.cn/go.html" style="padding-left:2px;">开往</a>
+    
+        <a target="_blank" rel="noopener" href="https://foreverblog.cn/go.html" style="padding-left:2px;">虫洞</a>
+    
+        <a target="_blank" rel="noopener" href="https://www.upyun.com/?utm_source=lianmeng&amp;utm_medium=referral" style="padding-left:2px;">又拍云</a>
+    
+  </div>
+  
+</footer>
+        <!-- 悬浮按钮组 -->
+
+<div class="imqi1-footer-buttons">
+    <div class="imqi1-footer-button" id="scroll-top">
+        <i class="ri-arrow-up-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="theme-toggle">
+        <i class="ri-moon-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="music-player">
+        <i class="ri-headphone-line"></i>
+    </div>
+</div>
+
+    </body>
+
+</html>

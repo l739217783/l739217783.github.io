@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html>
+    <!-- 引入头部 -->
+    <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>浮生一梦</title>
+    <link rel="stylesheet" href="/css/main copy.css" />
+    <link rel="stylesheet" href="/css/remixicon.css" />
+    <link rel="stylesheet" href="/css/resource.css" />
+    <script src="/js/theme.js"></script>
+
+    <!-- 代码块样式 -->
+    <link rel="stylesheet" href="/css/monokai.css">
+
+  
+    <!-- 代码块复制功能 -->
+    <script src="/js/clipboard.min.js"></script>
+    <script src="/js/clipboard_use.js"></script>
+    
+    <!-- 灯箱(排除首页) -->
+    
+    <link rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css">
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+    
+
+<meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/feed.xml" title="Hexo" type="application/rss+xml">
+</head>
+
+    <body>
+        <!-- 导航栏 -->
+        <header class="imqi1-header">
+  <!-- 标题 -->
+  
+  <div class="imqi1-header-title">
+  <!-- 面包屑 -->
+  
+
+
+  <!-- 路径包含日期格式，转换并显示 -->
+  <span>
+    <a href="/">浮生一梦</a> /
+    2023.04.10
+  </span>
+
+  </div>
+
+  <!-- links -->
+  <div class="imqi1-header-links">
+    <div class="imqi1-header-search" style="display:none;">
+      <input type="text" id="searchInput" class="imqi1-search-input" />
+      <button id="searchSubmit"><i class="ri-search-line"></i></button>
+    </div>
+    
+    <div class="imqi1-header-links">
+      
+      <a class="imqi1-header-links-item" href="/messages">
+        <i class="ri-chat-1-line"></i>
+        留言
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/tags">
+        <i class="ri-hashtag"></i>
+        标签
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/archives">
+        <i class="ri-menu-line"></i>
+        归档
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/about">
+        <i class="ri-user-line"></i>
+        关于
+      </a>
+      
+    </div>
+</header>
+        
+        <!-- 文档主体-->
+        <div class="imqi1-body-container" id="main" role="main">
+            <!-- 大标题 -->
+<div class="imqi1-big-title-box imqi1-fadeUp">
+    <h1 class="imqi1-post-big-title">
+        讲讲Rss
+    </h1>
+    <div class="imqi1-post-description">
+        
+    </div>
+</div>
+
+
+<!-- 生成目录 -->
+
+
+
+  <div class="imqi1-content imqi1-fadeUp imqi1-has-toc">
+    <div class="imqi1-toc">
+        <nav id="panel-toc" class="imqi1-toc-card imqi1-menu-checkbox-target">
+            <div id="panel-toc-label" class="imqi1-toc-header">目录</div>
+            <div class="toc-target">
+                <ol class="toc-list">
+                    
+                        <li class="toc-list-item">
+                            <a title="前言" href="#前言"
+                                class="toc-link node-name--H1 is-active">
+                                前言
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="为什么需要自建" href="#为什么需要自建"
+                                class="toc-link node-name--H1">
+                                为什么需要自建
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="Rss 方案选择" href="#Rss-方案选择"
+                                class="toc-link node-name--H1">
+                                Rss 方案选择
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="RSS 源" href="#RSS-源"
+                                class="toc-link node-name--H2">
+                                RSS 源
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="RSS阅读器" href="#RSS阅读器"
+                                class="toc-link node-name--H2">
+                                RSS阅读器
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="蚁阅方案" href="#蚁阅方案"
+                                class="toc-link node-name--H3">
+                                蚁阅方案
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="Cubox 方案" href="#Cubox-方案"
+                                class="toc-link node-name--H3">
+                                Cubox 方案
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="建议" href="#建议"
+                                class="toc-link node-name--H1">
+                                建议
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="工具总结" href="#工具总结"
+                                class="toc-link node-name--H1">
+                                工具总结
+                            </a>
+                        </li>
+                    
+                </ol>
+            </div>
+        </nav>
+    </div>
+
+    <div class="imqi1-post-content imqi1-fadeUp">
+      <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>写写近 10 天做的事，做事的一些过程、思考<br>近期在做 RSS 阅读器上花费了大把时间</p>
+<p>其实原先也可以不做，或者说技术方面某些地方还是有点欠缺<br>自己来做这个项目肯定会卡在某些细节上，花费更多的时间</p>
+<p>近一个月因为有 ChatGPT 的加入，就不知不觉中就折腾了起来</p>
+<h1 id="为什么需要自建"><a href="#为什么需要自建" class="headerlink" title="为什么需要自建"></a>为什么需要自建</h1><p>说说如果是使用现有软件的弊端</p>
+<ul>
+<li><strong>广告</strong>：个人经历过印象笔记的广告恶心人，当然国内目前好像就独此一家，真的败坏自己名声，那其他笔记软件保不定哪天也这么做，来一手，另外国内的软件基本都有广告作为营收，看个视频有广告、看个文章也有广告</li>
+<li><strong>制度随意变更</strong>：订阅制笔记软件 notability 变更制度的事件，具体可以搜索# notability 自 2021 年 11 月 1 日起由买断制变为订阅制</li>
+<li><strong>数据锁死</strong>：国内的软件都担心用户流失，都想把用户锁在自己的软件里面，将数据格式设计自己独有的格式，数据无法迁移，或者迁移非常难，这不由得让我想起以前的闭关锁国….</li>
+<li><strong>功能变化</strong>：软件可能会因为后续的升级而添加功能，有些可能是个人不想要的，国内大多数软件基本都是全家桶软件，用过都知道，非常臃肿，这也是 flomo 声明只做记录，不会添加多余的功能，会让人觉得是一股清流的原因</li>
+</ul>
+<p>自建优点：</p>
+<ul>
+<li>数据掌握权：数据在自己手上</li>
+<li>稳定性：<ul>
+<li>不会因为商业模式，因为没钱关闭（服务器的钱还是交得起的）</li>
+<li>不会政治话题等等原因关闭，</li>
+</ul>
+</li>
+<li>拓展性：可以根据自己想要的方案，增添删改功能</li>
+</ul>
+<p>总的来说就是会变化，以及变化后的不确定因素<br>商业软件，盈利的情况下，能运行多少年？10 年、20 年、30 年？<br>而且怎么确定运行这么多年不会变化？不会变化成臃肿的应用，例如印象笔记（点名批评😒）</p>
+<p>而自己搭建的话，软件会保持一个恒定的版本，不会随意变更，不会随意添加<br>最主要的就是<strong>稳定性</strong>吧<br>个人经历过几个应用的起伏了，所以放弃使用商业应用了<br>有使用 RSS 的应该多多少少知道以下应用（RSS 类、剪辑类）</p>
+<ul>
+<li>轻芒：太可惜了，说是运营问题，但估计涉及什么敏感话题请喝茶了？</li>
+<li>收趣：中途好像出了问题（忘记啥原因），放弃使用了</li>
+<li>印象笔记：从简单演变为 4 不像的臃肿应用，添加广告，一个笔记应用在其内疯狂打广告也是没谁了</li>
+<li>必收：不错的应用，后期不知道是不运营模式，还是什么，抓取方面挂了，非常喜欢的一个应用，可惜了</li>
+<li>等等</li>
+</ul>
+<h1 id="Rss-方案选择"><a href="#Rss-方案选择" class="headerlink" title="Rss 方案选择"></a>Rss 方案选择</h1><p>需要先了解下 RSS 是什么<br>rss 可以分为 <strong>RSS 阅读器</strong>和 <strong>RSS 源</strong></p>
+<ul>
+<li>RSS 源就是记录网址的一个 html（好像是xml），有更新，都会写在这里面</li>
+<li>RSS 阅读器就是解析 RSS 源，将里面信息显示出来的</li>
+</ul>
+<p>两者的关系其实有点类似浏览器与 html 文档，html 文档负责记录，浏览器负责解析渲染</p>
+<h2 id="RSS-源"><a href="#RSS-源" class="headerlink" title="RSS 源"></a>RSS 源</h2><p>Rss 源可以是使用别人提供，也可以是自己抓取生成</p>
+<p>大致分为以下 3 种，以下名字是自己定义的，方便理解</p>
+<ol>
+<li>官方源：官方自己生成分享出来的，很稳定，像知乎日报、少数派这些都有自己提供的源</li>
+<li>第三方源：有些网站没有提供源，这时候就只能自己去抓取网页内容生成 rss 源了，有些博主会将自己抓取生成后的源提供出来。</li>
+<li>自建：自己抓取网页生成源</li>
+</ol>
+<p>有些网站没有官方源，只能使用第三方源<br>而第三方源，虽然说可以使用，但保不准哪天就挂掉，或者博主不想维护了<br>所以个人也采用自建，来抓取一些没有官方源的网址</p>
+<p>个人以前看过 RssHub，但可能看的不仔细吧，觉得搭建很难，就没有在关注了<br>今年回过头来看，发现意外的简单，并不是因为技术提升<br>就确实蛮简单的，采用 nodejs 的方式来运行，几条命令就搞定了</p>
+<p>然后个人之前一直在微信公众号阅读，也有几个项目可以抓取，个人刚好有部手机，就采用了Feeddd这个项目</p>
+<p>所以源的生成这方面，个人采用以下两个方案</p>
+<ul>
+<li><p><a target="_blank" rel="noopener" href="https://github.com/DIYgod/RSSHub">RssHub</a> ：能够抓取大部分网站</p>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://feeddd.org/how-to-contribute">Feeddd</a>：抓取微信文章，免费，需要有部废弃手机， 一点折腾时间</p>
+<ul>
+<li>付费备选方案：<a target="_blank" rel="noopener" href="https://werss.app/">werss</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="RSS阅读器"><a href="#RSS阅读器" class="headerlink" title="RSS阅读器"></a>RSS阅读器</h2><p>Rss 阅读器其实网络有现成的方案、工具可以使用<br>如果说之前国内比较少，那近期付费买了梯子，可以说能使用的方案多出来很多</p>
+<ul>
+<li><p>国内</p>
+<ul>
+<li><p><a target="_blank" rel="noopener" href="https://www.qireader.com/">QiReader - A modern web RSS reader</a></p>
+</li>
+<li><p><a target="_blank" rel="noopener" href="https://egorss.com/zh/">Ego Reader - RSS阅读器</a></p>
+</li>
+</ul>
+</li>
+<li><p>国外</p>
+<ul>
+<li><p>Feedly</p>
+</li>
+<li><p>feed43</p>
+</li>
+<li><p>inoreader</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>可以使用上述软件，因为个人要自建，所以在 ChatGPT 的技术辅助支持下，投入了一些时间成本基于 Django 自建个非常简陋的 Web 应用<br>但因为个人没有多的域名可以演示，所以没有具体 Demo 给大家展示</p>
+<h3 id="蚁阅方案"><a href="#蚁阅方案" class="headerlink" title="蚁阅方案"></a>蚁阅方案</h3><p>一开始其实想要使用<a target="_blank" rel="noopener" href="https://github.com/anyant/rssant">Rssant</a>这个项目，毕竟有现成的轮子</p>
+<p>其实也是基于Django，不过因为个人技术不过关，原本想用这个自建尝试了下放弃了，不过这个项目确实很好，为博主点start</p>
+<p>而且会员也很便宜（会员版价格：<strong>5元&#x2F;月</strong> 或者 <strong>30元&#x2F;年</strong>），如果不想折腾的话，使用这个方案也可以，因为是Web端，所以手机和电脑的数据都是同步的</p>
+<p>现在很多RSS阅读器，都只有一端，所以不能全平台阅读，而有全平台的没有同步阅读的记录这个功能</p>
+<p>所以这个项目非常nice，如果不是自建，个人也会用这个应用</p>
+<h3 id="Cubox-方案"><a href="#Cubox-方案" class="headerlink" title="Cubox 方案"></a>Cubox 方案</h3><p>个人之前其实有采用Cubox作为RSS阅读器，通过抓取RSS源中链接，然后去请求到Cubox中去<br>请求后就会放到对应生成的文件夹下面</p>
+<p><img src="/../images/image-20230410141733597.png" alt="image-20230410141733597"></p>
+<p>但这个方案放弃了，怎么说，个人感觉因为不是针对RSS所设计的，所以使用起来，没有达到个人所想的那么丝滑<br>当然这个方案也用了几个月，目前也处于可用的状态</p>
+<p>感兴趣的小伙伴可以参考这个<a target="_blank" rel="noopener" href="https://github.com/l739217783/Rss2Cubox">仓库</a>，不过没有时间写ReadMe，需要自行研究</p>
+<h1 id="建议"><a href="#建议" class="headerlink" title="建议"></a>建议</h1><p>总体而言，个人推荐使用在线 RSS 应用，而非单客户端的应用<br>或者说支持数据同步的，因为有的应用虽然有开发电脑端和手机端，但两者间数据并不同步<br>数据不同步，你不知道哪些有阅读，哪些没有阅读，电脑上看了，手机上还是显示未看<br>所以个人主推在线 RSS 阅读器，而非本地 Rss 阅读器</p>
+<p>国内目前好像没有全平台的应用（容易产生版权问题、涉及敏感话题、商业模式等等问题导致挂比）</p>
+<h1 id="工具总结"><a href="#工具总结" class="headerlink" title="工具总结"></a>工具总结</h1><p>现在自己已经实现自建，全部自产自足<br>在这里总结下收录的工具，个人或许大概率不会用到了（有 1、2 个目前在用的）<br>以后有需要再翻回来看看</p>
+<ul>
+<li>类似功能<ul>
+<li><a target="_blank" rel="noopener" href="https://withpinbox.com/pricing">Pinbox - 跨平台收藏工具</a> ：稍后读应用</li>
+<li><a target="_blank" rel="noopener" href="http://wheremylife.cn/">WhereMyLife Kindle RSS 订阅新闻推送</a> ：可以在 Kindle 上阅读 RSS</li>
+<li><a target="_blank" rel="noopener" href="https://courier.toptopn.com/?from=i&c=2834">网页更新提醒</a> ：对网页进行监控的一个工具</li>
+<li>快知：信息聚合app</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/easychen/checkchan-dist">Check酱</a> ：网页内容变化监测</li>
+<li><a target="_blank" rel="noopener" href="https://sspai.com/post/73255">n8n</a> ：开源自动化流程搭建工具</li>
+</ul>
+</li>
+<li>Rss源<ul>
+<li>寻找源方法<ul>
+<li>搜索「XX 个必读的 RSS 订阅源」</li>
+<li>网站名 + RSS（关键字搜索）</li>
+</ul>
+</li>
+<li>导航网站类（已整理好的）<ul>
+<li><a target="_blank" rel="noopener" href="https://rss-source.com/">RSS Source | RSS订阅源推荐</a></li>
+<li><a target="_blank" rel="noopener" href="https://getpodcast.xyz/">播客 RSS Feed</a></li>
+<li><a target="_blank" rel="noopener" href="https://shimo.im/docs/iwRFK7VNmZIxnuL7/read">RSS 订阅源整理</a></li>
+</ul>
+</li>
+<li><a target="_blank" rel="noopener" href="https://feed43.com/">Feed43</a>：需要魔法，任意网页转Rss</li>
+<li>在线工具系列<ul>
+<li><a target="_blank" rel="noopener" href="https://rss.lilydjwg.me/">知乎转Rss</a></li>
+<li><a target="_blank" rel="noopener" href="http://jianshu.milkythinking.com/">简书转 RSS</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/LiMingYuGuang/bilibili2rss">bilibili 转 RSS</a></li>
+<li><a target="_blank" rel="noopener" href="https://werss.app/">WeRss - 微信公众号 RSS 订阅</a> ：付费提供 RSS 源</li>
+</ul>
+</li>
+<li>油猴脚本，检查网站是否有Rss源<ul>
+<li><a target="_blank" rel="noopener" href="https://github.com/idealclover/Easy-to-RSS">Easy-to-RSS</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/DIYgod/RSSHub-Radar/">RSSHub Rader</a> ：Chrome 插件，有的话，插件会提示</li>
+<li><a target="_blank" rel="noopener" href="https://greasyfork.org/zh-CN/scripts/373252-rss-show-site-all-rss">RSS+</a> ：油猴脚本，有的话，右下角有圆点提示</li>
+</ul>
+</li>
+<li><a target="_blank" rel="noopener" href="https://feedx.best/zhihudaily">FeedX</a> : 一个博主在维护的源</li>
+<li><a target="_blank" rel="noopener" href="https://hamibot.com/login">Hamibot</a> ：配合 Feeddd 项目生成源</li>
+<li>Huginn：开源抓取工具，门槛较高<ul>
+<li><a target="_blank" rel="noopener" href="https://github.com/huginn/huginn">Github 仓库</a></li>
+<li><a target="_blank" rel="noopener" href="https://huginn.cn/">博客介绍</a></li>
+</ul>
+</li>
+<li><a target="_blank" rel="noopener" href="https://wx.qnmlgb.tech/">瓦斯阅读</a> ：付费订阅，获取 RSS 订阅地址</li>
+<li><a target="_blank" rel="noopener" href="http://www.jintiankansha.me/">今天看啥</a> ：一个专注于通过 RSS 订阅微信公众号的平台</li>
+<li>Feddd：一个免费提供源的网站、也可以配合上面 Hamibot 自己抓取<ul>
+<li><a target="_blank" rel="noopener" href="https://feeddd.org/how-to-contribute">官网</a></li>
+<li><a target="_blank" rel="noopener" href="https://github.com/feeddd/feeds">github项目</a></li>
+</ul>
+</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/DIYgod/RSSHu">RSSHub</a>：为网站创建源，适配大多网站<ul>
+<li>可以使用别人搭建的 RSSHub 站点，用搜索引擎搜索关键字 <code>Welcome to RSSHub!</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Rss 阅读器<ul>
+<li>Feedly：要魔法</li>
+<li>RSS Tracker：WIN10应用商店查找，试用 14 天，¥14.00</li>
+<li><a target="_blank" rel="noopener" href="https://www.microsoft.com/zh-cn/p/rss-stalker/9n85pv1rjd6v">RSS Stalker</a>(RSS追踪)：WIN10，售价 7 元人民币，可试用7天</li>
+<li><a target="_blank" rel="noopener" href="https://www.innoreader.com/apps">Inoreader</a> ：国外老牌 RSS 应用，国内访问有时候不稳定，支持免费和付费方案，虽说不稳定，但功能很强大，该有的都有</li>
+<li><a target="_blank" rel="noopener" href="https://www.qireader.com/login">qireader</a> : 一个不错的在线 Rss 阅读器，界面优雅</li>
+<li><a target="_blank" rel="noopener" href="https://egorss.com/zh/">Ego Reader</a> ：手机端 Rss 阅读器</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/yang991178/fluent-reader">Fluent Reader</a> ：电脑端很好用的 Rss 阅读器，免费使用、支持自定义词语过滤</li>
+<li><a target="_blank" rel="noopener" href="http://irreader.fatecore.com/">irreader 阅读器</a> ：很强的 RSS 阅读器，不过界面不够优雅</li>
+<li><a target="_blank" rel="noopener" href="https://gitee.com/anyant/rssant#%E4%BD%9C%E8%80%85%E8%BF%91%E5%86%B5">蚁阅</a> ：开源以及付费的在线 RSS 服务</li>
+<li>自建系列（开源Rss阅读器）<ul>
+<li>FreshRss</li>
+<li>TinyTinyRss</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>一些相关教程<ul>
+<li><a target="_blank" rel="noopener" href="https://sspai.com/post/64289">再次折腾 RSS 之搭建 FreshRSS 服务</a>：FreshRSS 构建教程</li>
+<li><a target="_blank" rel="noopener" href="https://sspai.com/post/57498">找不到满意的 RSS 服务？你可以自己搭建一个</a>：Tiny Tiny RSS 构建教程</li>
+<li><a target="_blank" rel="noopener" href="https://sspai.com/post/41302"># 如何搭建属于自己的 RSS 服务，高效精准获取信息 - 少数派</a>：Tiny Tiny RSS 构建教程 2</li>
+<li><a target="_blank" rel="noopener" href="https://www.tjsky.net/tutorial/644">翻译 RSS 订阅源</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+
+
+<!-- 评论 -->
+
+    <div class="imqi1-comment imqi1-fadeUp" id="comments">
+        <!-- Waline 评论容器 -->
+        <div id="waline"></div>
+    </div>
+
+    <!-- 异步加载 Waline 样式 -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+        id="waline-style"
+    />
+
+    <!-- 异步加载 Waline 脚本 -->
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            var script = document.createElement('script');
+            script.src = "/js/comment.js";
+            script.type = "module"
+            script.async = true; // 或者使用 script.defer = true;
+            document.body.appendChild(script);
+        });
+    </script>
+
+
+
+<!-- 代码块复制、高亮 -->
+
+<script src="/js/highlight.min.js"></script>
+<script src="/js/highlightjs-line-numbers.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+  // 初始化高亮
+  hljs.highlightAll();
+
+  // 为每个代码块添加行号
+  document.querySelectorAll('code.hljs').forEach((el) => {
+    hljs.lineNumbersBlock(el);
+  });
+});
+</script>
+<script>
+  // 更新目录高亮的函数
+  function updateTocHighlight() {
+        // 获取所有的标题和目录链接
+    const headings = document.querySelectorAll('.imqi1-content h1, .imqi1-content h2, .imqi1-content h3, .imqi1-content h4, .imqi1-content h5, .imqi1-content h6');
+    const tocLinks = document.querySelectorAll('.toc-list .toc-list-item a');
+    // 清除所有活跃状态
+    tocLinks.forEach(link => link.classList.remove('is-active'));
+
+    // 获取滚动位置
+    const scrollPosition = window.scrollY + (window.innerHeight || document.documentElement.clientHeight) / 2;
+    let currentActive = null;
+
+    // 遍历所有标题，找到最接近视口顶部的标题
+    headings.forEach(heading => {
+      const headingPosition = heading.offsetTop;
+      const headingId = heading.id;
+      const link = document.querySelector(`.toc-list .toc-link[href="#${headingId}"]`);
+      if (headingPosition <= scrollPosition && (!currentActive || headingPosition > currentActive.position)) {
+        currentActive = { link: link, position: headingPosition };
+      }
+    });
+
+    // 如果找到了活跃的标题，添加活跃状态
+    if (currentActive && currentActive.link) {
+      currentActive.link.classList.add('is-active');
+    }
+  }
+// 当文档加载完成后执行
+document.addEventListener('DOMContentLoaded', function () {
+
+// 监听页面滚动事件
+window.addEventListener('scroll', updateTocHighlight);
+
+// 初次调用更新函数，以确保加载页面时高亮正确的目录项
+updateTocHighlight();
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // 获取包含所有目录链接的父元素
+  const tocList = document.querySelector(".toc-list");
+  if (tocList) {
+    // 使用事件委托监听点击事件
+    tocList.addEventListener("click", function (event) {
+        
+      // 检查点击的是否是 a 标签
+      if (event.target.tagName === "A") {
+        // 移除已有（移除所有链接的 'is-active' 类）
+        document.querySelectorAll(".toc-link").forEach((link) => {
+          link.classList.remove("is-active");
+        });
+        // 为被点击的链接添加 'is-active' 类
+        event.target.classList.add("is-active");
+
+        // 阻止默认的锚点导航行为
+        event.preventDefault();
+
+        // 获取锚点对应的元素 ID
+        const targetId = event.target.getAttribute('href').substring(1);
+        // 找到对应的元素
+        const targetElement = document.getElementById(targetId);
+        if (targetElement) {
+          // 计算目标元素相对于文档顶部的位置
+          const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+
+          // 检查目标元素是否是 h2 标签
+          if (targetElement.tagName === 'H2' || targetElement.tagName === 'H3') {
+            // 如果是 h2 标签，添加额外的偏移量
+            const additionalOffset = 70; // 根据实际情况调整这个值
+            window.scroll({
+              top: targetPosition - additionalOffset,
+              left: 0,
+              behavior: 'smooth'
+            });
+          } else {
+            // 如果不是 h2 标签，直接滚动到目标位置
+            targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+          // 移除滚动事件（显示阅读进度），防止相互影响
+          window.removeEventListener('scroll', updateTocHighlight);
+        }
+      }
+    // 点击事件结束后再添加回去滚动事件（显示阅读进度）
+    window.addEventListener('scroll', updateTocHighlight);
+    });
+
+  }
+});
+
+</script>
+        </div>
+
+        <!-- 脚本 -->
+        <script src="/js/events.js"></script>
+        
+<script src="/js/fancybox.js"></script>
+
+        <footer class="imqi1-footer2">
+
+  <!-- 备案信息 -->
+  <div class="footer-beian">
+    <span>2024 © <a href="https://imqi1.com/" target="_blank">ImQi1</a></span> |
+    <!-- ICP -->
+    
+        <a href="https://beian.miit.gov.cn" target="_blank">京ICP证123456号</a>
+
+        <a href="https://beian.miit.gov.cn" target="_blank">京公网安备12345678号</a>
+    
+  </div>
+
+
+  <div class="footer-links">
+    
+        <a href="/feed.xml" style="padding-left:2px;">RSS</a>
+    
+        <a target="_blank" rel="noopener" href="https://travellings.cn/go.html" style="padding-left:2px;">开往</a>
+    
+        <a target="_blank" rel="noopener" href="https://foreverblog.cn/go.html" style="padding-left:2px;">虫洞</a>
+    
+        <a target="_blank" rel="noopener" href="https://www.upyun.com/?utm_source=lianmeng&amp;utm_medium=referral" style="padding-left:2px;">又拍云</a>
+    
+  </div>
+  
+</footer>
+        <!-- 悬浮按钮组 -->
+
+<div class="imqi1-footer-buttons">
+    <div class="imqi1-footer-button" id="scroll-top">
+        <i class="ri-arrow-up-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="theme-toggle">
+        <i class="ri-moon-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="music-player">
+        <i class="ri-headphone-line"></i>
+    </div>
+</div>
+
+    </body>
+
+</html>

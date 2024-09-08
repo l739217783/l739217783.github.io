@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hexo</title>
+    <link>http://example.com/</link>
+    
+    <image>
+      <url>http://example.com/icon.png</url>
+      <title>Hexo</title>
+      <link>http://example.com/</link>
+    </image>
+    
+    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Fri, 23 Aug 2024 14:48:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>下架友链页面</title>
+      <link>http://example.com/2024/08/23/2024.08.23/</link>
+      <guid>http://example.com/2024/08/23/2024.08.23/</guid>
+      <pubDate>Fri, 23 Aug 2024 13:23:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;有看我近期文章的应该知道，我近期在精简电子数据方面（软件、账户）&lt;br&gt;这2天在对博客的一些小方面进行调整，今天决定下架友链页面&lt;br&gt;给所有之前的添加友链的友友发封邮件声明下，然后现在就下架了&lt;/p&gt;
+&lt;p&gt;搜索了下Obsidian，以为之前提过「友链」 这个话题，没想到没有，可能是脑子有想法，但没有记录下来&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/../images/image-202408</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>有看我近期文章的应该知道，我近期在精简电子数据方面（软件、账户）<br>这2天在对博客的一些小方面进行调整，今天决定下架友链页面<br>给所有之前的添加友链的友友发封邮件声明下，然后现在就下架了</p><p>搜索了下Obsidian，以为之前提过「友链」 这个话题，没想到没有，可能是脑子有想法，但没有记录下来</p><p><img src="/../images/image-20240823212707013.png" alt="image-20240823212707013"></p><p>那时候建立博客，没多久就创建友链页面，并且一直保持至今</p><p>现在回想起来，算是跟风的做法，就是别人的网站有我也要有<br>但想想我实际并不需要这个板块，其实很早就有放弃这个板块的想法了，只是一直没有付诸行动</p><p>我讲讲一些缘由</p><ol><li><strong>RSS聚合</strong>：我个人算是RSS的重度患者吧，包括像微信公众号、周刊、B站等都进行了聚合，我仅在RSS阅读器中阅读，博客也是如此，我基本不会将友链页面作为入口，可以一步到位的事情，干嘛要低效率，一个个访问博客，看下有没有更新文章真的是低效率的方式；扯句题外话，我真觉得RSS应该是每个内容型或者说博客必备的东西（虽然会影响PV），当然这仅是我的想法，不代表所有人的想法（狗头保命）</li><li><strong>精简</strong>：基于第一点，个人是极简博主，功能上重复，那么就是二选一的事情</li><li><strong>名片</strong>：有的人会说，那不作为入口，挂名展示也可以啊，这个东西怎么说呢，感觉背离初衷吧，「友情链接」重的是友情，而非展示，这东西本意是建立在友情上面， 如果素不相识，你加我，我加你，双方完全无任何互动也没有任何意义，那挂这个名头好看吗？况且我不认为，双方挂个名字就成好友，那按这个逻辑，加上了友链就是好友，删除友链就不是好友🙃，况且基于第一点，其实有价值、经常互动的友友我都是有加RSS关注的，有新文章我也会去互动互动，我不是通过名片的方式来向外界证实你我的关系，而是互动与价值；我后面也不会再向任何网站发送友情链接了（都没友情链接页面了，怎么互换挂名😄）</li><li><strong>维护</strong>：任何长久的东西是需要维护的，挂了对方的网站，有可能换头像头像链接挂了，有可能换域名了，有可能网站关闭了，这些都需要花费时间精力去维护，况且我自己更是折腾，用<code>uptimerobot</code>给各个友友做了一个网站服务的检测（非爬虫，低频率检测，主要用于提醒个人关站通知），我在<a href="https://linguoguang.com/2024/07/07/2024.07.07/#%E8%B0%88%E5%8D%9A%E5%AE%A2">六七月杂谈二三</a>中提过，博客方面我现在只希望纯粹点，将主要精力集中在内容，而非维护这件事情上。</li></ol><p>另外一篇个人感觉写的不错的文章：<a href="https://yinji.org/1468.html/comment-page-4#comment-3381">友情链接：先友情后链接，不是为了链接而链接</a></p><p>虽然网站是我的网站，下架与否是我的自由，没有必要解释一堆有的没的，下架就完事了</p><p>本篇主要是给各位友友说下缘由（发邮件附带了本篇文章链接），有的缘由讲起来可能还会对之前已加友链的好友有点点冒犯😅，算是解释下个人这么做的动机吧（主要还是断舍离，精简，不对之前挂链的友友带有任何偏见）</p><p>另外，写本篇是一种对自己的解释吧（意识），我现在是这样认为的，不代表我以后是这样认为的，后续想加，可以看看当时（现在）是怎么想的</p><p>写完，下架，发邮件告知去~</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      <category domain="http://example.com/tags/%E6%80%9D%E8%80%83/">思考</category>
+      
+      <category domain="http://example.com/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF-%E8%AE%A4%E7%9F%A5/">个人成长/认知</category>
+      
+      
+      <comments>http://example.com/2024/08/23/2024.08.23/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Waline_自定义表情包</title>
+      <link>http://example.com/2024/08/22/2024.08.22/</link>
+      <guid>http://example.com/2024/08/22/2024.08.22/</guid>
+      <pubDate>Thu, 22 Aug 2024 13:58:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;参考资料&quot;&gt;&lt;a href=&quot;#参考资料&quot; class=&quot;headerlink&quot; title=&quot;参考资料&quot;&gt;&lt;/a&gt;参考资料&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.jsdelivr.com/?docs=gh&quot;&gt;jsdelivr&lt;/a&gt;：开源CDN使用教程&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://waline.netlify.app/clie</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol><li><a href="https://www.jsdelivr.com/?docs=gh">jsdelivr</a>：开源CDN使用教程</li><li><a href="https://waline.netlify.app/client/emoji.html#%E9%A2%84%E8%AE%BE">自定义表情 - Waline</a>：Waline官方文档</li><li><a href="https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/info.json">sticker-heo</a>：参考写法</li><li><a href="https://www.emojiall.com/zh-hans/image-emoji-platform/telegram/animation/jQuery">Telegram Emoji - EMOJIALL</a>：Telegram Emoji资源下载</li><li><a href="https://github.com/zhheo/Sticker-Heo">Heo -Github</a>：Heo表情资源</li><li><a href="https://www.shimoko.com/p/emojiandelse/">网站一些小变化</a>：参考使用、表情包资源</li></ol><h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>前端时间看到个博友的评论支持Telegram Emoji，博客圈感觉比较少见<br>就自己摸索尝试下自己添加，行的通，不过后续为了访问速度考虑（由于表情是动态的），还是删除了，另外也把现有的表情精简了下，仅保留了一个<a href="https://blog.zhheo.com/">张洪大大</a>设计的Heo表情包</p><p>Waline官方其实写的蛮清楚，不过个人再记录总结下整体流程，以后也有可能用的上</p><p>我分为2个板块来讲</p><ol><li>自部署：自己部署表情包、自定义表情包，不怕404、减少404的概率</li><li>开箱即用：别的博主、Waline封装好的链接，直接添加到Waline的设置中即可</li></ol><h1 id="自部署"><a href="#自部署" class="headerlink" title="自部署"></a>自部署</h1><h2 id="资源准备"><a href="#资源准备" class="headerlink" title="资源准备"></a>资源准备</h2><p>第一步准备2样东西</p><ol><li>表情包合集（图片资源）</li><li><code>info.json</code>：Waline读取使用</li></ol><p>先要准备些图片资源或者表情包资源，如果是图片资源的话，要求尺寸大小一致，例如都是100*100<br>将这些图片放在一个文件夹下，并且在该文件夹下创建一个<code>info.json</code></p><p>示例（Heo表情包）</p><p><img src="/../images/image-20240822223049031.png" alt="image-20240822223049031"></p><p><code>info.json</code> 是一个 json文件，下面讲解各个参数</p><pre><code class="json">&#123;  &quot;name&quot;: &quot;我的 Emoji&quot;,  &quot;prefix&quot;: &quot;my_&quot;,  &quot;type&quot;: &quot;png&quot;,  &quot;icon&quot;: &quot;cute&quot;,  &quot;items&quot;: [&quot;laugh&quot;, &quot;sob&quot;, &quot;rage&quot;, &quot;cute&quot;]&#125;</code></pre><ul><li><p><code>name</code>：Emoji 名称（不被任何其他地方引用，仅json文件中定义知道）</p></li><li><p><code>prefix</code> (可选的)：Emoji 图片名称的通用前缀，建议是为一个系列的表情包添加一个共用前缀，以防与其他 Emoji 缩写相冲突（例如有多个表情包，表情包1系列中有叫A，表情包2系列中有叫A）</p></li><li><p><code>type</code> (可选的): 图片的类型，会用作图片的后缀名，如果使用不同类型的图片，将此项留空并在之后的两个选项中手动指定后缀名。</p></li><li><p><code>icon</code>：选项卡中显示的图片 （代表性的图标）<br><img src="/../images/20240822234856.png" alt="image.png"></p></li><li><p><code>items</code>：表情包图片</p></li></ul><p>Heo示例（<code>info.json</code>写法）</p><pre><code class="json">&#123;  &quot;name&quot;: &quot;Heo&quot;,  &quot;type&quot;: &quot;png&quot;,  &quot;icon&quot;: &quot;亲亲&quot;,  &quot;items&quot;: [    &quot;亲亲&quot;,    &quot;倚墙笑&quot;,    &quot;值得肯定&quot;,    &quot;偷偷看&quot;,    &quot;危险&quot;,    &quot;吃瓜&quot;,    &quot;吵架&quot;,    &quot;呲牙笑&quot;,    &quot;喜欢&quot;,    &quot;嘿哈&quot;,    &quot;大笑&quot;,    &quot;好的&quot;,    &quot;害羞&quot;,    &quot;开心&quot;,    &quot;微笑&quot;,    &quot;思考&quot;,    &quot;惊吓&quot;,    &quot;惊吓白眼&quot;,    &quot;惊讶&quot;,    &quot;感动&quot;,    &quot;愤怒&quot;,    &quot;扶额&quot;,    &quot;捂嘴笑&quot;,    &quot;捂脸&quot;,    &quot;擦汗&quot;,    &quot;没招&quot;,    &quot;流汗微笑&quot;,    &quot;滑稽&quot;,    &quot;滑稽吃瓜&quot;,    &quot;滑稽喝水&quot;,    &quot;滑稽奶茶&quot;,    &quot;滑稽柠檬&quot;,    &quot;滑稽狂汗&quot;,    &quot;狗头&quot;,    &quot;狗头意外&quot;,    &quot;疑问&quot;,    &quot;眩晕&quot;,    &quot;笑哭&quot;,    &quot;翻白眼&quot;,    &quot;被打&quot;  ]&#125;</code></pre><h2 id="托管"><a href="#托管" class="headerlink" title="托管"></a>托管</h2><h3 id="Gihtub-jsdelivr"><a href="#Gihtub-jsdelivr" class="headerlink" title="Gihtub+jsdelivr"></a>Gihtub+jsdelivr</h3><p>先新建一个Github仓库（名字自定，我这里仅是示例）<br><img src="/../images/image-20240822231526966.png" alt="image-20240822231526966"></p><p>然后将自己的表情包文件夹中的文件（表情包+<code>info.json</code>）上传到仓库<br>我这里使用Github直接上传文件（会使用Git的应该不用我讲解&#x3D; &#x3D;，直接上传）</p><p><img src="/../images/image-20240822231559437.png" alt="image-20240822231559437"></p><p><img src="/../images/image-20240822231713327.png" alt="image-20240822231713327"></p><p>上传后，我们在这个仓库的主页，点击右侧创建第一个版本</p><p><img src="/../images/image-20240822231848061.png" alt="image-20240822231848061"></p><p>输入0.1，点击create创建第一个版本发布<br>由于我们是自用，下面都随便填好了，我这里都填写0.1</p><p><img src="/../images/image-20240822232027583.png" alt="image-20240822232027583"></p><p>然后发布这个0.1版本</p><p><img src="/../images/image-20240822232045465.png" alt="image-20240822232045465"></p><p>之后参考<a href="https://www.jsdelivr.com/?docs=gh">jsdelivr</a>的写法，建立一个公共CDN</p><p>写法为：<code>https://cdn.jsdelivr.net/gh/user/repo@version/file</code></p><p>我们先写一个（这里做参考使用，用户名、仓库名、版本名自己改）：<code>https://github.com/l739217783/demo@0.1/info.json</code></p><p>运行一次后，会建立一个公共CDN节点<br>之后我们就可以在Waline中配置该链接（<code>https://github.com/l739217783/demo@0.1/</code>），使用该表情包，具体配置见<a href="#Waline%E9%85%8D%E7%BD%AE">Waline配置</a></p><h3 id="又拍云"><a href="#又拍云" class="headerlink" title="又拍云"></a>又拍云</h3><p>有时候<code>jsdelivr</code>不够稳定，甚至会挂比<br>我们可以托管在又拍云上，或者自己的服务器上，我有使用又拍云，所以分享下</p><p>首先，确保我们使用了云存储服务</p><p><img src="/../images/image-20240822232708228.png" alt="image-20240822232708228"></p><p>然后使用「文件管理」功能，在根目录下创建一个emoji文件夹</p><p><img src="/../images/image-20240822232749982.png" alt="image-20240822232749982"></p><p>再在下面创建一个表情包合集的文件夹，例如我使用heo，那么建立一个heo文件夹<br><img src="/../images/image-20240822232858350.png" alt="image-20240822232858350"></p><p>之后，将表情包（所有表情包图片+<code>info.json</code>）上传到这个文件夹</p><p><img src="/../images/image-20240822232942332.png" alt="image-20240822232942332"></p><p> 之后就可以通过绑定的域名，来访问这些表情包<br>例如，你绑定的域名是<code>www.baidu.com</code>，我们路径是<code>/emoji/heo</code><br>那么你的URL则是<code>https://www.baidu.com/emoji/heo</code>，自己类推</p><p>之后在Waline配置即可，参考<a href="#Waline%E9%85%8D%E7%BD%AE">Waline配置</a></p><p>需要注意的是，如果你已经启用了HTTPS，在本地先调试的，要配置下CORS跨域<br>因为本地调试是http协议，而又拍云启用HTTPS，链接则是https协议，这样访问会造成了CORS跨域问题，导致Waline加载<code>info.json</code>失败，间接导致所有的表情包合集加载不出来</p><p><img src="/../images/image-20240822233315265.png" alt="image-20240822233315265"></p><p>Referer 防盗链也是，如果在在本地先调试的，可以暂时关闭下<br>否则可能也加载不出来资源，会被拦截掉</p><p><img src="/../images/image-20240822233435635.png" alt="image-20240822233435635"></p><h1 id="开箱即用"><a href="#开箱即用" class="headerlink" title="开箱即用"></a>开箱即用</h1><h2 id="资源"><a href="#资源" class="headerlink" title="资源"></a>资源</h2><table><thead><tr><th>表情包名称</th><th>类型</th><th>地址</th></tr></thead><tbody><tr><td>Alus（阿鲁）</td><td>静态</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus</a></td></tr><tr><td>Bilibili</td><td>静态</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili</a></td></tr><tr><td>QQ</td><td>动态</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq</a></td></tr><tr><td>Tieba</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba</a></td></tr><tr><td>Weibo</td><td>静态</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo</a></td></tr><tr><td>Heo</td><td>静态</td><td><a href="https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/">https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/</a></td></tr><tr><td>menhera酱原版</td><td>？？？</td><td><a href="https://img.shimoko.com/waline_emojis/emojis-main/menhera">https://img.shimoko.com/waline_emojis/emojis-main/menhera</a></td></tr><tr><td>menhera酱-变猫猫</td><td>？？？</td><td><a href="https://img.shimoko.com/waline_emojis/emojis-main/menhera-Cat">https://img.shimoko.com/waline_emojis/emojis-main/menhera-Cat</a></td></tr><tr><td>menhera酱-情人节</td><td>？？？</td><td><a href="https://img.shimoko.com/waline_emojis/emojis-main/menhera-Valentine">https://img.shimoko.com/waline_emojis/emojis-main/menhera-Valentine</a></td></tr><tr><td>menhera酱-小魔女</td><td>？？？</td><td><a href="https://img.shimoko.com/waline_emojis/emojis-main/menhera-Witch">https://img.shimoko.com/waline_emojis/emojis-main/menhera-Witch</a></td></tr><tr><td>Bilibili-233表情</td><td>？？？</td><td><a href="https://img.shimoko.com/waline_emojis/emojis-main/bilibili-2233">https://img.shimoko.com/waline_emojis/emojis-main/bilibili-2233</a></td></tr><tr><td>Whatcccat</td><td>？？？</td><td><a href="https://img.shimoko.com/waline_emojis/emojis-main/whatcccat">https://img.shimoko.com/waline_emojis/emojis-main/whatcccat</a></td></tr><tr><td>Twitter - emoji</td><td>静态</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji</a></td></tr><tr><td>Twitter - Full</td><td>静态</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw</a></td></tr><tr><td>Twitter - People</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-people">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-people</a></td></tr><tr><td>Twitter - Body</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-body">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-body</a></td></tr><tr><td>Twitter - Flag</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-flag">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-flag</a></td></tr><tr><td>Twitter - Food</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-food">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-food</a></td></tr><tr><td>Twitter - Natural</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-natural">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-natural</a></td></tr><tr><td>Twitter - Object</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-object">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-object</a></td></tr><tr><td>Twitter - Sport</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-sport">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-sport</a></td></tr><tr><td>Twitter - Symbol</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-symbol">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-symbol</a></td></tr><tr><td>Twitter - Time</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-time">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-time</a></td></tr><tr><td>Twitter - Travel</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-travel">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-travel</a></td></tr><tr><td>Twitter - Weather</td><td>？？？</td><td><a href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-weather">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-weather</a></td></tr></tbody></table><p>注：</p><ol><li><code>？？？</code>代表个人未尝试，所以不知道是什么图片类型，感兴趣的自己尝试下</li><li><code>https://img.shimoko.com/</code> 开头链接，均为 <a href="https://www.shimoko.com/">Shimoko</a> 博主自托管提供，使用他的表情包的话，最好感谢下，毕竟是自托管分享（用爱发电），也没有设置限制，我这里仅是作为合集。</li></ol><h2 id="Waline配置"><a href="#Waline配置" class="headerlink" title="Waline配置"></a>Waline配置</h2><p>Waline是通过<code>emoji</code>选项设置表情包的，<code>emoji</code>选项的值是一个列表，直接往里面丢别人托管好的表情包即可</p><p>每个主题都是大同小异，找到Waline对应的配置（大多肯定有这个选项，没有的话就去布局文件夹里面找实例自己动手修改）</p><pre><code class="js">Waline(&#123;  el: &#39;#waline&#39;,  serverURL: &#39;&lt;YOUR SERVER URL&gt;&#39;,  // 设置 emoji 为微博与哔哩哔哩  emoji: [    &#39;https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo&#39;,    &#39;https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili&#39;,  ],&#125;);</code></pre><p>我个人使用Fluid主题，是在主题配置文件修改<br>像这样</p><pre><code class="yaml">waline:  emoji: [&#39;https://image.linguoguang.com/emoji/heo&#39;]</code></pre><p>配置完，重新部署即可</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      
+      <comments>http://example.com/2024/08/22/2024.08.22/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>个人网盘精简历程（坚果云&amp;阿里云盘）</title>
+      <link>http://example.com/2024/08/18/2024.08.18/</link>
+      <guid>http://example.com/2024/08/18/2024.08.18/</guid>
+      <pubDate>Sun, 18 Aug 2024 06:36:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;近期个人在精简账户、软件&lt;br&gt;我目前在用的网盘软件有2款，坚果云与阿里云盘&lt;br&gt;坚果云个人拿来备份重要的文件，阿里云拿来存储一些资源（看番剧、存储图片等）&lt;/p&gt;
+&lt;p&gt;之前阿里云盘不支持自动同步，所以一直没有尝试精简掉坚果云&lt;br&gt;现在阿里云盘支持自动同</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>近期个人在精简账户、软件<br>我目前在用的网盘软件有2款，坚果云与阿里云盘<br>坚果云个人拿来备份重要的文件，阿里云拿来存储一些资源（看番剧、存储图片等）</p><p>之前阿里云盘不支持自动同步，所以一直没有尝试精简掉坚果云<br>现在阿里云盘支持自动同步自定文件夹了，刚好近期在精简软件账户，所以尝试下从软件体系中删除掉坚果云，这样使用的软件又少了一个</p><p>当然体验感与性价比方面上还是有一点区别，全看个人选择</p><table><thead><tr><th></th><th>阿里云盘</th><th>坚果云</th></tr></thead><tbody><tr><td>同步方式</td><td>单向同步</td><td>双向同步</td></tr><tr><td>容量（免费）</td><td>100GB</td><td>空间受限于上传流量<br />上传流量1G&#x2F;月<br />下载流量3G&#x2F;月</td></tr><tr><td>自动备份</td><td>支持</td><td>支持</td></tr><tr><td>Webdav</td><td>付费、第三方免费</td><td>免费</td></tr></tbody></table><ul><li>双向同步：会保证你的云盘和本地磁盘上的同步文件夹里面的文件保持一致。</li><li>单向同步：只让电脑端修改云盘，云盘的变动不会影响电脑端</li></ul><p>本篇只是分享下个人工作流的变化<br>有需要精简可借鉴参考，我也讲讲一些需要注意事项的地方</p><h1 id="差异"><a href="#差异" class="headerlink" title="差异"></a>差异</h1><p>个人网盘主要使用2点功能，下面分享下差异</p><ol><li>自动同步：备份重要文件</li><li>Webdav：与第三方应用进行联动</li></ol><h2 id="同步文件夹"><a href="#同步文件夹" class="headerlink" title="同步文件夹"></a>同步文件夹</h2><h3 id="坚果云"><a href="#坚果云" class="headerlink" title="坚果云"></a>坚果云</h3><p>同步文件夹方法：坚果云直接在需要同步的文件夹下选择同步该文件夹</p><p><img src="/../images/image-20240818145213891.png" alt="image-20240818145213891"></p><p>同步位置：坚果云同步后，该文件夹会直接直接存储在云盘根目录</p><p><img src="/../images/image-20240818145528602.png" alt="image-20240818145528602"></p><p>同步方式：坚果云采用的是「双向同步」 </p><ul><li>本地删除——&gt;云端同步删除</li><li>云端删除——&gt;本地无变化</li></ul><p>示例（本地删除）</p><p>在D盘建立一个DEMO的文件夹，并且在该目录下建立2份txt（<code>a.txt</code>、<code>b.txt</code>）</p><p><img src="/../images/image-20240818150821318.png" alt="image-20240818150821318"></p><p>然后同步该文件夹<img src="/../images/image-20240818150125919.png" alt="image-20240818150125919"></p><p>同步后效果图（坚果云中就有该文件夹了）<br><img src="/../images/image-20240818150331796.png" alt="image-20240818150331796"></p><p><img src="/../images/image-20240818151142836.png" alt="image-20240818151142836"></p><p>如果本地删除a，那么云盘也会跟着删除a<br>这就是双向同步，云盘会保持跟本地目录结构一致</p><p><img src="/../images/image-20240818151700819.png" alt="image-20240818151700819"></p><p>示例（云端删除）<br>我在D盘建立一个DEMO的文件夹，在目录下建立2份txt，一个叫a.txt，一个叫b.txt</p><p>然后同步该文件夹</p><p><img src="/../images/image-20240818150125919.png" alt="image-20240818150125919"></p><p>同步后效果图（坚果云中就有该文件夹了）<br><img src="/../images/image-20240818150331796.png" alt="image-20240818150331796"></p><p>如果云端删除该同步文件夹，本地不会有任何变化</p><p><img src="/../images/image-20240818150545243.png" alt="image-20240818150545243"><br><img src="/../images/image-20240818152013466.png" alt="image-20240818152013466"></p><h3 id="阿里云盘"><a href="#阿里云盘" class="headerlink" title="阿里云盘"></a>阿里云盘</h3><p>同步文件夹方法：<br>阿里云盘，打开客户端，进入「自动同步」页面，选择同步指定文件夹</p><p><img src="/../images/image-20240818145331234.png" alt="image-20240818145331234"> </p><p>同步位置：</p><p>同步后，会在「根目录」的「备份文件夹」 下建立一个跟电脑同名的文件夹，存储在里面<br>例如，个人电脑名称：DESKTOP-ERDGGA7，路径如图所示</p><p><img src="/../images/image-20240818145650196.png" alt="image-20240818145650196"></p><p>同步方式：</p><p>阿里云盘采用的是单向同步，本地和云端可以看成两个相互独立的空间</p><ul><li>本地删除——&gt;云端无变化</li><li>云端删除——&gt;本地无变化</li></ul><p>示例（本地删除）</p><p>新建立一个Demo文件夹，并且在里面创建2个文本文件（<code>a.txt</code>、<code>b.txt</code>）<br><img src="/../images/image-20240818153156477.png" alt="image-20240818153156477"></p><p>同步该文件夹<br><img src="/../images/image-20240818153236752.png" alt="image-20240818153236752"></p><p><img src="/../images/image-20240818153333369.png" alt="image-20240818153333369"></p><p>如果本地删除<code>a.txt</code>，云盘不会删除<code>a.txt</code><br>这里删除<code>a.txt</code>，可以看到状态已同步<br><img src="/../images/image-20240818153647866.png" alt="image-20240818153647866"></p><p><img src="/../images/image-20240818153746909.png" alt="image-20240818153746909"></p><p>示例（云端删除）</p><p>新建立一个Demo文件夹，并且在里面创建2个文本文件（<code>a.txt</code>、<code>b.txt</code>）<br><img src="/../images/image-20240818153156477.png" alt="image-20240818153156477"></p><p>同步该文件夹<br><img src="/../images/image-20240818153236752.png" alt="image-20240818153236752"></p><p><img src="/../images/image-20240818153333369.png" alt="image-20240818153333369"></p><p>云端不支持删除，需要先取消该同步文件夹，才允许删除<br><img src="/../images/image-20240818154259196.png" alt="image-20240818154259196"></p><p><img src="/../images/image-20240818154316866.png" alt="image-20240818154316866"></p><p>在取消同步文件夹的前提下，如果云端删除<code>a.txt</code>，本地不会删除<code>a.txt</code><br>也就是云端删除文件不影响本地文件</p><p><img src="/../images/image-20240818154357458.png" alt="image-20240818154357458"><br><img src="/../images/image-20240818154628806.png" alt="image-20240818154628806"></p><h2 id="Wevdav"><a href="#Wevdav" class="headerlink" title="Wevdav"></a>Wevdav</h2><h3 id="坚果云-1"><a href="#坚果云-1" class="headerlink" title="坚果云"></a>坚果云</h3><p>登录<a href="https://www.jianguoyun.com/">网页版</a>，点击右上角账户部分，点击账户信息<br><img src="/../images/image-20240818155431618.png" alt="image-20240818155431618"></p><p>切换到「安全选项」 ，该页面下就可以创建应用的登录账户密码<br><img src="/../images/image-20240818155633227.png" alt="image-20240818155633227"></p><p>一些限制，详见<a href="https://help.jianguoyun.com/?p=2064">坚果云第三方应用授权WebDAV开启方法</a></p><ul><li><strong>文件上传大小限制：</strong>当前 WebDAV 客户端和网页端上传大小的限制是一致的，默认为 500M（私有云可以通过相关设置调整）。</li><li><strong>访问频率限制：</strong>由于WebDAV协议比较占用系统资源，免费版用户限制访问频率为每30分钟不超过600次请求。付费用户限制访问频率为每30分钟不超过1500次请求。</li><li><strong>同步目录数限制：</strong>目前坚果云的WebDAV协议单次请求文件数（包含文件和文件夹）为750个，支持分多页多次加载。如果您使用WebDAV的三方工具未实现按分页多次加载，可能会出现文件同步不完整的情况，建议您使用坚果云客户端进行直接同步。</li></ul><p>路径写法：</p><p>坚果云的WebDAV协议地址，默认是<code>https://dav.jianguoyun.com/dav/</code><br>该地址默认代表的是根目录，如果在第三方应用要使用的话，直接加上根目录的相对路径即可<br>比如使用Keepass（开源密码管理器），根目录有个<code>KeePass</code>文件夹，那么WebDAV协议地址就是<code>https://dav.jianguoyun.com/dav/KeePass/Database.kdbx</code></p><h3 id="阿里云盘-1"><a href="#阿里云盘-1" class="headerlink" title="阿里云盘"></a>阿里云盘</h3><p>阿里的话，Webdav功能需要额外付费才能开通，一个月17，一年100多，还是蛮贵的😑</p><p><img src="/../images/image-20240818160732499.png" alt="image-20240818160732499"></p><p>开通后，点击「三方应用」——&gt;「WebDAV」 ——&gt;「创建 WebDAV 账号」 </p><p><img src="/../images/image-20240818160837262.png" alt="image-20240818160837262"></p><p>这里与坚果云稍有区别，需要单独选择一个文件夹进行授权<br><img src="/../images/image-20240818161006862.png" alt="image-20240818161006862"></p><p>创建后会给个帐号、密码（这里仅做演示使用，该账户过后删除）<br><img src="/../images/image-20240818161107238.png" alt="image-20240818161107238"></p><p>路径写法（<strong>重要事项</strong>）：</p><p>需要注意的是阿里云盘的路径与坚果云的路径不同，<strong>坚果云直接代表根目录，阿里云盘代表的则是你授权文件夹的根目录</strong></p><p>阿里云盘的WebDAV协议地址，默认是<code>https://openapi.alipan.com/dav</code><br><strong>该地址默认代表的是你所授权目录的根目录</strong>，如果在第三方应用要使用的话，直接加上文件的相对路径即可</p><p>比如我授权的是阿里云盘中的Keepass文件夹，该目录下有一个<code>Database.kdbx</code>文件<br>我在第三方应用要使用WebDAV读取该文件的话</p><p>那么我的路径写法不是<code>https://openapi.alipan.com/dav/Keepass/Database.kdbx</code><br>而是<code>https://openapi.alipan.com/dav/Database.kdbx</code>，我上面提到我授权的是Keepass文件夹，所以这里的<code>https://openapi.alipan.com/dav/</code>其实就代表的是Keepass文件夹</p><p>不知道讲的够清楚不😅</p><h1 id="迁移"><a href="#迁移" class="headerlink" title="迁移"></a>迁移</h1><h2 id="初步尝试"><a href="#初步尝试" class="headerlink" title="初步尝试"></a>初步尝试</h2><p>同步文件夹就不说了，两个除了同步方式的差异外（单向同步、双向同步），其他差别不大</p><p>这里主要讲下WebDAV，这是我迁移头疼的一点，也是我为什么使用官方的Webdav的原因。</p><p>我个人是有基于阿里云盘搭建<a href="https://alist.nn.ci/zh/">Alist</a>，并且Alist也是支持Webdav的（文档详见<a href="https://alist.nn.ci/zh/guide/webdav.html">AList -WebDAV</a>）<br>在使用Webdav，转移的过程中，转移Flocccus（一个同步书签的Chrome插件）并没有问题，但是在转移Keepass（一个开源密码管理器）的时候出问题了</p><p>Keepass文件夹有一个数据库文件<code>Database.kdbx</code>，电脑端使用Keepass客户端访问，手机使用Keepass2Android客户端访问</p><p>备份方面：先使用阿里云盘的「自动同步」功能，自动备份<code>Database.kdbx</code>数据库，这样我每次更新<a href="https://keepass.info/">Keepass</a>（增加账户、删除账户），都能将本地的数据库自动保存到云端</p><p>访问方面：我手机客户端通过AList的Webdav链接去访问电脑自动备份的<code>Database.kdbx</code>数据库</p><p>这样两者都是使用一个数据库文件，数据相同，做到个人全平台同步<br>结构图如下：</p><p><img src="/../images/Keepass%E7%BB%93%E6%9E%84%E5%9B%BE.jpg" alt="Keepass结构图"></p><p>配置成功后，发现出问题了😠</p><p>「自动同步」到阿里云盘的数据库跟本地一致无问题，我增加账户，阿里云盘中的数据库内容也会随之变化，但AList中的数据库内容永远不会更新！</p><p><img src="/../images/Keepass%E9%94%99%E8%AF%AF.jpg" alt="Keepass错误"></p><p>例如，我本地Keepass增加条目，阿里云盘中的数据库会更新，而AList中的数据库修改时间会变动成最新的（证明确实有修改），但内容确没有任何变动</p><p>尝试修改后台缓存时间，尝试Nginx反代增加无缓存头部均无效果<br><img src="/../images/image-20240818193613806.png" alt="image-20240818193613806"></p><p>折腾几个小时，人麻了，我彻底放弃了😑<br>老老实实交钱使用官方的WebDAV服务，先交17块，暂时开通一个月先</p><h2 id="二战"><a href="#二战" class="headerlink" title="二战"></a>二战</h2><p>不行，我仍旧不死心，继续折腾<br>刚才突发奇想，竟然搞定了…..😶😶😶</p><p>我刚才推测有没有可能是AList的Bug，无法检测到微小的文件内容变动，所以发现该文件夹有变动，对微小变动的文件（几B）采取修改时间的策略</p><p>有这种可能，那么就更新AList，久没更新，从3.24版本直接干到最新版3.26😅</p><p>知道问题出在AList，在 AList 继续阅读文档找有可能出错的地方<br>缓存应该是不可能了，后台都设置为0，代表长期有效<br>阅读WebDAV策略部分，看到「最佳兼容性」，我就抱着试一试的态度尝试了一下，没想到成了！！！！炸裂</p><p><img src="/../images/image-20240818200534879.png" alt="image-20240818200534879"> </p><p>虽然我暂时不太懂里面涉及的原理（为什么过自己服务器中转下就有数据？为什么走阿里的文件更新却没更新内容），但此刻只知道成了🥰</p><p>真的艰难，尝试了好久（迁移数据+尝试花费5小时多），一直找不到问题所在<br>类似于程序员找BUG，一堆代码放在你面前，但你就是不知道问题出在哪</p><p>针对于Nginx+阿里云盘+AList+WebDAV后续看看有空再出一篇系统性的教程<br>该篇讲的还是偏杂，本来主要写迁移，写着写着跑偏了（多线操作，边迁移数据、边尝试、边写博文🤣）</p><p>我估计也应该是阿里云盘（AList）+Keepass全网第一个尝试的？</p><p>必应：</p><p><img src="/../images/image-20240818201509026.png" alt="image-20240818201509026"></p><p><img src="/../images/image-20240818201539752.png" alt="image-20240818201539752"></p><p>百度：</p><p><img src="/../images/image-20240818201742398.png" alt="image-20240818201742398"></p><h1 id="后话"><a href="#后话" class="headerlink" title="后话"></a>后话</h1><p>有的人可能会说，真折腾，可能是吧</p><p>我<a href="https://linguoguang.com/2024/08/17/2024.08.17/">上篇</a>其实也说过，心态对有的人来说，东西在不在无所谓，我的话不行<br>个人想尽可能的约束个人所拥有的东西（断舍离），将精力约束起来</p><p>有意思的是，中途查阅资料的时候看到一个同道中人🙃，不过我是网盘精简，那个博主是密码管理器，他在两个密码管理器中反复横跳，也是有意思的人（<a href="https://blog.ichr.me/post/password-managements/">反复横跳？—— 我的密码管理工具折腾记</a>）</p><p>结束~，继续迁移数据</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      <category domain="http://example.com/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      
+      <comments>http://example.com/2024/08/18/2024.08.18/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>账户精简的一些思考</title>
+      <link>http://example.com/2024/08/17/2024.08.17/</link>
+      <guid>http://example.com/2024/08/17/2024.08.17/</guid>
+      <pubDate>Sat, 17 Aug 2024 13:56:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;本月本来想要写篇自建邮件服务器的博文分享&lt;br&gt;奈何体验感确实欠佳，跟现有的 QQ 邮箱体验感天差地别，遂作罢&lt;/p&gt;
+&lt;p&gt;个人的服务器运行内存只有1G，当时采用了&lt;a href=&quot;https://github.com/Jinnrry/PMail&quot;&gt;PMai</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本月本来想要写篇自建邮件服务器的博文分享<br>奈何体验感确实欠佳，跟现有的 QQ 邮箱体验感天差地别，遂作罢</p><p>个人的服务器运行内存只有1G，当时采用了<a href="https://github.com/Jinnrry/PMail">PMail</a>，该方案占用资源小，我本身服务器运行了一些服务，其他方案占用资源多条件不支持，</p><p>分享下QQ邮箱替代、数据断舍离的一些历程和思考吧</p><h1 id="历程"><a href="#历程" class="headerlink" title="历程"></a>历程</h1><h2 id="寻找代替"><a href="#寻找代替" class="headerlink" title="寻找代替"></a>寻找代替</h2><p>Q：为什么要替换QQ邮箱？</p><p>F：因为个人现在的QQ其实没怎么用的到了，除了一个基本的QQ邮箱功能，其他功能基本没有怎么用，QQ空间N年前关闭了，好友也都删除光了，现在基本都用微信联系，也就是现在的QQ对我其实是一个可有可无的软件，而我要注销QQ，但QQ邮箱是跟我QQ绑定的，一注销两个就一起注销了，所以就有了寻找邮箱代替方案的过程</p><p>动机：替代邮箱——&gt;QQ邮箱跟QQ解绑——&gt;注销QQ</p><p>在寻找代替方案的过程中，环视一圈，发现竟然没有一家纯粹的电子邮件服务商😅<br>就字面意思，足够纯粹，软件只做邮件这件事情，足够精简，没有捆绑功能<br>但可能没有赚钱的前景，竟然一家做的都没有….</p><ul><li>outlook：微软的，微软账户绑定，其中有日历、套件等功能</li><li>163邮箱：网易旗下产品，同QQ一样，也就意味着我要注册网易的账户，网易又是一生态，但产品其实用的少</li><li>新浪：同上，我微博都注销了，又要注册，相当于另一种程度的捆绑</li><li>Gmail：国外产品，网络是问题</li><li>….</li></ul><p>没有合适的方案，那就尝试自部署，就有了前言提到的，结果不尽如意，体验感太差<br>然后环视一圈，突然发现QQ邮箱竟然可以微信登录，兜兜转转又回到原点😑</p><p><strong>如果你也想要注销QQ，也在找寻代替品</strong><br><strong>那么我推荐你使用微信注册QQ邮箱，我推荐一些理由</strong></p><ol><li>支持快速登录</li><li>支持收信规则（我在<a href="https://linguoguang.com/2024/02/05/2024.02.05/">2024.02.05#邮件规则自动化</a>其中也提到该自动化，感兴趣可以看看）</li><li>支持微信通知，微信有插件可以直接显示邮件通知</li><li>支持邮件翻译（如果用微信插件则不支持）</li><li>多平台：可以使用微信插件，也有网页端，必要情况下手机甚至可以不装客户端</li><li>微信：微信是国内人手必备，意味着不用额外注册其他平台账户</li></ol><h2 id="区别"><a href="#区别" class="headerlink" title="区别"></a>区别</h2><p>原本我以为登录方式会繁琐一点<br>原先用QQ登录，如果你本地有登录QQ，那么QQ邮箱是可以快速登录的<br>如图所示<br><img src="/../images/image-20240817222554199.png" alt="image-20240817222554199"></p><p>我原本以为换到微信登录会很麻烦，每次要用微信扫描登录<br>但意外发现本地如果打开微信，也能快速登录，算是一点意外之喜<br><img src="/../images/image-20240817222738939.png" alt="image-20240817222738939"></p><p>登录后，其他变化界面功能其实与原本一样，差别不大</p><p><img src="/../images/image-20240817223519074.png" alt="image-20240817223519074"></p><p>有的朋友可能会发现，我的侧边栏怎么没有应用<br>我这里装了Chrome插件「Stylus」，该插件可以自定义页面CSS<br>我这里使用CSS将其隐藏起来了，可以去装一个，将不需要的元素都隐藏</p><p>默认的如下</p><p><img src="/../images/image-20240817224131353.png" alt="image-20240817224131353"> </p><p>修改后效果</p><p><img src="/../images/image-20240817223519074.png" alt="image-20240817223519074"></p><h1 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h1><h2 id="数据迁移"><a href="#数据迁移" class="headerlink" title="数据迁移"></a>数据迁移</h2><p>数据迁移方面，都2024了，邮件竟然不支持数据迁移，这是我没想到的<br>而转发邮件又不支持批量，可以说是很无语🙄</p><p>这意味着我要么一封封转发，要么保留重要的，其他删除<br>但一封封转发，有400-500多封，转到何年何月</p><h2 id="注销账户"><a href="#注销账户" class="headerlink" title="注销账户"></a>注销账户</h2><p>由于打算要注销QQ邮箱，原先采用该邮件注册的平台全部要解绑换绑成新邮箱<br>然后不常用的软件顺手注销，然后就遇到了一些波澜</p><ol><li>换绑邮箱竟然要会员，我会员过期了，意味着我需要续费才能换绑定….</li><li>无法注销，有的平台、网站不支持注销账户，完全没有找到账户注销的按钮，这种我只能发邮件联系站长帮忙，但有的不一定帮忙，可以说很无解，我的数据成了对方的资产，我没有自主选择权</li></ol><p>对于以上第2点，我决定了以后采用的注册方式<br><strong>我以后注册，先采用临时一次性邮箱注册，看看网站能不能注销，可以注销，我再使用自己邮箱注册</strong><br><strong>反之，则是临时使用，我不想我连自己的数据都无法操控</strong></p><p>注销账户这个过程，我不想要别人也体验跟我相同的经历<br>我这里做份声明，<strong>在我博客留言的，以后不想在互联网留痕迹的，只要邮件致电我，我会从数据库中将其在我这的留言数据全部清空</strong></p><h2 id="看山看水"><a href="#看山看水" class="headerlink" title="看山看水"></a>看山看水</h2><p>有的人可能会说，干嘛要这么麻烦，精简账户有什么意义，不需要丢着就是，也就一堆电子数据，不可能干涉现实世界。</p><p>我觉得这东西看人吧，我那天想到以前看过的一段话，拿来解释感觉颇为合适</p><ul><li>看山是山，看水是水</li><li>看山不是山，看水不是水</li></ul><p><strong>有的人假如不想要某样东西，眼中东西在那里，但心中放下了包袱，那其实东西在不在那里，已经无所谓了，世界对他而言，取决于他，他是这个世界的观察者，他观察到，东西才存在，反之不存在</strong></p><p>但我远远做不到这种境界，东西在那里，忽视完全做不到<br>想着没有了，但心中还是介意，还是知道它（账户）就在那里，不去处理不痛快😑</p><p>扯的有点玄幻的感觉😂，但算是心态上的一种思考吧</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      <category domain="http://example.com/tags/%E6%80%9D%E8%80%83/">思考</category>
+      
+      
+      <comments>http://example.com/2024/08/17/2024.08.17/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Eagle外链增强</title>
+      <link>http://example.com/2024/07/26/2024.07.26/</link>
+      <guid>http://example.com/2024/07/26/2024.07.26/</guid>
+      <pubDate>Fri, 26 Jul 2024 11:53:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;花费半天时间，将之前的一个小开发想法落地，作为本月博文分享给大家下&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本篇博文仅适用于Eagle用户，非Eagle用户可以直接退出了&lt;/strong&gt;&lt;br&gt;但好像更适用于Eagle+开发用户？😑，得，估计Eagle用户看也懵&lt;/</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>花费半天时间，将之前的一个小开发想法落地，作为本月博文分享给大家下</p><p><strong>本篇博文仅适用于Eagle用户，非Eagle用户可以直接退出了</strong><br>但好像更适用于Eagle+开发用户？😑，得，估计Eagle用户看也懵</p><p>先了解下前因后果</p><p>Eagle软件本身支持文件外链，例如：<code>eagle://item/LT119HK340IHU</code><br>通过外链可以直接快速从其他使用Eagle打开指定文件</p><p>例如，我有张莲花山的图</p><p><img src="/../images/image-20240726195824579.png" alt="image-20240726195824579"></p><p>复制链接，外链是<code>eagle://item/LT119HK30UGE3</code>，如果在Obsidian或者其他地方点击这个超链接<br>那么就能迅速打开Eagle跳转到这张图片</p><p><img src="/../images/Egale%E5%A4%96%E9%93%BE%E7%A4%BA%E4%BE%8B.gif" alt="Egale外链示例"></p><p>这种外链在引用文件的时候非常非常便捷，尤其是Eagle2.0之后增加更多的格式支持后，可以说就是个万能的资源管理器</p><p>我通常使用Eagle作为Obsidian的外部资源拓展，例如视频笔记，例如书签管理</p><p>但是其中有个痛点，外链是没办法跨资源库的<br>Eagle可以创建多个资源库，例如我网站书签放一个资源库，音乐放一个资源库，图片放一个….</p><p>我在A资源库复制了文件外链，Eagle处于其他资源库（B、C、D等）的时候，这个文件外链是没办法达成上面效果（直达文件），外链只能打开Eagle而已，失去了直达的效果</p><p>这种只能自己手动先切换Eagle资源库成这个文件所在的资源库，再点击链接才有效<br>可以说是很难受，这个就是外链使用过程中遇到的痛点😕</p><p>毕竟多个资源库是不可避免的，于是就想到替代协议，想法落地，就有了本篇</p><h1 id="思路"><a href="#思路" class="headerlink" title="思路"></a>思路</h1><p>Eagle的外链<code>eagle://item/LT119HK30UGE3</code>是自定义协议，那么就是通过注册表注册的<br>打开注册表，在<code>HKEY_CLASSES_ROOT</code>下搜索Eagle，果然有</p><p>定位：<code>\HKEY_CLASSES_ROOT\eagle\shell\open\command</code></p><p><img src="/../images/image-20240726201338625.png" alt="image-20240726201338625"></p><p>可以发现就是将<code>%1</code>也就是外链<code>eagle://item/LT119HK30UGE3</code>传递给<code>Eagle.exe</code>进行打开而已</p><p>那么我的思路就是我直接开发个脚本，替换掉注册表中的Eagle.exe<br>这样每次点击外链，则运行的是我开发的脚本</p><p>脚本中实现的逻辑</p><ol><li>接受参数（文件外链）</li><li>去查找这个文件是处于哪个资源库</li><li>使用 API 切换成对应资源库</li><li>模拟系统命令，向Eagle软件发送外链，实现直达文件</li></ol><p>想法如上，开始落地</p><h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol><li><a href="https://eagle.cool/"># Eagle - 图片收集及管理必备工具</a>：Eagle 软件，这里安利一波，五星好评😘😘</li><li><a href="https://www.yuque.com/augus-gsjgn/eagle-api"># Eagle API 官方文档</a>：Eagle 官方的 API 文档，好的软件必备👍👍</li><li><a href="https://eagleteam.notion.site/Eagle-ad3da12cfda048668ac57b88d57faa31"># Eagle 媒体资源包</a>：图标资源，用于打包时候使用</li></ol><h1 id="代码讲解"><a href="#代码讲解" class="headerlink" title="代码讲解"></a>代码讲解</h1><h2 id="接受参数"><a href="#接受参数" class="headerlink" title="接受参数"></a>接受参数</h2><p>使用<code>sys.argv</code>接受外链参数即可</p><pre><code class="python">url = sys.argv[1]</code></pre><h2 id="查找文件"><a href="#查找文件" class="headerlink" title="查找文件"></a>查找文件</h2><p>原先使用Eagle的 API查找，但发现效率不如直接使用 <code>os</code> 模块的路径判断，所以改用 <code>os</code></p><p>Eagle一个资源库的所有文件是在其资源库下的<code>images</code>文件夹中，每个文件有个对应id的文件夹</p><p><img src="/../images/image-20240726202509878.png" alt="image-20240726202509878"></p><p>直接使用<code>os.path.exist()</code>进行判断文件是否在这个资源库即可<br>举例：</p><p>外链是<code>eagle://item/LT119HK30UGE3</code>，提取文件id（<code>LT119HK30UGE3</code>）<br>那么使用<code>os.path.exist()</code>判断该资源库下是否有这个文件夹，就可以知道是处于哪个资源库中了</p><p>我个人是所有资源库放在D盘，直接提取所有资源库的名称，进行遍历所有资源库即可</p><p>示例代码</p><pre><code class="python"># 读取所有资源库名称library_list = [i for i in os.listdir(&quot;D:/Software&quot;) if i.endswith(&quot;.library&quot;)]for library in library_list:    path = f&quot;D:/Software/&#123;library&#125;/images/&#123;item&#125;.info&quot;    if os.path.exists(path):        pass</code></pre><h2 id="切换对应资源库"><a href="#切换对应资源库" class="headerlink" title="切换对应资源库"></a>切换对应资源库</h2><p>使用Eagle的API就能将Eagle软件切换到对应资源库，API文档具体看参考资料</p><pre><code class="python">def switch_library(library_name):    # 数据字典    data = &#123;        &quot;libraryPath&quot;: f&quot;D:/Software/&#123;library_name&#125;&quot;,    &#125;    # 请求选项    url = &quot;http://localhost:41595/api/library/switch&quot;    headers = &#123;        &quot;Content-Type&quot;: &quot;application/json&quot;,        &quot;Accept&quot;: &quot;application/json&quot;,    &#125;    # 将数据字典转换为JSON格式的字符串    json_data = json.dumps(data)    # 发送POST请求    response = requests.post(url, headers=headers, data=json_data)    # 检查请求是否成功    if response.ok:        # 解析JSON响应        result = response.json()        print(result)    else:        print(f&quot;Request failed with status code: &#123;response.status_code&#125;&quot;)    # 处理可能发生的异常    try:        # 可以尝试再次解析JSON响应        result = response.json()        print(result)    except json.JSONDecodeError as error:        print(f&quot;Error decoding JSON: &#123;error&#125;&quot;)</code></pre><h2 id="直达"><a href="#直达" class="headerlink" title="直达"></a>直达</h2><p>模拟Eagle注册表中的写法，也就是将外链发送给Eagle即可<br>这里使用<code>subprocess</code>模块运行系统命令</p><pre><code class="python"># 定义Eagle执行文件的路径eagle_exe = &quot;D:/Software/Eagle/Eagle.exe&quot;# 定义要打开的Eagle链接eagle_link = &quot;eagle://item/LT119HK340IHU&quot;# 构建命令command = f&#39;&quot;&#123;eagle_exe&#125;&quot; --allow-file-access-from-files &quot;&#123;eagle_link&#125;&quot;&#39;# 使用subprocess.run执行命令subprocess.run(command, shell=True)</code></pre><h2 id="完整代码"><a href="#完整代码" class="headerlink" title="完整代码"></a>完整代码</h2><p>将上面的所有功能拼凑起来，实现完整的代码逻辑<br>注：目前仅适用于个人使用，仅供参考，不要直接运行，是无效果的</p><pre><code class="python">import jsonimport osimport subprocessimport sysimport requestsfrom win10toast import ToastNotifierdef switch_library(library_name):    &quot;&quot;&quot;切换资源库    @param str library_name: 资源库名称    &quot;&quot;&quot;        data = &#123;        &quot;libraryPath&quot;: f&quot;D:/Software/&#123;library_name&#125;&quot;,    &#125;    url = &quot;http://localhost:41595/api/library/switch&quot;    headers = &#123;        &quot;Content-Type&quot;: &quot;application/json&quot;,        &quot;Accept&quot;: &quot;application/json&quot;,    &#125;    # 转换为JSON格式的字符串    json_data = json.dumps(data)    response = requests.post(url, headers=headers, data=json_data)    # 检查请求    if response.ok:        result = response.json()        print(result)    else:        print(f&quot;Request failed with status code: &#123;response.status_code&#125;&quot;)    try:        # 尝试再次解析JSON响应        result = response.json()        print(result)    except json.JSONDecodeError as error:        print(f&quot;Error decoding JSON: &#123;error&#125;&quot;)def send_notification(title, message):    &quot;&quot;&quot;弹窗提示    @param str title: 弹窗标题    @param str message: 弹窗备注    &quot;&quot;&quot;        toaster = ToastNotifier()    toaster.show_toast(title, message, duration=3)def main():    &quot;&quot;&quot;主函数&quot;&quot;&quot;    if len(sys.argv) &gt; 1:                eagle_exe = &quot;D:/Software/Eagle/Eagle.exe&quot;  # 定义Eagle执行文件的路径        eagle_link = sys.argv[1]  # 定义要打开的Eagle链接        command = f&#39;&quot;&#123;eagle_exe&#125;&quot; --allow-file-access-from-files &quot;&#123;eagle_link&#125;&quot;&#39; # 构建命令        item = eagle_link.replace(&quot;eagle://item/&quot;, &quot;&quot;)        result_lib = None  # 待切换成的资源库        # 读取所有资源库名称        library_list = [i for i in os.listdir(&quot;D:/Software&quot;) if i.endswith(&quot;.library&quot;)]        for library in library_list:            path = f&quot;D:/Software/&#123;library&#125;/images/&#123;item&#125;.info&quot;            if os.path.exists(path):                result_lib = library                break        if result_lib:            switch_library(result_lib)            subprocess.run(command, shell=True)            sys.exit(0)        else:            send_notification(&quot;Eagle 增强插件&quot;, &quot;未找到文件&quot;)            # print(&quot;未找到文件&quot;)if __name__ == &quot;__main__&quot;:    main()</code></pre><h1 id="打包"><a href="#打包" class="headerlink" title="打包"></a>打包</h1><p>注册表中是不能使用脚本的，只能是可执行文件<code>.exe</code>，所以我们需要将脚本打包成exe<br>emmm…，也许也可以？将脚本作为参数传递，再将<code>%1</code>作为参数传递给脚本<br>像这样<code>&quot;c:\Users\Lin-BLACKBOOK\AppData\Local\Programs\Python\Python310\python.exe&quot; &quot;D:\develop\Python\demo.py&quot; &quot;%1&quot;</code>，也许可以，没尝试过</p><p>我这里是先打包，再使用</p><p>使用<code>pyinstaller</code>打包成单文件<code>Eagle_enhance.exe</code><br>想要文件更小，可以使用<code>pipenv</code>创建个虚拟环境，能使文件小N多</p><pre><code class="python">pyinstaller -F -w -i &quot;D:\systemLibrary\Desktop\Eagle\4.ico&quot; Eagle_enhance.pyw</code></pre><p>为了防止不小心删除，可以将打包后的<code>Eagle_enhance.exe</code>跟Eagle放一起</p><p><img src="/../images/image-20240726204839703.png" alt="image-20240726204839703"></p><h1 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h1><ol><li>运行中输入<code>regedit</code>，打开注册表</li><li>定位：<code>\HKEY_CLASSES_ROOT\eagle\shell\open\command</code></li><li>将项改成打包好的程序位置+空格+<code>%1</code><br><img src="/../images/image-20240726204934424.png" alt="image-20240726204934424"></li><li>点击外链，愉快玩耍~</li></ol><h1 id="后话"><a href="#后话" class="headerlink" title="后话"></a>后话</h1><p>目前仅仅是一个适用个人的版本，会编程的直接改改就能用了<br>博客看的人还是少，博客+Eagle可能遇到的更加少，所以没有想浪费时间开发通用版的念头，虽然实际可能用不了多少时间</p><p>看看吧，如果有需要的朋友也可以留言，可以开发个适用全部人的通用版本程序，直接一键运行完成部署</p><p>吐槽个无语的，其实难度不大，开发应该非常快可以完成的，但中途陷入了无限死循环，搞的有点懵，算了，无力吐槽，有这时间刷视频不香吗</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      
+      <comments>http://example.com/2024/07/26/2024.07.26/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>六七月杂谈二三</title>
+      <link>http://example.com/2024/07/07/2024.07.07/</link>
+      <guid>http://example.com/2024/07/07/2024.07.07/</guid>
+      <pubDate>Sun, 07 Jul 2024 05:04:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;写篇日记写写近期的生活&lt;/p&gt;
+&lt;p&gt;虽然幕布上有罗列每天做了什么事情，但太过精简，可以说是一天的概括&lt;/p&gt;
+&lt;p&gt;而日记则是记录自己的一些心路历程、思考，所以可以完整体现这段事件的一个状态&lt;/p&gt;
+&lt;h1 id=&quot;笔记翻新&quot;&gt;&lt;a href=&quot;#笔记翻新&quot;</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>写篇日记写写近期的生活</p><p>虽然幕布上有罗列每天做了什么事情，但太过精简，可以说是一天的概括</p><p>而日记则是记录自己的一些心路历程、思考，所以可以完整体现这段事件的一个状态</p><h1 id="笔记翻新"><a href="#笔记翻新" class="headerlink" title="笔记翻新"></a>笔记翻新</h1><p>近期将自己的Python笔记，从头翻新梳理了一遍，对基础知识方面加深了一遍。</p><p>包括：</p><ol><li>海象运算符（Python3.8+）</li><li><code>|</code>、<code>&amp;</code>、<code>&gt;</code>运算符在字典中的运用（Python3.9+）</li><li>字符串新增<code>removeprefix</code>函数</li><li>….</li></ol><p>最近的博客，博文Python偏多，就是该原因😂<br>在翻新再学习的过程中，觉得不错的自己就会总结并且分享出来</p><h1 id="谈博客"><a href="#谈博客" class="headerlink" title="谈博客"></a>谈博客</h1><p>近期做了大量的精简，移除了很多不相关的<code>CSS</code>资源，以及很多不必要的功能<br>因为不想要花费太多时间在维护样式上，<code>CDN</code>挂B或者适配出现问题等等，就得修补，觉得麻烦，还是想将精力集中在内容上，纯粹点。</p><p>另外移除了分类页面，我觉得标签与分类的作用重合了，都是作为索引存在<br>我在<code>Front-Matter</code>需要同时写两个（标签属性与分类属性），需要同时维护，比较麻烦，所以移除了分类页面</p><p>现在就是这么简单怎么来</p><p>另外写文章的一个出发点也有点转变吧</p><p>之前写博客会先思考，我写的文章对他人是否能够产生帮助，就是出发点先是考虑他人。<br>这不是说我多高尚，而是面向观众的写作，导致如果我觉得没有任何价值，我可能就不会去写</p><p>但怎么坚持是一个问题？博文是投入与产出不对等的事情<br>没有读者、没有反馈、没有收入地写作，独角戏般的演出能坚持多久？</p><p>以前谈到固定频率更新是一个做法，另外想到，可以做出一些改变</p><ol><li>不一定要有价值，偶尔写写日记，梳理下近期挺好（写作障碍）</li><li>从利他到先利己（技术笔记）</li></ol><p>利己指的是我写一篇笔记，先是回顾、总结知识点、方便索引为主<br>其次才是分享他人，就是说侧重点是侧重自己使用，而非他人观看的角度</p><h1 id="穷人的钱与相机"><a href="#穷人的钱与相机" class="headerlink" title="穷人的钱与相机"></a>穷人的钱与相机</h1><p>近期入手了相机（索尼A7M4）+配件，全部加起来2w出头，其实可以说是不理智地消费。<br>当时思考了几天，还是一直纠结，那就任性回<br>购买主要起源于，我个人一直会记录我自己想要的东西、想做的事情，flomo在[[2024.01.16 195551]]记录了一篇学习摄影，而刚好到618，就无脑消费了…</p><p>2w是几个月的工资，2w对一个家庭来说，可以买什么？</p><ul><li>西瓜2.5-3元&#x2F;斤，一个30-40元，可以买600多个，可以每天一个炫一个夏季</li><li>牛奶70多&#x2F;箱，可以买280多箱子，可以喝几年</li><li>买菜买肉，可以每天大鱼大肉，吃上一整年</li><li>….</li></ul><p>我从各种方面去衡量这2w的价值，仅仅是为了<strong>摄影</strong>，怎么看都会觉得不值<br>相机可以拍照，手机也可以拍照，其实对于非专业人士来说，记录生活来说，手机够用了</p><p>我觉得穷人的钱永远应该花在刀刃上，因为穷人的每一分资源其实都来之不易，没有祖辈帮衬，没有资产可以继承，自身没有任何出彩的地方，没有拿得出手的技能，没有光鲜亮丽的履历，一切平平无奇</p><p>存起来作为储蓄，可以带来一点应对未来的底气，应对冲击（失业、意外）<br>消费食品，可以换来富足的日常生活<br>消费医疗、体检、保险，可以换来健康的一些保障</p><p>而这我都没有做，我买了个相机</p><p>如果从规划来说，这对个人而言是一笔失败的投资<br>当然也是从规划来说😏，人如果一直克制自己的欲望，其实活的也没意思<br>想要的，想做的，就趁现在！<br>没有钱，那就去工作，但有的事情错过了，后续的体验感完全不一样….<br>你指望13岁的游乐园与26岁的游乐园是一样的吗？</p><p>另外，我近期在想的是，钱你不换成任何东西，本质就是一张纸<br>或者说不消费，不敢消费，那么它其实就是不存在的<br>耗费时间，耗费精力，赚来的钱不花，那工作劳累的意义在于什么？</p><p>你劈了一堆柴火，却不敢让它去燃烧<br>你劈它做什么，为什么要怎么劳累？躺下休息不好吗？<br>以及你要审视自己为什么要劈柴火？<br>留下一些应对冬天，剩下的尽情燃烧吧！</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      
+      <comments>http://example.com/2024/07/07/2024.07.07/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>软件分享：Obsidian高亮插件与Teable</title>
+      <link>http://example.com/2024/05/06/2024.05.06/</link>
+      <guid>http://example.com/2024/05/06/2024.05.06/</guid>
+      <pubDate>Mon, 06 May 2024 13:47:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;时间过的好快，两个月没写博客了&lt;br&gt;上次[[2024.04.26]]写一篇，写完草草了事也没有发😅&lt;/p&gt;
+&lt;p&gt;写篇近期使用的软件分享文，凑合看吧🙃&lt;/p&gt;
+&lt;p&gt;主要分为2类&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Obsidian插件&lt;/li&gt;
+&lt;li&gt;Teab</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>时间过的好快，两个月没写博客了<br>上次[[2024.04.26]]写一篇，写完草草了事也没有发😅</p><p>写篇近期使用的软件分享文，凑合看吧🙃</p><p>主要分为2类</p><ol><li>Obsidian插件</li><li>Teable</li></ol><h1 id="Obsidian插件"><a href="#Obsidian插件" class="headerlink" title="Obsidian插件"></a>Obsidian插件</h1><h2 id="代码高亮"><a href="#代码高亮" class="headerlink" title="代码高亮"></a>代码高亮</h2><ul><li>插件名称：obsidian-shiki-plugin</li><li>仓库：<a href="https://github.com/mProjectsCode/obsidian-shiki-plugin">https://github.com/mProjectsCode/obsidian-shiki-plugin</a></li></ul><p>我想大多人，看网上的推荐代码高亮都是<a href="https://github.com/deathau/cm-editor-syntax-highlight-obsidian">Editor Syntax Highlight</a>，我也是<br>但用习惯Vscode，回过头来看这个代码样式就会觉得代码样式好丑啊🙄</p><p>个人使用的是Vscode的Monokai主题，非常喜欢这个代码配色，配色如图：</p><p><img src="/../images/image-20240506224817408.png" alt="image-20240506224817408"></p><p>实在接受不了<code>Editor Syntax Highlight</code>这个插件的配色，太丑了如图：</p><p><img src="/../images/image-20240506225150090.png" alt="image-20240506225150090"></p><p>网上高亮没有推荐其他的同类插件<br>后面还想着以后自己开发个插件，然后后续通过插件市场搜索关键字就发现了<code>obsidian-shiki-plugin</code>，发现代码竟然可以替换成想要Vscode风格，太棒了，所以这里安利一波</p><p>开启后，效果图：</p><p><img src="/../images/image-20240506225648007.png" alt="image-20240506225648007"></p><p>还支持行号，在关键字后面加上<code>showLineNumbers</code>关键字即可</p><p>编辑模式：</p><p><img src="/../images/image-20240507000217401.png" alt="image-20240507000217401"></p><p>渲染模式：</p><p><img src="/../images/image-20240506225710547.png" alt="image-20240506225710547"></p><p>支持N多种风格，我这里选择个人喜爱的Monokai</p><p><img src="/../images/image-20240506225746856.png" alt="image-20240506225746856"></p><p><em>注意事项：python只能写python，不能写大写PYTHON或者Python，否则不会高亮</em></p><h2 id="排版格式化"><a href="#排版格式化" class="headerlink" title="排版格式化"></a>排版格式化</h2><ul><li>插件名称：Linter</li><li>仓库地址：<a href="https://github.com/platers/obsidian-linter">https://github.com/platers/obsidian-linter</a></li></ul><p>这个插件可以对笔记进行格式化和样式化，实现排版的统一，有点类似于写代码的自动格式化<br>其实个人之前一直是使用<a href="https://github.com/cristianvasquez/obsidian-prettify">Markdown prettifier</a>，但后来开发大大舍弃自己项目直接跑去使用Linter了🤣</p><p>我从一开始就是使用Markdown prettifier，后续第一次尝试Linter发现配置项太多了！！！<br>对比图：</p><p>Markdown prettifier仅有几项</p><p><img src="/../images/image-20240506222727883.png" alt="image-20240506222727883"></p><p>Linter密密麻麻</p><p><img src="/../images/image-20240506222829255.png" alt="image-20240506222829255"></p><p>第一次觉得复杂直接卸载了，但3月维护插件的时候，又想到这个，尝试下来配置好后竟然意外好用！<br>而且因为很多选项可以选，也意味着自定义程度非常高，所以非常推荐大家使用Linter，而非Markdown prettifier</p><p>说说2个打动我的点，也是Markdown prettifier所不具备的</p><ol><li>可以自动移除YAML中标签的<code>#</code>号（YAML添加<code>#</code>，会使标签属性值失效，所以YAML的标签不能写<code>#</code>）</li><li>自动更换YAML中的文件名，一般我们如果更改文件名，还要手动更改YAML，而Linter可以自动更改</li></ol><h2 id="高亮YAML"><a href="#高亮YAML" class="headerlink" title="高亮YAML"></a>高亮YAML</h2><p>这个是自己写的一个平替CSS，之前使用插件<code>Editor Syntax Highlight</code>来高亮YAML区域<br>Obsidian加载插件是需要时间，想着能不能少个插件，让Obsidian打开的速度加快<br>查看了下这个插件，代码也挺多，就想着通过CSS实现类似，也就有了以下代码（就2行），实现跟插件一样的功能</p><p>未开效果：</p><p><img src="/../images/image-20240506223933209.png" alt="image-20240506223933209"></p><p>开启后效果：</p><p><img src="/../images/image-20240506223948954.png" alt="image-20240506223948954"></p><p>CSS代码片段如下，可以更改成自己想要的颜色</p><pre><code class="css">span.cm-atom &#123;  /* 属性高亮 */  color: #f39b35;&#125;span.cm-hmd-frontmatter.cm-hmd-frontmatter.cm-def &#123;  /* 分割线高亮 */  color: #98e342 !important;&#125;</code></pre><h2 id="Remotely-Save新版本问题"><a href="#Remotely-Save新版本问题" class="headerlink" title="Remotely Save新版本问题"></a>Remotely Save新版本问题</h2><ul><li>仓库地址：<a href="https://github.com/remotely-save/remotely-save">https://github.com/remotely-save/remotely-save</a></li><li>问题参考：<a href="https://github.com/remotely-save/remotely-save/issues/450">https://github.com/remotely-save/remotely-save/issues/450</a></li></ul><p>这个估计很多使用Obsidian的朋友都知道，是一个同步插件，这里讲个阿里OSS新版本的坑<br>我之前一直使用老版本没有更新，但是3月的时候，想着把所有插件更新下</p><p>一更新（0.3.25&gt;0.4.16），WTF，竟然不能用了！！<br>果然能用的东西就不要频繁更新doeg</p><p>插件会报错：<code>Invalid region:region was not a validDNS name.</code><br>电脑网络正常，但提示<code>DNS</code>错误，后续排查无果，看<code>issues/450</code>才知道新版本的<code>region</code>竟然变了😅<br>当然也可能一直都是这个写法，只是以前老版本可能比较兼容？（听答主的意思，好像是如此😑）</p><p>说说解决方案（<code>issues</code>写了，这里再写下）</p><p>老版本：</p><ul><li>Endpoint：<code>oss-cn-shenzhen.aliyuncs.com</code></li><li>Region：<code>oss-cn-shenzhen-internal.aliyuncs.com</code></li></ul><p>新版本：</p><ul><li>Endpoint：<code>oss-cn-shenzhen.aliyuncs.com</code></li><li>Region：<code>oss-cn-shenzhen</code></li></ul><p>也就是<code>Region</code>变化了，其他没啥</p><h1 id="Teable"><a href="#Teable" class="headerlink" title="Teable"></a>Teable</h1><p>我个人经常会掏一些软件尝试进行平替，如果有更优的表现，就纳入自己的软件列表，替待掉原有的</p><p>浏览<a href="https://www.ruanyifeng.com/blog/">阮一峰的网络日志</a>的时候了解到一个在线表格软件：Teable</p><p>同类软件我之前有了解过：AirTable、vika维格表<br>AirTable 国外产品，要习惯英文，英文水平不行<br>vika 维格表不够精简，对于极简主义来说不能接受</p><p>说说个人的 3 个推荐理由</p><ol><li>快</li><li>极简</li><li>全面 API</li></ol><h2 id="快"><a href="#快" class="headerlink" title="快"></a>快</h2><p>我之前有用语雀的表格，但语雀软件本身又比较重，又有笔记、又有小记、虽然更新优化了性能，但使用起来还是给我<strong>笨重</strong>的感觉<br>软件还是得专事专做，当然这个度得自己把握好，软件分太散，割裂感太强，太紧，All in One 又会觉得过于重</p><p>然后看到，Teable 的 Github 的介绍页面，百万数据的表格示例<br>打开 N 快，响应非常流畅，瞬间心动<br>具体可以示例参考：<a href="https://app.teable.io/share/shrVgdLiOvNQABtW0yX/view">百万数据Demo</a></p><h2 id="极简"><a href="#极简" class="headerlink" title="极简"></a>极简</h2><p>软件就单单只做表格，没有什么花里胡哨的东西<br>没有文档、没有模板、没有广告等等<br>没有其他不该有的东西</p><p>一切深得极简主义人的心</p><h2 id="全面-API"><a href="#全面-API" class="headerlink" title="全面 API"></a>全面 API</h2><p>然后 API 也是我一个心动的点，支持所有操作，是所有！<br>不管账户、表格数据、权限、空间等等….<br>这对于程序员来说就有很大的操作空间了，我能直接用脚本去操纵我的数据，简直不要太过心动</p><p>上一个遇到类似的软件还是印象笔记，可惜我心中的大象已死<br>后续遇到的很多软件，例如 Flomo、Cubox 等，都没有提供全面的 API，仅仅提供一个剪藏的接口，其实觉得蛮可惜的<br>因为全面的 API 意味着我有更大的自由度操作我的数据，而非仅仅增加数据</p><p>拿 Cubox举个例子，也是我之前遇到的一个痛点<br>我假设我 Obsidian 引用了 Cubox 中一篇文章，插入了Cubox 的分享链接<br>Cubox 中的这篇文章相当于仅作为文献的价值存在<br>当我把 Obsidian 的这篇笔记删除的时候，我 Cubox 的引用文怎么同步删除？因为笔记已经删除，文献也没有存在的必要了<br>我没办法去判断我 Cubox 中的文章是否还有被 Obsidian 引用</p><p>当然要实际来说的话，方法肯定是比问题多<br>例如，我 Cubox 的文章可以添加 Obsidian 标签，例如我删除 Obsidian 的文章前可以先删除下 Cubox<br>但这都不够优雅，太麻烦了</p><p>可以自动化的事情，就不应该自己上手来做</p><p>如果我有对应的数据接口，直接爬取所有 Obsidian 文件的引用链接，再对比 Cubox 的引用链接，两者进行一个差集计算，然后自动删除没有用的文章，岂不美哉</p><p>当然开放接口，也意味着服务器要应对更大的压力，也可以理解<br>只是有的话，真的是很加分的项</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      <category domain="http://example.com/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      <category domain="http://example.com/tags/%E7%94%B5%E8%84%91/">电脑</category>
+      
+      
+      <comments>http://example.com/2024/05/06/2024.05.06/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2024.02.05</title>
+      <link>http://example.com/2024/02/05/2024.02.05/</link>
+      <guid>http://example.com/2024/02/05/2024.02.05/</guid>
+      <pubDate>Mon, 05 Feb 2024 13:11:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=&quot;headerlink&quot; title=&quot;生活&quot;&gt;&lt;/a&gt;生活&lt;/h1&gt;&lt;h2 id=&quot;随笔&quot;&gt;&lt;a href=&quot;#随笔&quot; class=&quot;headerlink&quot; title=&quot;随笔&quot;&gt;&lt;/a&gt;随笔&lt;/h2&gt;&lt;p&gt;刚接到公司信息，同项目组一个同事进去喝茶了，大过年的，深感震惊&lt;br&gt;之前还请来家里喝茶，转眼就就进去了，想想也是不可思议，人</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><h2 id="随笔"><a href="#随笔" class="headerlink" title="随笔"></a>随笔</h2><p>刚接到公司信息，同项目组一个同事进去喝茶了，大过年的，深感震惊<br>之前还请来家里喝茶，转眼就就进去了，想想也是不可思议，人生就是这么反复无常</p><p>近期5天沉迷于小说，好久没这么过了，影响了1月计划的进度</p><p>看小说确实是个人自制力的弱点，很容易上头<br>只能告诫自己，<strong>知道自己会死在哪里，就尽量不要去哪里</strong></p><h2 id="表达"><a href="#表达" class="headerlink" title="表达"></a>表达</h2><p>对于近期自我言论的一个思考</p><p>包括在以下两篇，我大言设计者的不是</p><ul><li><a href="https://linguoguang.com/2024/01/24/Typora_%E8%AF%AD%E9%9B%80%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%90%8C%E6%AD%A5/">Obsidian、Typora、语雀快捷键同步</a></li><li><a href="https://linguoguang.com/2024/01/24/Typora_%E4%BB%A3%E7%A0%81%E5%9D%97%E6%8C%89%E9%94%AE/">Typora与幕布快捷键冲突解决方法</a></li></ul><p>在公共场合的时候，与同事熟视无睹他人，聊天侃地。</p><p>在开会的时候，不知道管理层的身份前提下，言行张扬（真的头铁🙃）</p><p>个人感觉自己有时候言行会有所欠妥，但我需要事事去反省去矫正吗？<br>我做错了什么？我没有做错什么，那为什么要向内归因？</p><p>两篇博文，说实话，我浮现过几次删减的念头（移除不好的言论）<br>但思考后，我对自己说怕啥，也只是单纯吐槽，我否定自己的行为，就如食客不能吐槽厨师的厨艺，客户不能吐槽甲方的产品，况且我还是买票上车，付费了的，那我有什么理由不能说，不能表达？</p><p>另外我需要别人来认同我的言行，我才能说能做吗？</p><p><strong>如果连说话都要反复斟酌再三再往外说，连做事都要思前顾虑再行动，以及事后思考再三懊悔那不如不说不做</strong>，反倒是没了那烦恼</p><p>我有表达的权利，别人有不看的权利<br>如果对我不喜，可以辩论，可以嘲讽，可以不看，这是他人的权利</p><p>说这个，只是想说人生真的太短了，大胆去说，大胆去做，没什么好担忧的</p><p>这里引用下在<a href="https://www.ruanyifeng.com/blog/">阮一峰博客</a>看到的一段话</p><blockquote><p>我是必死的凡人，<br>我的时间、精力都是有限的；<br>有很多事，我做不到；<br>我不需要去讨好所有的人；<br>我会远离不尊重我的人；<br>我会回击挑衅我的人。<br>我是必死的凡人，<br>活着的每一天，我都在精进，在努力,<br>我会守卫我所爱和信任的一切。</p></blockquote><h1 id="软件"><a href="#软件" class="headerlink" title="软件"></a>软件</h1><h2 id="邮件规则自动化"><a href="#邮件规则自动化" class="headerlink" title="邮件规则自动化"></a>邮件规则自动化</h2><p>以前不知道有这东西，后续在设置中发现这东西，才发现有这好东西</p><p>果然好东西都是在身边，常常不起眼<br>先说这个，等会再介绍另一个习以为常但效率Max的工具：「虚拟桌面」</p><p>进入QQ邮箱，在设置中找到「收信规则」</p><p><img src="/../images/image-20240205214350790.png" alt="image-20240205214350790"></p><p>这个东西有什么用，总的来说就是收邮件后实现一个智能分类</p><p>你创建一个规则，邮件会判断符不符合这个规则，符合的话自动执行对应操作（移动、删除、已读）<br>有点像IFTTT，但是这个「收信规则」针对的仅是邮件</p><p>举例1：</p><p>我个人是有使用UptimeRobot监控网站的运行状态的<br>当网站访问不了，会发给我一条邮件提醒，我本意是「提醒」，在手机有个弹窗，我知道有这回事就行了，没必要点进去邮件看看</p><p>那我可以设置创建一条规则，当邮件的标题包含「Monitor is DOWN」字样的时候，自动将邮件设置为已读，并且移动到网站监控文件夹中去</p><p><img src="/../images/image-20240205215229060.png" alt="image-20240205215229060"></p><p>举例2:</p><p>我们想要将验证码的邮件，全部放在一个文件夹，这样阅览邮件的时候不会太乱<br>那么可以这么做，创建一条规则，当邮件包含验证码的字样，自动移动到一个文件夹</p><p>……</p><p>大致就是这么回事，这个功能可以实现自动化，而自动化意味着效率<br><del>可玩性</del>可操作性还是蛮高的，感兴趣可以去试试</p><p>QQ邮箱有这个，如下图，其他邮箱不知道支持不支持，要自己查看</p><p><img src="/../images/image-20240205214545697.png" alt="image-20240205214545697"></p><h2 id="虚拟桌面"><a href="#虚拟桌面" class="headerlink" title="虚拟桌面"></a>虚拟桌面</h2><p>我个人使用电脑的时候，总是会遇到一个情况，屏幕放不下自己想要的窗口</p><p>比如，我使用Obsidian的时候，会同时打开Typora编辑</p><p>但是换到其他软件的时候（假设Vscode），我需要缩小这2个软件，打开Vscode编写代码<br>然后编写完代码，我想要换回去Typora+Obsidian，我又要打开Typora，再打开Obsidian，恢复那个状态</p><p>如果是一个窗口还好说，直接<code>Alt+Tap</code>就可以切换了，但如果是多个窗口，可以发现就无能为力了<br>例如，我想要从<code>Vscode</code>切换到Obsidian+Typora（两者同时打开窗口并排），<code>Alt+Tap</code>快捷键就做不到</p><p>一直挺困扰，想着硬件方面换个大屏幕，放更多窗口，但个人又追求「必要原则」，买了我现有手头的屏幕就得吃灰，或者想办法出手，感觉比较费事，所要想从软件方面入手，但一直没有遇到合适的软件，直到那天我好奇重新尝试了下虚拟桌面</p><p>先说下我是知道Window系统是有自带虚拟桌面的，但是一直没当回事<br>那天好奇试试，瞬间震惊我一整年w(ﾟДﾟ)w，这tm不就是我梦寐以求的东西吗？<br>好东西总在我身边，对此总是一无所知也是无语….</p><p>使用虚拟桌面我可以创建3个桌面，类似于工作区，我是一个学习使用，一个开发使用，一个做其他</p><p>如下图，可以快速从一个场景切换到下一个场景，不用去操劳窗口的事情<br>注意下图的任务栏变化，不是<code>Alt+Tap</code>，而是切换桌面，可以快速从一个场景切换到另外一个场景，真的非常舒服<br>例如，我码代码，码累了，想写博文，直接快速切换到博文的桌面，直接接着写</p><p><img src="/../images/%E8%99%9A%E6%8B%9F%E6%A1%8C%E9%9D%A2%E5%88%87%E6%8D%A2%E6%BC%94%E7%A4%BA.gif" alt="虚拟桌面切换演示"></p><p>上面演示都是单窗口，但是<code>Alt+Tap</code>也可以做到，还不足以体现虚拟桌面的魅力<br>那假如多窗口呢？码博文的时候，直接快速切换到另一个桌面快速浏览博客圈其他人的博文，然后看完，再接着写代码</p><p><img src="/../images/%E8%99%9A%E6%8B%9F%E6%A1%8C%E9%9D%A2%E5%88%87%E6%8D%A2%E6%BC%94%E7%A4%BA2.gif" alt="虚拟桌面切换演示2"></p><p>发现魅力了吗，以组为单位快速切换的魅力</p><p>真心推荐大家去尝试下，用好这东西，不开玩笑，生产力Max</p><p>如何使用虚拟桌面？</p><p>非常简单</p><ul><li>创建：按Win+Tap，点上面的加号，增加桌面<br><img src="/../images/image-20240205220921919.png" alt="image-20240205220921919"></li><li>切换：使用快捷键Win+Ctrl+← &#x2F;→（左右方向键）</li></ul><h1 id="推荐"><a href="#推荐" class="headerlink" title="推荐"></a>推荐</h1><p>算是现在的日常文惯例，分享个人感觉不错的东东</p><ul><li>音乐：<ul><li><a href="https://y.qq.com/n/ryqq/songDetail/001a2TQm2vQ8Y7">Terracentric</a>：吉他+电音，曲终果断收藏，吉他给我比较深印象的一首是这个，一首是《无题》，这首有种初听林赛·斯特林（Lindsey Stirling）电音+小提琴的惊喜，推荐值MAX。</li><li><a href="https://y.qq.com/n/ryqq/songDetail/000LeRAr2Vmt5W">濒日遗地</a>：享受电音，聆听诸神的吟唱吧|´・ω・)ノ（突发中二魂）</li><li><a href="https://y.qq.com/n/ryqq/mv/004Q1vny0UBFdy">SPECIALZ</a>：《咒术回战：涩谷事变》片头曲，听不懂日文，但旋律上头</li><li><a href="https://y.qq.com/n/ryqq/songDetail/003x0Pwa2FnqwN">Levels</a>：节奏感拉满，走路带龙卷风的电音</li><li><a href="https://y.qq.com/n/ryqq/songDetail/001BPW60401FfG">逆光 (ウタ from ONE PIECE FILM RED)</a>：日文歌，听不懂，但同样旋律上头，尤其后面的弹舌，真的炸裂，虽然不懂音乐，但感觉主唱太强了，好像是海贼王的歌，番没看过，但歌很赞</li></ul></li><li>软件<ul><li><a href="https://modernflyouts-community.github.io/">ModernFlyouts</a>：替换原生系统的指示器（大小写锁、数字锁），样式非常好看</li></ul></li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      
+      <comments>http://example.com/2024/02/05/2024.02.05/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>博客一周年随笔</title>
+      <link>http://example.com/2024/01/17/2024.01.17/</link>
+      <guid>http://example.com/2024/01/17/2024.01.17/</guid>
+      <pubDate>Wed, 17 Jan 2024 13:52:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;去年的本月，BiliBili偶然浏览到Gridea，随后入坑博客圈&lt;br&gt;注：&lt;em&gt;虽然现在不用了，但我依旧推荐小白可以先尝试下Gridea，还是蛮漂亮的&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;后面因为速度、主题等因素，转Hexo，开始搭建，域名、无服务器、有服务器、备案</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>去年的本月，BiliBili偶然浏览到Gridea，随后入坑博客圈<br>注：<em>虽然现在不用了，但我依旧推荐小白可以先尝试下Gridea，还是蛮漂亮的</em></p><p>后面因为速度、主题等因素，转Hexo，开始搭建，域名、无服务器、有服务器、备案、CDN加速、折腾主题改动，一步步过来<br>对于当时而言，花费了挺多精力，搭建后算是对搭建网站整体流程有个大体的认识了</p><p>今年的此刻，写下一些对此的感想吧</p><h1 id="两个思考"><a href="#两个思考" class="headerlink" title="两个思考"></a>两个思考</h1><p>说说两个思考&#x2F;认识</p><ol><li>内容为王：技术只是承载的平台，内容才是王道</li><li>投入产出比低：博客本身是件投入产出不对等的事情</li></ol><h2 id="内容为王"><a href="#内容为王" class="headerlink" title="内容为王"></a>内容为王</h2><p>第一点：<strong>技术只是承载的平台，内容才是王道</strong></p><p>不管是 <code>Gridea</code>、<code>Halo</code>、<code>Hexo</code>、<code>Typecho</code>、<code>Wordpress</code> 等等一切框架，本质是工具，主要是用于发布内容<br>就算不用博客框架，你直接使用 Python 的 <code>Django</code>、前端的 <code>Vue</code>，一样能建博客<br>能Get到我传达的点吗？黑猫白猫，能抓老鼠的就是好猫</p><p>博客这东西技术到了或者没技术，其实都可以做，全看个人选择<br>有技术搭建服务器，没服务器直接托管部署到 <code>Github</code>、<code>Netlify</code>、<code>Vercel</code>、<code>OSS</code> 等<br>重要的还是内容，这也是后续没怎么再折腾主题相关的事情，因为意识到<strong>内容的重要性&gt;网站的重要性</strong><br>当然好看的主题，良好的阅读体验这些是加分项，我不否认他们的重要性，只是权重应该比内容低</p><h2 id="投入产出比低"><a href="#投入产出比低" class="headerlink" title="投入产出比低"></a>投入产出比低</h2><p>第二点：<strong>博客本身是件投入产出低的事情</strong></p><p>折腾了几个月后，把玩玩具的新鲜感过去后（可以发现早期文章都是Hexo相关），开始追求意义<br>折腾过后，那时候意识到我费时费力写文章有什么意义</p><p>记录生活？<br>虽然博客我有介绍说是记录生活，但记录生活的软件，我实际有flomo、Obsidian，为什么还要多此一举再用Hexo</p><p>用于盈利？<br>盈利广告公司看不上我这点小水滴，况且我本身也不想加广告，我自身就是厌恶广告影响体验的人，更不可能当恶龙</p><p>最核心的点就是给观众看（分享）<br>但观众看，不能产生收益（金钱），成年人的世界，凡做事都讲究投入产出，要算一斤菜多少钱，一天工资多少钱，一个月多少工资<br>大家都不是小孩子，<strong>当你长期做一件无回报的事情的时候，最容易的选项就是放弃</strong>，我想这也是很多人写博客写着写着就闭站的原因</p><p>你拿写文章这时间，去喝茶，去打游戏，去谈情说爱，不比这香？<br>所以有些佩服日更、频繁更新的博主</p><p>因为用电脑写一篇博文基本20分钟起步，推测其他博主也差不多，日日做到其实不是件简单的事情</p><h1 id="博客、博文自我要求"><a href="#博客、博文自我要求" class="headerlink" title="博客、博文自我要求"></a>博客、博文自我要求</h1><p>我意识到第 2 点（投入产出比低）的时候，决定更改自己的更新频率<br>我不能凭着性子来做事，要不然有一天我可能也会因为意兴阑珊，觉得毫无价值感就闭站了</p><p>一个月发个 10 几篇，我觉得那影响到了我的生活，花费太多的时间，外加没有产出，我不可能这么做<br>现在不求太多，每个月发个 1-2 篇即可，将想表达的，集合起来写个长文对外输出<br>确实表达欲爆棚，再在此基础上增加即可</p><p>另外我目前感觉我的记录还是不太行，文章不够精简<br>本身写长文，时代太忙，静心的人太少<br>我想尽可能做到<strong>适量的阅读时间</strong>和<strong>精准地表达</strong>，这两者的平衡，今年也尽量往这上面靠</p><p>总结的话，对自己写博客的要求</p><ol><li>技术文：<ol><li><strong>不复制</strong>，没有意义，除非博文本身有问题，可在此基础上延伸</li><li>参考资料<strong>注明出处</strong></li></ol></li><li>日常文：<ol><li>精：尽量<strong>输出有价值的思考</strong>，没有的话，少水文，另外做到少错别字</li><li>简：阅读方面尽量做到<strong>时间与表达平衡</strong>，文字简练点</li><li>不：对 AI 灌水说 No，<strong>拒绝用 AI 生成内容进行灌水</strong>，AI 可以帮助人类，但不能代替我的思考，也无权越界代替我思考，用 AI 生成的文字是 AI 的思考，不是我的思考，但可以辅助总结、配图</li></ol></li><li>频率：<ol><li>进行月更，<strong>每月更新 1-2 篇</strong>，前提不能全部水文，例如发一行字，一个表情包，那不叫博文，那叫微博，违背 2.1 要求。</li><li>有时间多更，没时间少更，<strong>日期不定</strong>，无强制性要求</li></ol></li></ol><h1 id="博客意义"><a href="#博客意义" class="headerlink" title="博客意义"></a>博客意义</h1><p>既然博客是件产出低的事情，那么做这件事情还有什么意义<br>这里说说博客仅针对我个人的意义，从「我」的角度出发</p><ol><li>输出、价值</li><li>社交、名</li><li>对谈、博客圈</li></ol><h2 id="输出、价值"><a href="#输出、价值" class="headerlink" title="输出、价值"></a>输出、价值</h2><p>我希望，我的技术文能被人搜索到，作为参考帮助</p><p>我希望，我的日常文能让人多停留片刻，听闻我的故事</p><p>古人留名者，无不是恶人（遗臭万年也是种本事）、伟人、圣人，我做不到历史留名，百年后也无人记得我这个小人物<br>只能在现有的一段历史中，让多几个人知道，哦，还有这么个人存在过，然后该尘归尘，土归土</p><p>以上就是对外输出的价值</p><h2 id="社交、影响力"><a href="#社交、影响力" class="headerlink" title="社交、影响力"></a>社交、影响力</h2><p>是人就有社交的需求，有些东西，不方便发朋友圈，博客再适合不过</p><p>另外也能通过文章，结识一些博客圈的朋友</p><p>「名」方面，我希望谈到木木困玉光，哦，知道博客圈有这么一个人，写的文章还行，尚且值得一读🤣</p><h2 id="对谈、博客圈"><a href="#对谈、博客圈" class="headerlink" title="对谈、博客圈"></a>对谈、博客圈</h2><p>什么是博客圈？<br>每个人发文章，汇聚成河，即博客圈</p><p>因为每个人认知、人生经历不尽相同，产出的文章也掺杂了自己不同的人生记录、思考<br>我认为这是博客圈的魅力所在，有的人会说视频也有Vlog呀，但是要知道文字的信息承载密度高视频不知道几何<br>同样数量的文字，在有限的时间里面，文字能精确表达，而视频反而很难做到（当然视频也有文字无法比拟的优势）</p><p>阅读书籍，是与作者对谈，跨越时空传授经验、道理、技术</p><p>我们现在能通过书籍阅读知道古人是怎么思考看待问题，阅读书籍获得技术<br>而发博文，也是类似的道理，发博文，阅读博文，本质是他人与写博客那一刻的作者进行一次对谈</p><p>每个博客圈的人，留下博文，供他人阅读对谈<br>而阅读，能让自己从多方面地看待事情或者看待世界，看待别人是怎么看待这件事情的，不会让自己陷入局限性思考<br>反过来，就是他人能通过我的文章，对世界的认知增加，或者引发思考</p><h1 id="后话"><a href="#后话" class="headerlink" title="后话"></a>后话</h1><p>一周年其实本没有什么意义，因为我认为程序的数据在时间的维度上失去了价值<br>比如，以前小的时候会追求QQ等级那东西<br>但长大以后，可能因为接触电脑方面比较多原因，认为那就是一个数值，无非就是数据库中的<code>level=1</code>字段，变成了<code>level=99</code></p><p>我们认为有意义的事情，是我们自己后天赋予了上去，赋予了仪式感，这才有了意义</p><p>结婚的那天，与你昨天度过没有什么不同<br>生日的那天，与你诞生那天没有什么不同<br>死去的那天，世界其实仍旧没有什么不同</p><p>你认为有意义的才是意义</p><p>那我会认为一周年是件有意义的事情吗？<br>我想上面已经给出了答案，从内心回答是不会<br>我也不能给予网站任何仪式感（要不写两个烟火<code>js</code>庆祝下doeg）</p><p><strong>此篇只是借着一周年的名头传达思考</strong>🙃</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      <category domain="http://example.com/tags/%E6%80%9D%E8%80%83/">思考</category>
+      
+      <category domain="http://example.com/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <comments>http://example.com/2024/01/17/2024.01.17/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2023年回顾</title>
+      <link>http://example.com/2023/12/20/2023.12.20/</link>
+      <guid>http://example.com/2023/12/20/2023.12.20/</guid>
+      <pubDate>Wed, 20 Dec 2023 05:21:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;原先没有想到写年终总结，看到这个博主写的这篇：&lt;a href=&quot;https://yinji.org/5198.html&quot;&gt;2023·年度回顾&lt;/a&gt;&lt;br&gt;才想到这个月是今年的最后一个月了，工作后时间确实过的快。&lt;/p&gt;
+&lt;p&gt;个人其实好像比较少写年终总结类似</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>原先没有想到写年终总结，看到这个博主写的这篇：<a href="https://yinji.org/5198.html">2023·年度回顾</a><br>才想到这个月是今年的最后一个月了，工作后时间确实过的快。</p><p>个人其实好像比较少写年终总结类似的，而是坚持采用提炼思考的方式。<br>因为坚信成长更多来源于生活中的日常和思考，而非一蹴而就。<br>如同写作一般，面对白纸苦思冥想不知道写什么，但是一打开日常闪念的记录，立刻就文思如泉涌，知道有什么可以写可以表达的。</p><p>这种记录的方式，感兴趣的可以阅读这篇的数据人生与人生管理章节：<a href="https://linguoguang.com/2023/07/06/2023.07.06/">6月7月一些思考</a></p><p>今天休息，乘机把今年的总结码一下吧</p><p>从两方面回顾吧，一个从时间线的角度回顾、一个从思考的角度回顾</p><h1 id="年度事项总结"><a href="#年度事项总结" class="headerlink" title="年度事项总结"></a>年度事项总结</h1><p>加粗部分是每个月的重心，花费了大量精力</p><ul><li>1月：<ul><li>辞职（2023.01.18 204040）：期望打破稳定现状+个人想法，裸辞3年稳定工作🤔</li><li><strong>Obsidian同步博客工作流研究</strong>：写Obsidian2Hexo脚本，搭配Quicker，用于Obsidian快速同步至博客</li><li><strong>搭建博客</strong>：基于Github+阿里云域名+Netlify搭建</li></ul></li><li>2月-4月<ul><li><strong>学习</strong>：学习感兴趣的知识（学后忘&#x3D; &#x3D;）<ul><li>前端：HTML、CSS、JavaScript、Bootstrap</li><li>Python：学习Django框架</li></ul></li><li><s>优化</s><strong>折腾博客</strong>：博客搭建后的各种折腾<ul><li><s>博客尝试OSS部署，失败（需要备案）</s></li><li>备案、评论、加社区等等</li></ul></li><li>电脑&#x2F;开发&#x2F;搭建<ul><li>ChatGPT：热点，疯狂尝试&#x3D; &#x3D;</li><li><strong>Rss阅读器</strong>：基于Python的Django框架开发Rss阅读器（完成后，使用一段时间，现已弃之😅）</li><li><s>尝试开发Utool插件，失败（相关知识面不足）</s></li><li>电脑硬件升级，更换机箱，加装内存、显卡</li><li>尝试RSS到Cubox的工作流，开发Rss2Cubox脚本（完成后，使用一段时间，现已弃之😅）</li><li>维护迭代Obsidian2Hexo项目，支持图片wiki写法：<code>![[]]</code>😉</li></ul></li></ul></li><li>5月-7月<ul><li>博客：<ul><li>更换（购买）服务器、服务器备案、又拍云CDN加速</li><li>研究博客增加Memos（现已弃之）</li></ul></li><li>Obsidian：采用图床+支持OSS同步+现有Obsidian2Hexo脚本逻辑代码修改</li><li><strong>摆烂生活，游戏人生</strong>：坚持每日跑步&gt;&#x3D;2km锻炼+玩原神+刷番剧+无所事事😑</li></ul></li><li>8月<ul><li>精神爆炸：摆烂久了，精神状态略微不佳，外加家庭上压力原因，做出广深3天两地跑的迷惑行为，花钱无享受，遭罪🙄…</li><li><strong>工作</strong>：重新找寻工作，面试3份工作，领取Offer，继续进入人生混吃等死的生活</li></ul></li><li>9月-10月<ul><li><strong>工作</strong>：进入磨合期，尝试新环境、新工作，还行</li><li><strong>娱乐</strong>：原神+bilibili</li><li>电脑&#x2F;开发&#x2F;搭建<ul><li>基于服务器搭建alist，不过比较少用到</li></ul></li></ul></li><li>11-12月<ul><li><strong>断舍离</strong>：生活、娱乐（原神+bilibili）、软件方面做了大量减法，约束个人精力</li><li>状态：精神状态变佳，吃饭多多、思考多多🙂</li></ul></li></ul><p>总结的话，上半年折腾为主，在探索知识的海洋Doeg</p><p>下半年的话，算是回归生活主线</p><h1 id="年度思考总结"><a href="#年度思考总结" class="headerlink" title="年度思考总结"></a>年度思考总结</h1><p>查看了下 Obsidian，截至到此时此刻，记录了144天，记录了334篇思考、随笔等<br>本月没结束，所以 12 月总结未完成<br><img src="/../images/image-20231220142448774.png" alt="image-20231220142448774"></p><p>从今年的所有思考中抽取5条对外分享吧<br>其实想分享挺多，但全部太多了，估计5w-8w字差不多（应该有吧，甚至更多字数）</p><p>其实说是思考总结，更像是我自己回顾一遍，然后把今年的一些思考提取出来与你分享<br>这也是渐进式的好处吧，任务拆分到平时，要做的时候感觉顺其自然</p><h2 id="自立自强"><a href="#自立自强" class="headerlink" title="自立自强"></a>自立自强</h2><p>基于[[自立思维]]的2点总结</p><p>做事优先考虑自我完成，实在解决不了再考虑寻求帮助</p><p>不要抱着学生心态去等待人教，而是自己去学习。<br>什么都要人教，而不是自己主动去学习，去争取，这是做事方面的大忌。<br>你已不是象牙塔的学生，心态方面要转变过来，社会每个人都有自己的生活，没有义务陪伴你一生</p><p>工作中要注意依赖与团队合作的区别</p><p>合作的基础是建立在自立自强之上<br>你要抱着有对方帮忙更好，没有也无所谓的心态活着，而不是产生任何！任何！任何！依赖的心态。</p><p>合作的对象包括朋友、亲人、同事等等，泛指除自己之外的所有人<br>不要先抱有对他人帮助的幻想，先抱有幻想，自然有破灭之时<br>没有幻想、期望，自然不会带来失望；没有也可以，有当然更好</p><h2 id="穷举解决"><a href="#穷举解决" class="headerlink" title="穷举解决"></a>穷举解决</h2><p>先穷举后解决，另外一种解决问题的角度</p><p>正常解决问题步骤</p><ol><li>遇到问题</li><li>思考问题产生的解决方式</li><li>想到一个，尝试解决</li><li>解决问题</li></ol><p>中间的2、3步骤会循环往复</p><p><img src="/../images/image-20230118182943343.png" alt="image-20230118182943343"></p><p>穷举解决问题步骤</p><ol><li>遇到问题</li><li>思考问题产生的解决方式</li><li>罗列所有可能原因，再挨个尝试</li><li>解决问题</li></ol><p><img src="/../images/image-20230118184032659.png" alt="image-20230118184032659"></p><h2 id="选择权外交"><a href="#选择权外交" class="headerlink" title="选择权外交"></a>选择权外交</h2><p>源自：[[2023.02.23]]</p><p>我们一直以为自己没有选择权，我们一直不做出选择让他人帮忙做选择，一直将自己的选择权外交<br>我们其实一直都有选择权，选择怎么过自己的生活，怎么度过自己的一生，选择权一直都在手中，不曾变过</p><p>选择权外交带来的问题就是，别人帮你做了选择，代价自己承担</p><ul><li>做好了，于他人有功，毕竟我帮你做了选择嘛，你要念着我的好</li><li>做坏了，与他人没有关联，毕竟是你自己做的选择，或者说是你自己选择走的路，与我没有半毛钱关系</li></ul><p>这里的<strong>他人</strong>代指除自己外所有人<br>不管是谁，同事、朋友、亲戚、家人</p><p>当你选择了他人提供的路线（建议、说法或者其他），就意味着其实责任就在自身了，毕竟是自己的选择了</p><h2 id="精通导向与完成导向"><a href="#精通导向与完成导向" class="headerlink" title="精通导向与完成导向"></a>精通导向与完成导向</h2><p>源自：[[2023.01.26]]</p><p>做一件事情前，先思考完成这件事情是要达成怎样的程度</p><p>是要精通还是要完成？</p><p>如果是要精通，意味着要花费时间深入了解，深入学习</p><p>如果是要完成，意味着达成目标即可，不管过程</p><h2 id="20-的思考"><a href="#20-的思考" class="headerlink" title="20%的思考"></a>20%的思考</h2><p>源自：[[2023.09.05 185718]]</p><p>万事万物应该抓到核心的那个点，也就是抓住事物的20%</p><p>这是基于整理房间时候产生的思考</p><p>我个人是每隔一段时间会收拾一下，但那天在思考有必要吗？<br>我整理是为了什么？<br>我整理是为了追求空间的整洁，而空间的整洁带来了内心的平静，安稳</p><blockquote><p>像今天上班出门比较急<br>争分夺秒，那叠被子可能要5-10分钟，叠完我就迟到了，这种造成心急（其他更坏，例如上班迟到）的结果显然就不是我要的，所以我舍弃叠被子，转而选择直接迅速出门上班</p><p>可以看出是对事物的权衡，因为这件事不重要，就舍弃这件事去做更重要的事情<br>何况舍弃也没有带来更大的坏处，例如巨大的经济损失或者承担不起的后果</p><p>[[2023.09.06 234837]]</p></blockquote><p>可以发现如果我的内心平静、安稳，那维持现状，不整理也没有什么。</p><p>然后这个思考通过[[举一反三思维]]进行迁移，发现很多方面有所用到，另外以前也有所提及</p><blockquote><p>生活中其他的流于形式<br>读书打卡，读了100本书，没有任何思考，以及可以指导你生活与自身的，有什么用（同上面碎片化阅读其实一样）。<br>看了没思考，你所打卡100本，只是陷入计数器陷阱中，即浮于表面（标注），没有得到任何东西</p><p>对抗流于形式的方法<br>真正关注你想要，思考怎么达成，而不要流于表面</p><p>[[2022.08.11 125711]]</p></blockquote><p>你一定要明白一件事情的重点是什么，什么是一件事情中的核心？<br>去专注于这件事的核心，其他细枝末节有冗余可做，没冗余可忽略，换句话说要把90%的精力分配给这20%的核心</p><h1 id="后话"><a href="#后话" class="headerlink" title="后话"></a>后话</h1><p>感谢沉下心阅读到这里的朋友，写长文估计阅读得少之又少</p><p>今年总的来说，经历思考很多，明年再接再厉吧</p><p>另外有些想对一些暂时休息的人说的话，没有任何一段人生是浪费的<br>举个例子，我在5-7月即使什么都不做（躺平），但是心态、认知方面一样在默默成长</p><blockquote><p>我今年躺平了半年，对于心态认知方面其实有很大的改观，过去的自己认为，我赚到了钱了，不工作了，要过爽快的人生，永远不工作了，但实则这半年，我哪里没有去，反倒是觉得生活缺失了工作这一环的话，人生变得很无聊，感觉不到自己的价值，工作中你能通过付出劳动获取金钱报酬，能与他人进行交际，不工作后与社会脱轨，能做也只能在虚拟世界与人聊天，亦或者是寻求打发时间的项目，当然长期的工作亦或者PUA类工作还是使人厌恶的，好的生活其实是工作与生活的平衡，这里想表达的思想是赚到足够的钱不重要，重要的是明白自己想要什么样的生活，我在这半年躺平的过程中其实就相当于赚钱后不工作的一个映射，但是这样的生活显然不是我要的，这也是半年来思考所明白的一个点</p><p>跑步时想到我一直思考人生的意义，但其实人生的每一段经历都有意义，正因为经过过去的每一段经历才铸就现在的这个我，我的三观，我的性格，我现有的一切都是过去一切的总和，没有没有意义的人生经历，正如第二点，躺平半年，看似什么没做，但实则也是在默默进行看不见的成长，对心态，认知进行改观</p></blockquote><p>博主更新频率是月更型，下次再更新是下年了🙃<br>希望明年大家身体健康（身体第一），天天开心</p><p>以上，共勉~</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      <category domain="http://example.com/tags/%E6%80%9D%E8%80%83/">思考</category>
+      
+      
+      <comments>http://example.com/2023/12/20/2023.12.20/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2023.11.30</title>
+      <link>http://example.com/2023/11/30/2023.11.30/</link>
+      <guid>http://example.com/2023/11/30/2023.11.30/</guid>
+      <pubDate>Thu, 30 Nov 2023 03:42:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;想写点思考，但脑子现在空空如也&lt;br&gt;想写点有文采的， 但肚子里没点水墨，感觉是有点为难自己了，哈哈&lt;/p&gt;
+&lt;p&gt;之前提了每月一更，这月不知道写点什么好&lt;br&gt;那就随笔写写&lt;/p&gt;
+&lt;h1 id=&quot;房&quot;&gt;&lt;a href=&quot;#房&quot; class=&quot;headerl</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>想写点思考，但脑子现在空空如也<br>想写点有文采的， 但肚子里没点水墨，感觉是有点为难自己了，哈哈</p><p>之前提了每月一更，这月不知道写点什么好<br>那就随笔写写</p><h1 id="房"><a href="#房" class="headerlink" title="房"></a>房</h1><h2 id="社会事件"><a href="#社会事件" class="headerlink" title="社会事件"></a><strong>社会事件</strong></h2><p>亮亮丽君夫妇事件近期闹挺大，自媒体多多少少都会有推荐到<br>看了下，确实感觉买房者的确实很可悲，而开发商的做法，以及一些地方不作为确实很可恨</p><p>具体事件经过，大伙感兴趣可以自己去看下，这里就不赘述了<br>就简单讲讲结果</p><p>开发商光天化日之下打人+抢手机，报警结果是无果<br>手机未找到+医疗费自己全出</p><p>整个结果就很讽刺~，本应该拿回自己应该得到的2w（买房返利），也是为了还房贷<br>结果落的这个下场</p><p>我在想我代入对方的角色，我能比对方做的更好吗？<br>想来不行，我们都是普通人，真去维权估计结果不会好到哪去</p><p>全世界开发商挪用银行监管资金好像只有中国有这一出，这个责任却全部由下面的人承担后果，呵呵</p><h2 id="房价、民生"><a href="#房价、民生" class="headerlink" title="房价、民生"></a>房价、民生</h2><p>买房其实感觉离个人很遥远，可能是知道完全不可能够的到这个目标</p><p>你想吃葡萄，葡萄在你上方半米，你会踮起脚尖试试<br>在你上方几米，你会试着找方法<br>而当在万米高空，你只会偶尔抬头仰望，甚至看都不看，因为离你太过遥远</p><p>现在就是如此，房价离我们太过遥远（宇宙那么大，一平卖我5万8，哈哈哈）</p><p>另外民生其实很多都已经受到房地产的影响，铺面层层加码的租金，最终都会变成成本，算在商品中，落在你我打工人的身上</p><h2 id="买房思考"><a href="#买房思考" class="headerlink" title="买房思考"></a>买房思考</h2><p>疫情因素+很多断供+各种烂尾事件+各种开发商垃圾事件+就业环境原因等，各种Buff叠加之下<br>现在的多数年轻人都清醒的很，该上车的都上车了（90后），往后的（95后、00后）估计不会买，一方面上面的长辈已经买了，可以继承，或者继续保持观望的态度（比如我）</p><p>这种情况下，你拿什么政策刺激有用？放开限购、降低首付…..有钱买吗？<br>开发商买房送家具、送家电？我有钱买房，缺你这三瓜两枣？<br>跟买兰博基尼送千元优惠券有什么太大区别</p><p>我个人本身是实用主义，在房子还没有下降的时候，就在思考房子本身的意义<br>世界那么大，一间100平左右的空间需要一个人，甚至一代人的时间去争取<br>我要付出那么多，掏空父母的积蓄，减低个人的生活质量（像亮亮丽君买肉都不敢）<br>只为那间不到百平的水泥间，有什么意义？我为了什么</p><p>网上现在有句话说的很好：远离房赌毒，拥抱幸福人生</p><p>目前还是决定保持观望的态度，一方面没有需求，另外一方面资金不够<br>如果可以买房的话，也尽量追求全款，买房大伙一算里头全是利息🙃</p><p>中国的房子跟太多东西挂钩了，户口，学位等等，可能这也是不买也得买的原因吧<br>另外的则是追求稳定感，有人道，买了房就如同在一座城市有了根，或是中国传统思维的继承，或是本就是如此<br>但天地之大，有家人在，何处不是家呢</p><h1 id="App使用变化"><a href="#App使用变化" class="headerlink" title="App使用变化"></a>App使用变化</h1><h2 id="记录型精简"><a href="#记录型精简" class="headerlink" title="记录型精简"></a>记录型精简</h2><p>作为一个极简博主，不仅生活中贯彻「能用就上，不能用就下」理念，软件方面也是如此</p><p>上个月罗列了6个记录型App，原打算砍2、6<br>但发现幕布没有什么好替换的，中途尝试过「格志日志」<br>但有2点导致放弃，非全平台（有手机端，电脑端不够好），筛选数据不如幕布，所以还是继续保留</p><p>第5点（B言B语）发现很少使用了， 另外跟flomo其实存在一定的功能性的重合，所以打算从博客中精简掉说说页面了</p><p>目前记录型软件体系如下</p><ol><li>语雀：工作记录+Obsidian拓展</li><li>幕布：日常任务归档</li><li>Obsidian：知识库</li><li>flomo：闪念记录</li><li><del>个人博客B言B语：闪念记录</del></li><li><del>纯纯写作：手机端长文章写作</del></li></ol><p>Obsidian其实可以All in One，但带来的代价是变得沉重和体系的混乱</p><p>相关功能的数据只在相关软件中，例如日常记录的数据都在「幕布」中，而不会说放在Obsidian中<br>即和笔记混在一起，又和思考的日记放在一起，造成数据混杂在一起</p><p>这样追求每个软件只做一件事情，不重合也就不会造成数据的混乱</p><p>要吐槽的一点的是语雀，将小记和笔记功能集合在一个软件中<br>小记功能个人完全不用，你说要放弃flomo，完全转向使用语雀的小记，它输入又不够丝滑<br>而作为笔记，又多了一个完全没用上的小记功能，要不是依赖它的富文本编辑，也得从体系中踢出去</p><h2 id="Rss（心态篇）"><a href="#Rss（心态篇）" class="headerlink" title="Rss（心态篇）"></a>Rss（心态篇）</h2><p>我个人是有使用Rss的，抖音在以前卸载了，当然这不是标榜自己多光荣一样<br>而是使用的过程中，发现无法控制住自己，也就是容易上瘾，大把的时间流逝掉，而没有产出什么成果</p><p>后来改成使用BiliBili，但目前发现个人在这个平台也有刷视频的习惯了<br>那本质与在抖音刷短视频没有什么区别，所以将手机上的BiliBili卸载掉了</p><p>我思考我为什么使用RSS？<br>本质是为了高效获取信息，那我现在在做什么？<br>沉溺于短视频中，沉溺于算法中<br>这与我一开始使用的目的就是相反的，那我还有使用Rss的必要吗？<br>弄清楚了初心，也就会坚持使用Rss，而不是信息流（算法）软件</p><p>当然BiliBili中也有很多优秀Up主，不可能说因为自己的上瘾就否定掉软件的价值<br>解决方法的话是使用RssHub转换成源，再使用Rss关注，有价值的信息再收藏，有空再整理</p><p>另外总结出了2条有关Rss的思考（来源于[[2023.08.10 081256]]）</p><ol><li>使用Rss是为了高质量高效率获取信息</li><li>使用Rss不必担心错过什么，因为有已读和未读</li></ol><p>因为第2点原因，所以不用担心错过什么，可以等积累到一定数量再看，不用每天频繁刷取<br>而多出来的时间，就可以拿来做其他事情（而不是沉迷于算法 、推荐中永无止境）</p><p>要有以上这个意识，配合Rss使用更佳</p><h1 id="正能量传递"><a href="#正能量传递" class="headerlink" title="正能量传递"></a>正能量传递</h1><p>这个月经历两件事情，也算有点感触</p><p>其一，个人开电动车，手机放前面给震飞，个人浑然不知道，等到回去要扫码充电才发现不见了<br>后续急忙沿着原路回去找了一遍没找到，我就知道，可能给别人捡，当时脑子已经在想多种可能结果了</p><p>好的结果，对方愿意协商，我给对方钱作为酬谢<br>坏的结果，对方直接关机，我连协商的机会都没有</p><p>后续回到家里，打了电话过去，说是人家捡到手机放社区工作站了<br>人家让我直接过去拿就可以，我买了水过去，进行答谢（社区工作人员一开始还不愿意收😂），并且拿回了手机<br>问了工作人员捡手机的人呢，或者有没有联系方式<br>我想给钱给对方作为答谢，社区毕竟只是作为临时保管<br>工作人员说是一个女生，捡到后放这就走了，对此我只能说好人一生平安</p><p>如果对方没有还，个人要面临很多糟心事&#x3D; &#x3D;，工作请假（工作要手机）、办理手机卡、重新购买手机等等<br>想想头都大了</p><p>上述是一个被社会他人传递正能量的事件</p><p>第二个是个人向他人传递正能量的事情，下班路上，遇上个老人迷路了，其实就是走错了方向<br>问老人有联系电话没，说只有房卡（方言其实听不懂，但拿房卡晃还是看的懂的🤣）<br>一开始看上面地址还不知道在哪（使用了酒店别名），打电话给酒店人员才知道是早上工作去的一个酒店（就是这么巧&#x3D; &#x3D;）</p><p>之后停好电动车，走路送老人回去了<br>这里还是不敢开电动载他回去，怕没抓稳摔了，到时候我责任就大了，社会上的事情见多了…..</p><p>老人身体很差，像我们年轻人10分钟的路程，陪他走了30多分钟，最后送回他所住的酒店<br>跟工作人员聊下，才知道是他儿子在这开个房给他住，反正感觉有些唏嘘，也没有人陪同啥的，也没有留个联系方式啥</p><p>临走前，老人还一直想要送我几个个橘子，但我怎么好意思拿，人家出来就是为了买一点菜和几个橘子<br>不过被人感谢的感觉确实不赖</p><p>我的话，之前的心态有描述过：</p><blockquote><p>下班回来的路上，在石厦地铁站入口处，遇到一个孕妇跪在那，哭泣，地上写着求助信<br>没有驻留所以不清楚写的是什么<br>冷漠的走过去</p><p>心态真的跟前几年变化蛮大的<br>不愿为任何无关任何人舍弃任何精力，施以援手，虽然现在诈骗比较少了，但不排除骗的可能性</p><p>来自：[[2021.03.29]]</p></blockquote><p>兴许是这个月被传递过正能量，所以也想传递点自己的正能量吧<br>如果是冷漠的自己，可能也只会指下路就走了，这个世界与我无关，事不关己，高高挂起</p><h1 id="B计划"><a href="#B计划" class="headerlink" title="B计划"></a>B计划</h1><p>上述丢手机，发现个人在预案方面还是有所欠缺，会抽空完善<br>当然，目前一些方面也在逐渐完善</p><p>什么是B计划？沿用[[B计划]]笔记中的话进行复述</p><blockquote><ol><li>建立风险预案：为有可能发生但不一定发生的事情做预案准备，这样遇到相关事项的时候，有所准备，当然世间万事万物不可能都算到，这里只能为一些与个人有关的风险做准备</li><li>减少精力支出：这条是为软件方面设立的，个人已经厌倦了数据迁移，这里是预设后路，可能会用到，但不一定用到的，平时不迁移，等到可能产生问题（倒闭、费用升级等），可以用预案进行数据迁移，就是减少平时精力的支出，不用固定频率去备份数据（迁移），而是等到真的产生问题，再进行大规模迁移</li></ol></blockquote><p>预案在各方面的考虑都不同（以下是目前想到的）</p><ul><li>生活：应急急救、火灾逃生、手机丢失</li><li>软件：软件配置、数据迁移</li></ul><p>这个月阅读了一本老外的书，《逃生背包》，虽然国情不同，但其中的一些知识点还是不错的<br>主要介绍准备一个逃生背包，可以用于72小时的应急准备</p><p>但考虑到我们大多生活在城市，其实只有一条比较实用，可以用于城市中<br>准备好所有重要的文件（户口、身份证、各类卡、证书），放在一起，当发生火灾，能迅速拿到后离开<br>因为其他都可以用钱买， 而这些重新办理麻烦，有的甚至无法办理</p><p>准备如下：</p><p><img src="/../images/IMG_20231130_220703.jpg" alt="IMG_20231130_220703"></p><p><img src="/../images/IMG_20231130_220743.jpg" alt="IMG_20231130_220743"></p><p>另外准备了一个档案袋，装了各类文件，包括医院医疗检查结果、保险、各类个人相关文件等等</p><p><img src="/../images/IMG_20231130_220810.jpg" alt="IMG_20231130_220810"></p><p>当发生火灾的时候，其他东西都可以不管，提好这两个袋子跑便是<br>当然条件允许的话，个人可能还会扛电脑跑😂</p><h1 id="资源推荐"><a href="#资源推荐" class="headerlink" title="资源推荐"></a>资源推荐</h1><ul><li>番剧<ul><li>《想要成为影之实力者！》 第二季：不愧是暗影大人，hh~，搞笑+爽番</li><li>《葬送的芙莉莲》：动画太流畅了，打斗剧情都OK</li><li>《香格里拉边境～粪作猎人向神作游戏发起挑战》：不错的网游番</li></ul></li><li>音乐<ul><li>风骨：《完美世界》主题曲</li><li>无双的王者：《王者荣耀》主题曲，不玩这游戏，但歌曲挺不错的</li><li>Ryukyuvania：节奏感强，听起来舒服的电音</li></ul></li><li>软件<ul><li><a href="https://rao.pics/">Rao Pics</a>：能够远程访问Eagle、Pixcall、Billfish素材库的软件，可以说补齐了Eagle的短板</li><li><a href="https://elog.1874.cool/">Elog</a>：随意组合写作平台和部署平台，发展值得期待，可以说发挥每个软件各自的优点</li></ul></li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      <category domain="http://example.com/tags/%E4%B8%AA%E4%BA%BA%E6%88%90%E9%95%BF-%E5%BF%83%E6%80%81/">个人成长/心态</category>
+      
+      
+      <comments>http://example.com/2023/11/30/2023.11.30/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2023.10.28</title>
+      <link>http://example.com/2023/10/28/2023.10.28/</link>
+      <guid>http://example.com/2023/10/28/2023.10.28/</guid>
+      <pubDate>Sat, 28 Oct 2023 13:43:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;生活&quot;&gt;&lt;a href=&quot;#生活&quot; class=&quot;headerlink&quot; title=&quot;生活&quot;&gt;&lt;/a&gt;生活&lt;/h1&gt;&lt;h2 id=&quot;二战梧桐&quot;&gt;&lt;a href=&quot;#二战梧桐&quot; class=&quot;headerlink&quot; title=&quot;二战梧桐&quot;&gt;&lt;/a&gt;二战梧桐&lt;/h2&gt;&lt;p&gt;本月国庆放了几天假，上次没能登顶大梧桐，些许遗憾，这次再战，成功登顶&lt;/p&gt;
+&lt;p&gt;山顶有个扫码的，hh~&lt;/</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h1><h2 id="二战梧桐"><a href="#二战梧桐" class="headerlink" title="二战梧桐"></a>二战梧桐</h2><p>本月国庆放了几天假，上次没能登顶大梧桐，些许遗憾，这次再战，成功登顶</p><p>山顶有个扫码的，hh~</p><p><img src="/../images/mmexport1696491878180.jpg" alt="mmexport1696491878180"></p><h2 id="APP精简"><a href="#APP精简" class="headerlink" title="APP精简"></a>APP精简</h2><p>看了下 <code>flomo</code>，这个月整体没有什么记录，有记录些闪念，但又没有展开来讲<br>灵光如同金子，挺浪费资源的</p><p>想了下，可能是增加了app导致的，主要两方面</p><ol><li><p>选择困难症：多个App的困扰，造成了无从下手的感觉</p><blockquote><p>一个有意思的例子，我个人其实还蛮喜欢吃烤火腿的（但少吃，感觉不是很健康）</p><p>在阳台山外的广场，多家烤火腿&#x2F;香肠的摆摊，我不知道选哪家好，索性就不吃了…..</p></blockquote></li><li><p>时间投入：时间就这么多，在一个软件上多付出时间，意味另外一个软件上的减少时间</p></li></ol><p>个人使用的（记录型）app包括如下：</p><ol><li>语雀：工作记录+Obsidian拓展</li><li>幕布：日常任务归档</li><li>Obsidian：知识库</li><li>flomo：闪念记录</li><li>个人博客B言B语：闪念记录</li><li>纯纯写作：手机端长文章写作</li></ol><p>目前打算将2、6砍掉</p><p>纯纯写作（2）其实用起来也挺舒服，砍掉是因为发现很少在手机端码字，算是伪需求</p><p>另外，手机码字体太慢，也没有电脑舒服</p><p>打半天可能才上百字，电脑半小时可能上千字都写好了<br>Typora一打开，F11沉浸模式一开，码字不要太舒服</p><p>幕布（6）确实好，但太少打开了，想找代替品，但又没有想好，目前想的是整合到语雀中去，还在思考中</p><p>使用软件上的一点个人相关心得吧</p><p>根据频率倒推使用软件，不要凭空创建需求<br>好像跟现实也共通</p><ul><li>购买软件，先看自己使用的频率，再决定自己要不要买</li><li>购买物品，思考自己和使用的频率，再决定是否真的需要</li></ul><p>总的来说就是，从需求出发</p><h1 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h1><h2 id="任务导向"><a href="#任务导向" class="headerlink" title="任务导向"></a>任务导向</h2><p>工作上始终牢记自己是来赚钱的，不夹杂太多个人情感，真的可以少很多负面情绪</p><p>工作中，有一次遇到跟他人吵架的情况，还是不够理智，直接想着以完成工作为导向即可</p><p>以完成工作为导向！以完成工作为导向！以完成工作为导向！</p><p>其他所有情绪都是多余，我是毫无感情的打工人doeg</p><h2 id="少做热心市民"><a href="#少做热心市民" class="headerlink" title="少做热心市民"></a>少做热心市民</h2><p>少做热心市民，有时候好事变坏事</p><p>一次在城中村，遇到个问路的，我刚好从一个汽车入口进村，当时不知道那里只能进不能出<br>然后在村子里面，遇到个货车司机问路，中等货车，顺手就告诉他那有个出口，结果我从那里出去的时候，看到跟人家保安吵起来到了…</p><p>保安不给出，城中村又不好掉头，意味着只能倒车原路返回，技术难度MAX</p><p>罪魁祸首就是我，连忙过去跟司机夫妻道歉，后续有些愧疚，感觉可能司机刀我的心都有了….</p><p>所以少做热心市民，热心市民不是那么好做的，有时候可能好心办了坏事<br>在完全不确定的情况下，不要随意帮助他人，告诉自己，这不是在做好事，而是在做坏事！</p><p>另外基于上述第一项任务导向，少给自己增加工作量，能不管的事情就不管<br>当时还是工作期间，搞不好做好事的时候人家往地上一躺，事情不就上门了doeg，工作都不用做了</p><p>学学[[2021.03.29]]那会不挺好，非要装什么烂好人&#x3D; &#x3D;</p><blockquote><p>下班回来的路上，在石厦地铁站入口处，遇到一个孕妇跪在那，哭泣，地上写着求助信<br>没有驻留所以不清楚写的是什么<br>冷漠的走过去</p><p>心态真的跟前几年变化蛮大的<br>不愿为任何无关任何人舍弃任何精力，施以援手，虽然现在诈骗比较少了，但不排除骗的可能性</p></blockquote><p>反向思考，出门在外，他人的帮助也不一定完全可靠，给的信息源最好可以交叉验证下</p><h1 id="其他思考"><a href="#其他思考" class="headerlink" title="其他思考"></a>其他思考</h1><h2 id="身份限制"><a href="#身份限制" class="headerlink" title="身份限制"></a>身份限制</h2><p>由于工作需要，我们需要穿马甲，然后又看到工地的人穿的马甲有感</p><p>不要让身份限制了你的思考</p><p>穿上衣服，你是环卫工人，你是建筑工人，是安全员等等</p><p>但脱掉衣服马甲，大家都是人，其实没有太多区别</p><p>很多人遇到领导或者经理或者其他，阶级比你大的情况下就不敢勇敢的自我表达，畏畏缩缩的</p><p>以上个人生涯遇到过几次，皆亲生经历遇到过这样的人（包括我自己某些情况下也会）<br>说话声如蚊蚁，或者说话微带哭腔，或者卑微的很</p><p>其实大可不必，讲话都不利索<br>摆平心态，自然而然讲出来就好，身份限制了个人的正常发挥</p><p>工作上，要想着此处不留爷，自有留爷处（想着剥削劳动，为什么还能理直气壮）<br>生活上，要想着大家都是一个鼻子两个眼，为什么要谦让你（叠个甲，谦让是种美德doeg，但人人可欺的善良是种懦弱）</p><p>头衔称号同理，对方的头衔称号，是后天人们赋予的</p><p>人剥去后天所有附加的一切，大家都是人，没有什么不同</p><p>自然而然对待就好，当然说是这么说，其实还是有一定压力的，这里只是讲下一点感想和心态</p><blockquote><p>风险提示：</p><p>有的领导，可能就喜欢吃这套马屁功夫，体验权利的快感</p><p>请因人而异对待，可能是不会怎么样，但与个人的发展机会可能有失之交臂，看个人选择</p></blockquote><h2 id="交通优化想法"><a href="#交通优化想法" class="headerlink" title="交通优化想法"></a>交通优化想法</h2><p>城市的交通体系可以升级，Ai接手红绿灯的判定<br>在一处无人的地方看着司机等待红绿灯有感</p><p>其实AI现在在图像方面我觉得还是蛮厉害的，人像识别（图像识别）完全可以做的到</p><p>我觉得AI介入红绿灯的接管会不会是一种提高交通效率的方案</p><p>没人的地方，司机还是要乖乖准收交规，如果有AI调度，将周围的摄像头数据作为判断，知道这一片区域没有人，直接控制让司机同行</p><p>而有人往这块区域移动，再控制相应时间即可</p><p>以上反之同理，这个区域没车，我人还要大太阳下傻傻站原地等候？我铁定闯红灯doeg</p><p>纯想法</p><h1 id="推荐"><a href="#推荐" class="headerlink" title="推荐"></a>推荐</h1><p>分享些这个月觉得不错的资源</p><ul><li>音乐<ul><li>IVORY TOWER：《龙族》主题曲，10月循环听的一首歌</li><li>The Change - 鹭起：爬梧桐山听的歌曲，有种初遇到PDD洪荒之力电音的那种惊喜</li><li>Мокрые губы：干….</li></ul></li><li>番剧<ul><li>《龙族》：从音乐入坑，才知道做了动画，以前看过《龙族4奥丁之渊》，听了音乐，将小说1、2、3+番剧都补了，总体不错，动画整体流畅，算佳作，个人没看过小说1-3部，通过番剧能了解大体的剧情，能讲好故事，讲清晰主线，个人觉得就是好影视</li><li>《晚安世界》：近期观看的番，网飞一口气12集放送，爽~，剧情就不介绍了，强推，一晚上刷完了，只能说真的意想不到！到中间的一集的时候直接懵了（其他up主推荐的时候，up主透露了一些关键字的情况下，还能震撼到属实没想到）</li></ul></li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      
+      <comments>http://example.com/2023/10/28/2023.10.28/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2023.08.26</title>
+      <link>http://example.com/2023/08/26/2023.08.26/</link>
+      <guid>http://example.com/2023/08/26/2023.08.26/</guid>
+      <pubDate>Sat, 26 Aug 2023 10:59:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;好像写博客的文章，我都喜欢写一个前言&lt;/p&gt;
+&lt;p&gt;算是起个引子吧&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;准备花费1小时，写写近期的感想、感悟吧&lt;br&gt;前阵子打算写篇日记总结的，但是一犯懒，想的时候千言万语想表达，写的时候则无从下</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><blockquote><p>好像写博客的文章，我都喜欢写一个前言</p><p>算是起个引子吧</p></blockquote><p>准备花费1小时，写写近期的感想、感悟吧<br>前阵子打算写篇日记总结的，但是一犯懒，想的时候千言万语想表达，写的时候则无从下手</p><p>我想这也是flomo软件的碎片化记录的魅力吧<br>正式的书写其实挺难的，即使是写日常流水文，而非出书，但就好像面对一张纸，但不知道写什么的感觉</p><p>该写还是要写，算是记录这个（近期）时间点的自己吧<br>未来看自己，也知道自己这个时间点的心态、思考<br>就好像现在的自己去看5年前的自己写的日记，有些想法会显的稚嫩、可笑，但那就是过去真实的自己</p><p>当然也不完全说现在的自己比过去的自己更加聪明，认知上更加强大<br>就好比大多人的智力顶峰可能就在高考那个时间点，过后反而下降，人也不是随着时间的推移就变的越来越强大<br>人生不是游戏，游戏数值只增加不减少，虽然说过去自己想过游戏人生，但那只能说是一种乐观的态度精神</p><p>过去有些想法和感悟，现在的自己有时候回看还是受益匪浅<br>正经人谁写日记，我写~</p><h1 id="博客视角与自我视角"><a href="#博客视角与自我视角" class="headerlink" title="博客视角与自我视角"></a>博客视角与自我视角</h1><p>这一点以前想表达，但没写，想法一直盘旋脑海，写这里吧</p><p>自己写文章还是写日记，存在两种截然不同的心态<br>像现在这种写法，其实已经弄不清楚算是博文，还是日记了<br>在Obsidian中创建的是日记，公开的话，又是博文，不过感觉性质还是偏向于博文一点吧</p><p>一个是面对自我，进行剖析思考，可以大胆输出，情绪什么的</p><p>但如果面对是博客，我会比较克制，考虑到观众，尽量不把生活中的坏情绪传递出去</p><p>生活中，情绪只能被传递，而日记算是一个个人的发泄点吧，坏情绪（负面情绪）写进去合上，完事<br>博客的话，发上来感觉不是很妥当，也不想站点变成情绪垃圾桶，那样估计也没有人愿意花费时间看垃圾文</p><p>不过博客算是个小圈子吧，发了估计也没有多少人观看<br>就算有路过的，有没有心思看完也是另外一回事</p><h1 id="软件使用体验与李跳跳"><a href="#软件使用体验与李跳跳" class="headerlink" title="软件使用体验与李跳跳"></a>软件使用体验与李跳跳</h1><h2 id="糟糕体验"><a href="#糟糕体验" class="headerlink" title="糟糕体验"></a>糟糕体验</h2><p>今年使用了几个软件，服务上的、政策上的各种使用体验<br>各式各样的体验，算是给我再上一课，以及给自己的钱包和心灵来点小小的震撼</p><p>讲讲吧，有些算是发出来给大伙避坑</p><ul><li><p><code>Feedddd</code>：这个之前文章提过，是一个提供分布式的Rss源，非政策原因，官方自己关了，难受</p></li><li><p><strong>瓦斯阅读</strong>：付费购买Rss源服务，没有先尝试一下联系作者，结果付费了年费，然后体验也很糟糕，网页写的会员是可靠稳定，数据实时更新，但一些源完全就停留在去年的时候，相当于买了个假会员，只有一些比较大的公众号目前才有源，小的根本不追踪，站长联系不上（加不上微信，账户购买至今仍然未加上），小站点的服务使用还是注意吧</p></li><li><p><code>BOOKAI</code>：一款读书方面的AI，个人可能请求过快，付费了2次，但只获取了一个月的会员，付费后联系不上作者，<code>facebook</code>和邮件都没有恢复，另外整体体验比较差劲，整体来说就是你指定一本书，可以根据书的任何内容，给你总结，问答等，但是有时候作者、书名虽然相同，但出版社不同，导致会有差异，英文的我不知道怎么样，中文的体验下来很糟糕，就拿《如何读一本书》来讲，问它，不管总结第几章，都是直接整体概括性总结第一章，另外关闭窗口后，你的对话不会被保存，下次重开又要重新问，付费体验下来，外加上面意外导致多付费，相当于付费2次只给1个月的会员，差评，讲真不如去使用免费的ChatGPT3.5，下图为聊天无回复（5月12日发的消息，至今无回复），不是说我刻意去抹黑对方，好的产品个人是愿意去付费，但这个无视的态度外加体验糟糕真的很不爽<br><img src="/../images/image-20230521005000079.png" alt="image-20230521005000079"></p><p><img src="/../images/image-20230521005126162.png" alt="image-20230521005126162"></p></li></ul><p>以上是一些购买服务后的糟糕体验<br>真的体验非常糟糕，买了东西，出了问题，找不到人（不知道是否无视）</p><p>以前使用过的服务，真的很良心<br>举例，轻芒运营，即使倒闭了，会员金额折算后全部原数返回</p><p>写着写着想到我的ofo的99块押金了，至今没有退还<br>使用服务，大家还是先看下联系的到不，以及擦亮眼睛吧</p><h2 id="李跳跳"><a href="#李跳跳" class="headerlink" title="李跳跳"></a>李跳跳</h2><p>以上是购买服务糟糕的事情，那下面是近期（这2天）刚知道的消息，对互联网公司作为的愤怒，无奈<br>李跳跳下架了，不更新了，具体通知这里：<a href="https://mp.weixin.qq.com/s/gsC9STZlGrPNNEKUV4btkA">https://mp.weixin.qq.com/s/gsC9STZlGrPNNEKUV4btkA</a></p><p>说到底，断人财路犹如杀人父母</p><p>一方面，资本的力量，你有那么多精力、时间、金钱跟一整家公司对抗？还是国内的大厂<br>另外一方面，法律方面，南山必胜客可不是说说而已，个体我觉得胜诉概率渺茫</p><p>而开发者为了躲避这种风险，肯定要下架</p><p>只是我确实觉得挺恶心的，反正面对用户都是各种无底线的操作<br>就说「李跳跳」这边，APK（手机APP）都有包名，之前直接把「李跳跳」的包名写入病毒软件</p><p>也就是说安装的时候，识别提示是病毒软件、流氓软件（谁更流氓？）<br>知道的人都知道怎么回事，不知道的小白可能还真以为是病毒软件呢</p><p>这操作，跟当年的996ICU项目真就如出一辙，把劳动违法的公司公示出来给大家避坑，而国内互联网公司怎么做？<br>各种浏览器（包括不限于360浏览器、UC浏览器、2345浏览器、猎豹浏览器等等）直接对这个域名进行了封杀，使用国内浏览器访问，直接提示「违法信息」、「病毒网站」、「恶意网站」，笑死</p><blockquote><p><a href="https://github.com/996icu/996.ICU/blob/master/README_CN.md">996 ICU项目</a>目前仓库被归档<br>有的说背后涉及反华，具体情况不清楚，但这里仅就各厂商的操作评论</p></blockquote><p>「996ICU」可以说离我比较遥远，但「李跳跳」，我是既得利益者，或者除了公司大家都是既得利益者<br>技术原理是自动化，也就是模拟操作，我也觉得不算违法的事情，正如李跳跳所说，如果帮忙点击算违法，那雇佣人来点击也算违法？</p><p>况且，有些软件自己怎么设置开屏广告的没有点B数？</p><ul><li>720×1080的屏幕，你设置个10像素的跳过按钮给谁点？</li><li>假按钮，误导用户点击，增加广告收入，巴不得多赚点是吧？</li><li>时长设置那么长，是我手机性能不支持吗？</li></ul><p>说说这个启动界面<br>以前手机性能不行，就有个缓冲时间，那时候用一个启动界面代替<br>后续商家觉得有利可图，就在这里增加个广告，后来就延续今天<br>按现在的手机CPU性能，除了大型游戏，服务型应用哪个不能快速启动？</p><p>只需州官点火，不许百姓点灯，反正觉得蛮讽刺的<br>可以说使用对应的APP，人作为生成资料被消费，收割一波又一波</p><h2 id="autojs"><a href="#autojs" class="headerlink" title="autojs"></a>autojs</h2><p>这个软件也是一个手机端写JavaScript的自动化的软件，个人还买了永久会员<br>之前用了一段时间后没用，近2周想要重拾<br>然后官方访问很慢，然后也出公告<br>好像也是给使用政策针对了，导致无法使用了，就是很莫名奇妙就挂了，现在也莫名无法链接上<code>vscode</code>进行开发</p><p><img src="/../images/image-20230826212919209.png" alt="image-20230826212919209"></p><p>后续好像，代码上线还要经过审核就很离谱，当然代码正规经的起审核<br>个人推测是有灰产使用这个进行大量刷单什么操作的，导致工信局这边进行了通知下架</p><p>真的感觉使用软件这件事情上，今年经历挺多的</p><h2 id="国内软件"><a href="#国内软件" class="headerlink" title="国内软件"></a>国内软件</h2><p>再说说些国内应用的，其他人使用体验怎么样，我不是很清楚<br>这里说说我的体验，我想应该也可能是绝大多数人的体验</p><p>国内的软件体系，一片混乱<br>一个APP恨不得给你装下所有，你可以在一个购物的看视频、看直播、甚至再开一个购物，无限套叠，就很离谱<br>而且还不是单独一个，而是国内多数APP都这么做，没有办法做到一个应用对应一个功能</p><p>手机系统，内嵌广告，我属实没整明白，是用户没有交钱买手机还是什么<br>手机装软件的时候赚一笔，下载软件的时候，收一笔开发者，用户这边广告再收一笔，美滋滋</p><p>还设置各种限制，例如无法卸载对应的软件市场，使用ADB强制限制，直接让你无法开机<br>手机是我的，我却没有办法获取到我要的「软件自由 」</p><p>我甚至能在原生的天气 APP 里面看广告，整个就很离大谱</p><p>所以，后续卸载了很多原生，全部用第三方的代替<br>软件也是能使用精简版使用精简版</p><h1 id="混乱状态与对话工作"><a href="#混乱状态与对话工作" class="headerlink" title="混乱状态与对话工作"></a>混乱状态与对话工作</h1><p>混乱的状态其实<strong>多种因素综合</strong>的结果吧</p><p>先说说离职和躺平，可能会对于博主的心态有些了解<br>我个人之前是在一家公司好好的工作，工资之前5k近6k吧，也很稳定，做了几年<br>但我自己知道一直要这么持续，觉得不行所以想往外跳，进行探索，但后续（今年）出来后又没有思想和行动就躺了半年<br>现在想想其实有点不明智的感觉，包括关注的两个对我个人成长很有帮助的博主，他们写的文章也提到过不要裸辞<br>但当时也考虑了很久，加上有些个人的想法，最后还是辞职了</p><p>这算是个人的一个情况吧，如果一个工作久了，就有些厌恶<br>工作个几个月，就完全对一个工作的工作模式进行解构完了，你对整体的工作流程非常熟悉了<br>做来做去，你都在这个流程中，你就会觉的其实你跟在工厂线上流水线上的工人其实本质没有任何区别<br>只是人家是在打螺丝，而你是在进行手头的重复事项</p><p>当然并不是说个人是一个喜新厌旧的人，而是我觉得这份工作已经不能给我带来任何帮助了，况且金钱也不高（相比较做生意）<br>我想跳出来寻求发展，并且也对此有计划，但后续家庭的一些行为，以及经济原因吧，导致我目前去寻求工作了（主动或者被迫）</p><p>也大有一篇文章，其中一段话对我的感触非常大，我上述的计划，资金也是制定于此基础上</p><blockquote><p>如果我们拥有的储蓄已经足够维持当前生活开销 1 年以上，心态却还是停留在生存阶段，比如不敢要求加薪、不敢对老板说不、不敢辞职跳槽，那造成困难的往往就不是钱本身。</p><p>因为这种焦虑相当于一种假设——我如果失去了当前的工作，1 年的时间都找不到下一份相当的职位。<br>但这个假设真的合理吗？如果合理，那这到底是钱的问题，还是我们自己的问题呢？</p></blockquote><p>我当时存储了几万元，用于计划应对自己（个人）缴纳社保，一些用于生活开支<br>这些金额（近10w），其实完全够我个人即使不工作，完全停下来思考一整年<br>但后来考虑到租房不便宜，所以回家住，这个行为，算是为我后续心态开始崩溃（不稳定）埋下一个伏笔</p><p>1月辞职后，上面提到有个想法，我这里提下，当时有个想法，做一个类似百度经验、百度知道类似的解决问题的网站，但是又有点不同<br>可以说是最短路径寻求最优解，例如我们百度、Bing搜索引擎问一个问题，会提供成百上千的答案，我自己是效率控，我想做的这个网站就是提高解决问题的效率，一个问题尽量只有最优解，回答界面提供几种模式，简单模式（提供文字）+中等模式（提供图文）+详细模式（提供视频、图文），当然当时只是一个很浅显的想法，技术水平也不够，所以想的是学习技术去实现想法，商业模式也没有头绪，或者也可以先用爱发电， 后续再思考，以及数据集更新维护的问题，毕竟有的问题，可能会随着版本号变更，操作上也不一样，例如window7、window10开始菜单就完全不同，该怎么约束用户的回答，做到能精确回答等等，当时想了很多很多…</p><p>为了实现想法，2月开始学习了些前端知识，学习了2个月左右，对前端的学习（三件套、Bootstarp），当然也有折腾一些杂七杂八的，例如博客，例如将几年的收支数据整理对于个人的消费有了清晰了解等等，折腾了很多事情</p><p>然后后续GPT出来了，使用过后惊为天人，以及了解到数据集1750亿，其他公司拿什么比，何论个人<br>另外AI每时每刻都在训练，而GPT的训练量导致大部分问题都能被回答，我就在思考，那我做的事情还有什么价值<br>我在想<code>stackoverflow</code>的人（创始者）是不是也是这种想法？所以在其社区封杀相关评论</p><p>算是给我认识到AI的威力了<br>当时就觉得做的事情失去了价值了，没有意义了，这也是一个因素</p><p>4月开始状态就不稳定了，混吃等死，散漫这种状态类似的<br>那时候开始就没有自律了，感觉过一天是一天</p><p>之后爷爷来深圳，上上代的思想又和我们这一代不同，认为你必须去工作，工作就是正确的，不工作就是好吃懒做什么的<br>思想的这种代沟完全没有办法交流，那时候还好半月说个一次，到7月左右基本就经常说，时不时点上2句，变着法子说工作的事情，唉~</p><blockquote><p>举个例子</p><p>吃饭时候，木木啊，你爸辛苦，从早做到晚，一天工作那么多（大致意思，原话忘记了）</p><p>反复说了2次，我又不是听不懂，就蛮无语， 他也可以不工作，也不是我强迫他工作</p><p>我也不是不养父母的人，就很无语</p></blockquote><p>心态平和——&gt;波动——&gt;心态平和——&gt;波动，那段时间搞的变成好像我不工作我有罪，真的麻了</p><p>当然，这里不是说他不是，只是时代不同，真的思想完全不同，心态以及心情给搞的有点小崩了<br>那时候，我8月1号去拿个证，就天天问天天问（可能是错觉，只是3天2头导致认为天天）<br>以及到后续回老家了，还有打电话来问</p><p>我真的想不明白，我可能一辈子不工作吗？为什么要怎么着急催工作，我不工作明天这个家就塌了？<br>真的当时很糟糕，可以看下下面flomo的记录就知道当时其实已经有怨气了，写的有点难听</p><blockquote><p>就如同我在[[2023.07.18]]所言，长辈不过是通过管理后辈，来打发剩下无聊的人生</p><p>就比如爷爷，你不管管、说教后辈，你还有事情可以做？一整天显得很无聊</p><p>一辈子都在操心， 哪有那么多心可以操？小时候担心这，长大担心那等等</p><p>说是为子女而活，但是其中夹杂了多少个人利益，名声，不得而知</p><p>例如其他朋友、亲戚交流时候，问到你儿子是做什么的？你说游手好闲，不显得脸上无光</p><p>——2023-07-22 09:18:45</p></blockquote><p>在加我自己是容易给自己上压力（心理）的人，所以后续的心态，一直到今天，我感觉我都有点没有缓过来</p><p>家庭我觉得一直给我上压力，但不能提供给我一个实际的方案（以下第2份工作的时候也有所体现）<br>我知道去工作，又是进入一个循环往复的模式中，但这是没有办法的事情<br>家庭压力+自我上压力，导致现在这种心态吧</p><p>这种心态导致的行为，就是我近1月的行为很迷惑，我自己回看看似是去找工作，但本质更像是一种对家庭的回避</p><ul><li><p>找第一份工作，涉及贷款拒绝，不是涉及违法，但感觉这年头不好做，后续知道可能涉及违法</p></li><li><p>第二份工作，话务员，三班倒，4k多，家里人说+个人觉得也不太好（询问排班问题， 不固定），拒绝了</p></li></ul><p>后续，与家人（老妹）爆发矛盾，不懂事以及玩游戏回嘴的态度，让我很火大<br>当时其实应该有更好的做法，我可能因为她的态度以及我心态的问题，发生了踢猫效应，大骂特骂了一通<br>我对家庭矛盾很讨厌，却造就了家庭矛盾</p><p>后续以此为契机，当周周六，一句话话没说，趁老妈不在，收拾东西，当晚去广州，到达广州晚上12点多，拖一堆行李，找旅馆<br>等打电话给我，得知消息，我已经到广州过夜了，我也不知道为什么要那么做，当周已经拿到话务的offer，但我觉得可能家庭让我觉得不舒服了？亦或者心态作祟，不想去工作？我也不清楚我为什么要那么做</p><p>后续收到另一个offer，又拖着一堆东西返回，我的整体行为就很迷惑<br>拖一堆东西半夜去趟广州，花费5、6百（住宿、吃饭、高铁），然后不到4天，再连夜跑回来</p><p>虽然目前找了份工作，下周去入职了，但整个人其实到现在都有点懵、混乱，怎么说，就是感觉整个人很不稳定，没有一种很踏实的感觉<br>怎么说呢？正常一个人内心很踏实，你知道自己要做什么，或者你不知道怎么做，但事情在推着你做，推着你走<br>例如有份工作，推着你往前走</p><p>我现在不知道自己要做什么，也没有事情（工作）可以推着我走，让我不去思考这些事情，不去想这些问题<br>而是得过且过一天，而且就算去忙于工作，不去思考，我觉得其实本质是种逃避问题<br>可能因为我现在处于一个真空期，处于一个衔接的过度，还没有正式开始工作（已找到），所以才有这种感觉吧<br>也没有人可以在这个发展中拉我一把，所以我不知道怎么去做，怎么去发展</p><ul><li>我想成为什么样的人？不知道</li><li>我想做什么样的事？不知道</li><li>我能做什么？<s>不知道</s>，打螺丝</li><li>我想过怎样的人生？也许fire人生</li></ul><p>思考一些事情其实蛮痛苦的，或许保持什么都不去想最幸福</p><p>按照长辈所设想的，找份工作安安稳稳的工作下去？然后时不时在听他们说谁家的孩子某某赚多少钱，再接受他们对孩子报以期望<br>按照社会既定轨道走，读书上学——&gt;打工——&gt;结婚生子——&gt;打工赚钱养家——&gt;打工还房贷车贷——&gt;老去死去，尘归尘土归土</p><p>当然，近2月其实有个想法，其实也可能对现在有点帮助吧</p><blockquote><p>用一天的时间来安排未来过什么样的日子现实吗？<br>就好像现在的你决定了未来的你怎么做，未来的你认同吗？<br>随着时间的流逝，认知改变，想法也不同吧，到时的自己还能贯彻下去吗？未来自己会接受这个安排吗？</p></blockquote><p>唉，还是走一步是一步吧，想太多，太过烦恼<br>原本想写1小时，对于心态篇确实有很多感想，写了几个小时….</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      
+      <comments>http://example.com/2023/08/26/2023.08.26/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>梧桐山游记</title>
+      <link>http://example.com/2023/08/08/2023.08.08%20173400/</link>
+      <guid>http://example.com/2023/08/08/2023.08.08%20173400/</guid>
+      <pubDate>Tue, 08 Aug 2023 09:34:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;写写周末爬的梧桐山&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;登山时间（山脚）： 15:22 :03&lt;br&gt;下山时间（山脚）： 18:52 :20&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;其实这次爬梧桐山，没有做攻略，没有做计划，单纯是说走就走&lt;br&gt;原计划是7月29号左右去爬的，但是当时台风原因，没去成&lt;/p&gt;
+&lt;p&gt;这次，想着反正暂时没事，就去爬一下&lt;br&gt;住了那么多年深圳，深圳第一峰都</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>写写周末爬的梧桐山</p><blockquote><p>登山时间（山脚）： 15:22 :03<br>下山时间（山脚）： 18:52 :20</p></blockquote><p>其实这次爬梧桐山，没有做攻略，没有做计划，单纯是说走就走<br>原计划是7月29号左右去爬的，但是当时台风原因，没去成</p><p>这次，想着反正暂时没事，就去爬一下<br>住了那么多年深圳，深圳第一峰都没爬过，可以说是假的深圳人</p><p>不过好像大家都是如此，本地人对本地的景点都没怎么去<br>可能都想的是，反正景点就在那里想去就去，然后就一直没去过</p><p>一路上有路就走，反正跟着人流走准没错<br>一路猪突猛进，结果登录（小梧桐）山顶，当时还不知道是小梧桐顶，我以为是最高点了<br>因为望周围几个山，就我这里最高，我还在想不过尔尔~<s>（其实蛮累的）</s></p><p><img src="/../images/IMG_20230806_173122.jpg" alt="IMG_20230806_173122"></p><p>直到一家庭路过在聊天，那位父亲对女儿说这里算是小梧桐最高点<br>我内心：啊？这里才小梧桐顶，那我岂不是还没登顶，万马奔腾<br>因为，我看之前看地图，我的地点离小梧桐有段距离，我以为小梧桐早过去了，没想到….</p><p><img src="/../images/IMG_20230806_175817.jpg" alt="IMG_20230806_175817"></p><p>有的人觉得最高点在栖凤路那里，那里人也多<br>但我感觉最高点应该是十里杜鹃路的中途的点，有个小石碑，如下<br><img src="/../images/IMG_20230806_173046.jpg" alt="IMG_20230806_173046"></p><p>后续由于时间关系，快6点了，我不太想天黑上山<br>天黑了爬上去也没什么好看，再加这次没计划好，也蛮累的<br>遂后就准备下山，小梧桐顶除了拍摄城市（罗湖区）好看，拍日落不是很好，日落那面有挺多遮挡的</p><p>原以为，这次拍摄日落没机会了<br>但在下山途中，有空旷的地方，看到如下画面，太美了（应该算丁达尔现象吧）</p><p><img src="/../images/IMG_20230806_183510.jpg" alt="IMG_20230806_183510"></p><p>算是弥补遗憾吧，也不算白跑一趟</p><p>下去的话，走的是凌云道，名字不愧叫凌云道，太陡峭了，感觉这坡快有70、80度了<br>我开始还在想下山比较轻松，结果下山也出一身汗，感觉比上山还累</p><p>下山一直在想，快到没，快到没….<br>也是走着走着歇息会，要不然比较累</p><p>上山容易下山难，古人诚不欺我</p><p><img src="/../images/IMG_20230806_181828.jpg" alt="IMG_20230806_181828"></p><p><img src="/../images/IMG_20230806_182044(1" alt="IMG_20230806_182044(1)">.jpg)</p><p>幸好上来不是走这条路，而是走山路，要不我得累死<br>下去后，肌肉酸痛，小腿不控制就自己在抖…..</p><p>其他的一些事</p><p>在山脚路边走着就遇到了蛇，虽然是一条小蛇，也不知道有没有毒，走路边还是保持一定距离好<br><img src="/../images/IMG_20230806_154052.jpg" alt="IMG_20230806_154052"></p><p>下山的时候，遇到一些人在观望，听说是有野猪<br>不过我来晚了，距离比较远，没有机会拍到</p><p>去这种大生态公园，还是得注意点安全<br>生态大了，代表生活的动物也多了，别一不小心就给猪拱了，网上看视频，野猪还是挺猛的<br>另外也不建议晚上爬山，看一些Up主晚上爬还是挺猛的，至少我不是很敢一个人半夜爬<br>像这种大生态，还不知道有什么动物，别半夜给夜行动物整了</p><p>买水的话推荐地铁口买，山上的自动售卖机器水蛮贵的，景点常规性操作<br><img src="/../images/IMG_20230806_180601.jpg" alt="IMG_20230806_180601"></p><p>不过山上我觉得贵的合理，因为运输成本高，也没有缆车什么的<br>不像一些景点单纯宰客</p><p>地铁口的路边的阿姨也喜欢宰客，推销卖3元&#x2F;瓶或者2.5元&#x2F;瓶，个人没买<br>虽然钱不大事，但这种宰客的行为，个人比较讨厌<br>找了个帅哥买了2元&#x2F;瓶，卖水的人挺多的，可以多问问再买<br>虽然我是第一次来，我问那阿姨2元卖不卖，不卖我去便利店买，她谎称说附近没有便利店<br>是没有便利店，但卖水的人也多啊，这种就是逮一个宰一个</p><blockquote><p>这让我想到一件趣事<br>在老家搭公交，拉客仔看我年轻，我说坐公交，他说你这个公交早停了，没有这个公交<br>结果不到5分钟，车就来了…..</p><p>商人都是睁眼说瞎话，无利不起早<br>出门在外，还是注意些</p><p>城市套路深，我要回农村，农村路也滑，套路更复杂23333.</p></blockquote><p>去的话，可以自己带2瓶水，一点零食，虽然增加了一些负重，但其实蛮值得的<br>因为路上一直出汗，不补充水分，感觉很容易脱水</p><p>这次个人没有带背包，就手里拿一瓶水，登山还没登顶就喝完了</p><p>食物山上的平台卖的也贵，热狗6元&#x2F;条<br>其他我没问，但估计也贵的离谱<br>下次可以带些零食，登山后补充能量</p><p>另外推荐戴帽子，夏季爬山真的太热了~<br>也可以多带套轻便的衣服，爬完山换，个人爬完衣服全部湿透了，黏糊糊的比较难受</p><p>至于厕所，这一开始是个人担心的点，总不能走小树林吧<br>后面才知道，山上的几个平台都有厕所，不用担心</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      <category domain="http://example.com/tags/%E6%97%85%E6%B8%B8/">旅游</category>
+      
+      
+      <comments>http://example.com/2023/08/08/2023.08.08%20173400/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>6月7月一些思考</title>
+      <link>http://example.com/2023/07/06/2023.07.06/</link>
+      <guid>http://example.com/2023/07/06/2023.07.06/</guid>
+      <pubDate>Thu, 06 Jul 2023 08:15:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;昨天备案完成，博客闭站 2 月有余，写篇博文更新下（证明还活着不是😄）&lt;/p&gt;
+&lt;p&gt;写下近期的感想，先列个大纲&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;备案的过程与知识面的匮乏&lt;/li&gt;
+&lt;li&gt;ChatGpt 与笔记&lt;/li&gt;
+&lt;li&gt;数据人生&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>昨天备案完成，博客闭站 2 月有余，写篇博文更新下（证明还活着不是😄）</p><p>写下近期的感想，先列个大纲</p><ol><li>备案的过程与知识面的匮乏</li><li>ChatGpt 与笔记</li><li>数据人生</li></ol><h1 id="备案总结与知识面的匮乏"><a href="#备案总结与知识面的匮乏" class="headerlink" title="备案总结与知识面的匮乏"></a>备案总结与知识面的匮乏</h1><p>备案一开始也没想到会那么久，完全照着文档走，结果跌了2次，幸好第3次通过了….</p><p>其实6月多有写篇日记描述过程，但考虑再三，还是不发出来，批评这种东西搞不好就飞来横祸</p><p>写个教训吧，<strong>文档不一定正确，多思考，多查阅总不是坏事（总结：带着脑子阅读文档）</strong></p><p>不光备案，开发中查阅文档也是如此</p><p>文档总的问题来说，可以总结为：文档未及时更新</p><p>包括不限于</p><ul><li>文档404</li><li>文档缺失、不详尽</li><li>文档中显示的软件版本不一致</li><li>多个版本，造成冲突，例如A说豆腐脑甜好吃，B处说豆腐脑咸好吃，那该吃什么？<ul><li>这里想到「简悦」的文档，开发者虽然确实很良心，不过想想文档，Emmm…..也不知道他那么多文档怎么写的过来</li></ul></li></ul><p>程序员知道程序功能，要将其书面化转化为文档，变为小白能懂的，还要详细，还要更新，想想确实要费些功夫</p><p>另外社会上也不可能专门设个岗位写文档，招聘的人假如不是程序员，也看不懂代码，何论写文档，这事还是落到程序员头上<br>只能说看程序员的「专业素养」亦或者「用心」？（想不到好的词）<br>遇到好的程序和文档还是抱着感谢的心</p><p>扯远了~</p><p>备案后就上 CDN，一开始备案的目的就是考虑访问速度</p><p>昨今两天花费8小时左右，搭建起来，本来是很简单的事情（跟着他人教程走）<br>但是因为SSL协议的问题导致二级域名<code>linguoguang.com</code>一直无法访问，但加主机名又莫名的可以访问<code>www.linguoguang.com</code></p><p>整个过程就很迷，一直认为是<code>nginx</code>哪里没有配置好，所以没有想到是<code>CDN</code>没有设置好，也没开工单问下<br>在今天检查了遍才发现问题没有做回源处理</p><p>整个解决过程发现自己的知识面其实挺匮乏的，往往跟着教程走确实很方便，但你知其然不知其所以然<br>完全是照搬，根本不能灵活运用</p><p>举个很简单的例子，会写Python代码的，可以根据基础语言+库的运用，进行千变万化的应用，可以是文字处理，OCR、二维码、网络、视频、音频等等，而不懂的只能完全拿别人的代码来用，出了一点问题就不知所措</p><p>想想个人总结过的学习思考：<strong>是要精通还是要完成？</strong><br>很显然如果长期接触电脑方面，这些方面多多少少是要去精通的，让自己有解决问题、自定义的能力</p><p>罗列下不足的知识面</p><ul><li><code>nginx</code>：仅知道每个<code>server</code>相当于匹配语句，细枝末节不知道，完全照搬</li><li><code>TCP/IP</code>协议：网络的交互过程一无所知，什么握手协议，SSL之类的完全不懂</li><li><code>Linux</code>：由于不懂<code>Linux</code>，服务器不想照搬他人一无所知，采用<code>Window</code>…</li><li><code>Git</code>：Obsidian有体系，但钩子方面还不是很了解，相当于自动化的手段</li></ul><p>其实还是推荐每个人多多少少懂些电脑的知识，例如如果会一点点前端，完全可以把页面布置成想要的页面</p><p>包括不限于自己的博客，其他网页也是想要显示的显示，不显示的不显示，网页任君摆布，而不是被迫观看不想看到的信息（例如：广告、热点），当然软件（插件）也可以实现，但十鸟在林，不如一鸟在手，自己想怎么操作怎么操作，让自己拥有自定义的能力。</p><h1 id="ChatGpt-与笔记"><a href="#ChatGpt-与笔记" class="headerlink" title="ChatGpt 与笔记"></a>ChatGpt 与笔记</h1><p>这个之前看过有Up主，一个程序员说过，有ChatGpt，现在笔记没有存在的必要了</p><p>但我现在持否定的态度，每个人还是要有自己的笔记，知识体系<br>至少我认为现在所谓的人工智能达不到那种真的强人工智能，无可代替</p><p>「用进废退」这东西不是说说而已，个人也不是记忆牛人，至少现在我回忆不起以前的一些东西<br>每个人不是永远不变，记忆也不是永远可靠，你能保证现在可靠，能保证随年龄的提升大脑也可靠？</p><p>上面说因为备案关闭2个月有余，所以没有接触博客，一直在用Obsidian记录<br>结果昨天使用<code>hexo</code>调试，hexo的命令都敲不出来😅，还是要看下笔记才回顾才知道</p><p><strong>笔记的作用不单在于学习，还在于记录成果，让未来退步的你能快速达到现有技术巅峰的水平</strong></p><p>另一个「用进废退」印象很深的案例是看罗翔老师的一期节目讲到<br>以前德语讲的很6，能够在路边用德语给人介绍中国<br>结果回来多年后，完全生疏忘记了怎么讲</p><p>另外大语言模型这种东西，进行概率计算， 也就是每次产生的结果完全不同，这对于记忆其实是有所困扰的<br>你自己的东西，自己建立的知识体系，你知道那东西，那节点永远在那里<br>哪怕忘记内容，但记个大概，你可以顺着位置找到，内容也不会有变化（除非自己更新）</p><p>当然ChatGpt解决问题还是很方便，这里只是单纯说下建立个人知识体系的必要</p><h1 id="数据人生与人生管理"><a href="#数据人生与人生管理" class="headerlink" title="数据人生与人生管理"></a>数据人生与人生管理</h1><p>这个篇幅会讲长一点，偏向于「个人管理」方面</p><p>有时候会随机浏览他人的博客，在浏览到一个博客的时候给我的小小震撼：<a href="https://share-man.com/day/2023-05-20">曾小满的盒子</a>，将其人生轨迹数字化了</p><h2 id="繁重系统"><a href="#繁重系统" class="headerlink" title="繁重系统"></a>繁重系统</h2><p>其实也是一直个人在做的事情， 以前一直用印象笔记做记录</p><p>以下为后续不用印象笔记后，导出数据作为外链存在</p><p><img src="/../images/image-20230706174241524.png" alt="image-20230706174241524"></p><p>但个人以前的系统存在一些问题，所以也在后续放弃</p><p>一：繁重</p><p>系统比较繁重，很难达成「简易」与「记录」的平衡，记录意味着繁琐</p><p>最开始系统想要做成如下形式，现在回想就知道这个系统有多繁重</p><ul><li>金额管理：每天、每月、每年开销</li><li>打卡管理（数据）：统计每天的打卡数据，例如刷牙，之后就能一周</li><li>反思：每天的总结</li><li>任务管理：每日做了什么，这个月做了什么</li><li>目标管理：每个月、年目标做了什么</li><li>时间管理：这个月花费多少时间</li></ul><p>而个人想要的是自动化，就算不能自动化，也要简易</p><p>1件小事做1天、做3天、做长久还是蛮容易的<br>但如果增量到5件、10件，长久来做就会很厌倦，想想数据量都爆炸，这也是坚持的力量</p><p>而因为繁杂有些记录也是断断续续</p><p>二：无用</p><p>断断续续其实还好，但重要的是无用，</p><p>拿2020年3月复盘来讲，没有思考、没有改进，这种复盘完全无用，其实已经不能称为复盘</p><p>唯一的用处是记录生活，可以回顾那天做了什么</p><p><img src="/../images/image-20230706174608558.png" alt="image-20230706174608558"></p><p>基于以上繁重、无用2点使之在2021年之后抛弃了这样的记录方式</p><p>但近2年做的一些事情，其实也在契合「数据人生」人生管理的做法，只是不再单独一个软件中记录，也就是不All in one 了</p><ul><li>金额管理：于2023年4月左右花费了2天采用了「钱迹App」进行管理，当然由于（微信、银行卡）导出有年数限制，最早也只能回顾到2015年左右了，以前的账单相当于没有了</li><li>任务管理：基于繁重、无用2点，外加不使用印象笔记后再无记录，后续观看到<a href="https://share-man.com/day/2023-05-20">曾小满的盒子</a>，重拾，于上周花费3天左右，将过往数据全部整理至幕布，推荐幕布的理由是可以筛选节点，另外产品后续被flomo团队收购，基于flomo的产品理念，个人使用也很放心<br>例如点击 <code>折腾</code>标签，那么会将这个月的所有相关事项罗列出来，虽然认为作为任务管理不够好（无法做到统计数量，时间统计等等），但也是目前不错选项，ps:虽说可以用滴答清单，但滴答清单感觉更偏向于「任务型」，而非「记录型」，那样相当于所有事项都要罗列TODO，而不能是一个思考后总结今日大致做了什么<br><img src="/../images/image-20230706180454612.png" alt="image-20230706180454612"></li><li>反思：于2021年之后发现复盘无用后，发现 flomo，采用 Obsidian+flomo 的方式记录思考</li><li>时间管理：由于没有全平台，所以分开用，推荐电脑一款很好用的软件「ManicTime」，手机就用自带的，平常通过这 2 款软件软件看看花费什么上面比较多，进行改进</li></ul><p>这里介绍下个人的反思做法，或许可以给他人一点启发</p><p>在现在的社会，要完全回顾所有日记比较难，没有大片的时间很难做到<br>例如个人800多条（算800），每条平均2分钟，需要1600分钟（26h，要一天多才能看完），之后如果积累更多，则需要更多时间才能回顾完<br>所以没有必要全部回顾，毕竟有的是流水文，吐槽生活、吐槽工作等等，对个人完全没有帮助，其实只需要抽出有用的即可</p><p>个人日记分为「年」、「月」、「日」三层，每个月将当月有用的汇总起来，每一年将每个月汇总的再汇总起来<br>汇聚过程：「日」——&gt;「月」——&gt;「年」，一层接一层</p><p>拿图说话，比较好理解：</p><p>总的笔记，记录所有年份</p><p><img src="/../images/image-20230706184705730.png" alt="image-20230706184705730"></p><p>年的笔记，记录月份，将所有月份中的总结放到「年度总结」</p><p><img src="/../images/image-20230706185210615.png" alt="image-20230706185210615"></p><p>月的笔记，记录当月所有记录，抽出有用的放「总结」</p><p><img src="/../images/image-20230706185331176.png" alt="image-20230706185331176"></p><p>大致就是这样，总结一层一层往上冒，回顾过去的时候，仅需要看「年度总结」即可</p><h2 id="意义"><a href="#意义" class="headerlink" title="意义"></a>意义</h2><p>这么做的意义是什么？</p><p>仅仅是在未来某天，还能通过只言片语回首过去的岁月就足以</p><p>如果非要追寻意义，总结为：记录过去、回首过去、帮助现在，展望未来</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      
+      <comments>http://example.com/2023/07/06/2023.07.06/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2023.04.24</title>
+      <link>http://example.com/2023/04/24/2023.04.24/</link>
+      <guid>http://example.com/2023/04/24/2023.04.24/</guid>
+      <pubDate>Mon, 24 Apr 2023 15:04:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;写写近一周的事情吧&lt;/p&gt;
+&lt;p&gt;近一周都在断舍离，花费挺多时间了&lt;br&gt;虚拟的、现实的都清理梳理了一遍&lt;br&gt;一方面受 AI 的影响，一方断舍离念头上头&lt;/p&gt;
+&lt;p&gt;近两年其实对于&lt;strong&gt;资源&lt;/strong&gt;这点感想挺多的&lt;/p&gt;
+&lt;h1 id=&quot;数据断舍离&quot;&gt;&lt;a href=&quot;#数据断舍离&quot; class=&quot;headerlink&quot; title=&quot;数据断舍离&quot;&gt;&lt;/a&gt;数据断舍离</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>写写近一周的事情吧</p><p>近一周都在断舍离，花费挺多时间了<br>虚拟的、现实的都清理梳理了一遍<br>一方面受 AI 的影响，一方断舍离念头上头</p><p>近两年其实对于<strong>资源</strong>这点感想挺多的</p><h1 id="数据断舍离"><a href="#数据断舍离" class="headerlink" title="数据断舍离"></a>数据断舍离</h1><h2 id="Obsidian"><a href="#Obsidian" class="headerlink" title="Obsidian"></a>Obsidian</h2><p>虚拟方面，整理了电子笔记，将 Obsidian 中许多笔记进行了删除<br>包括：</p><ol><li>无总结代码笔记</li><li>问题解决方案</li></ol><h3 id="无总结代码笔记"><a href="#无总结代码笔记" class="headerlink" title="无总结代码笔记"></a>无总结代码笔记</h3><p>库中有很多代码笔记<br>但是没有再拿出来用了，也没有相关笔记总结经验，完全没有存在的必要</p><p>重要是能力的运用，你熟悉了库，完全可以花点时间再写个出来，或者网络上找现成的轮子<br>重点是关注能力的部分，运用能力的部分，而不是记录起来</p><p>举例：豆瓣爬虫这个项目，虽然记录了代码，但没有总结其中遇到的问题，或者一些总结<br>而该项目是基于 <code>requests</code> + <code>beautifulsoup4</code> 两个库的运用，所以重点应该关注能力的部分（2 个库）或者成长的部分（问题），而非项目的部分（代码部分）</p><p>例如 API ，网上已经有的，那么在笔记中再复刻一遍有什么意义？<br>相当于现实世界的搬砖头，从左边搬到右边，只不过在网络世界换了种形式，从线上搬到了线下<br>也是上面说的，重在运用，而不是记录，运用你的能力去解决问题，而不是运用你的笔记去解决问题</p><blockquote><p>这也是近期感悟，所以将其写在了博客关于我的页面，传达一种理念，虽然那里简短了很多，可能不能很好传达出来….</p></blockquote><p>代码不重要，做什么事情很重要<br>整理的过程中，看到一个读书笔记，作者写的很精辟，与我自己想出来的观点达成共鸣</p><blockquote><p>在这么久的旅程下来我的体会是：<strong>编程语言这东西并不重要，重要的是你用这些语言做的事情。</strong></p><p>事实上 我一直知道这一点，不过以前我会周期性地被各种编程语言分神而忘记了这一点。</p><p>现在我是永远不会忘记这一点了，你也不应该忘记这一点。</p><p><strong>你学到和用到的编程语言并不重要。</strong></p><p><strong>不要被围绕某一种语言的宗教把你扯进去，这只会让你忘掉了语言的真正目的，也就是作为你的工具来实现有趣的事情。</strong><br>——《笨办法学 Python3》</p></blockquote><p>例如笔记中记录有一个 <code>myar</code>，是关于 Python 生成二维码的库<br>记录有什么意义？记录了又不看<br>不如等真正需要的时候，直接查文档来的方便<br><img src="/../images/Pasted%20image%2020230422224329.png" alt="Pasted image 20230422224329"></p><p>像上面记录的库，运用搜索能力+开发能力+查阅文档能力，就能完成，完全不需要记录</p><p>记录这种笔记，完全是浪费时间，截个图，谨记<br><img src="/../images/Pasted%20image%2020230422224504.png" alt="Pasted image 20230422224504"></p><h3 id="问题解决方案"><a href="#问题解决方案" class="headerlink" title="问题解决方案"></a>问题解决方案</h3><p>第二个，有点受 <code>ChatGPT</code> 的影响<br>可以现象，按照这个迭代速度，后续用大语言模型来解决问题是很方便的事情</p><p>但目前一些问题还做不到，例如我问他关于 <code>Obsidian</code> 如何设置设置样式的问题等，就在那一本正经的胡说八道起来了，不熟悉还真的信了它的鬼话</p><p>所以目前将库中很多解决问题的笔记删除了<br>删除前问自己，该笔记能不能在网络上找到，在网上找到的难度是多少？<br>能在网络轻易找到的，符合这个标准的全部删除了</p><p>保留了一些可能会再次用到的（再次查看）<br>还保留一些综合型笔记，综合是指一个问题解决不了，要两个解决方案或者更多解决方案，形成的笔记，这种网上没有相关的答案，只能靠自己总结，网络一般只有问题的某一点的单一问题的解答，而没有完整的回答</p><h3 id="保留标准"><a href="#保留标准" class="headerlink" title="保留标准"></a>保留标准</h3><p>之后记录笔记会参考以下保留标准</p><ol><li>网络上能否找到，找到的难度是多少</li><li>问题解决方案，预估 2 次以上使用（查看）</li><li>参考自己现有的知识管理体系进行自问<ul><li>能不能解决近期遇到的问题，对于当下有没有用？</li><li>为什么要读这个，能解决什么问题？具体的应用场景在哪里</li><li>收集信息是为使用信息</li><li>…..</li></ul></li></ol><h2 id="视频断舍离"><a href="#视频断舍离" class="headerlink" title="视频断舍离"></a>视频断舍离</h2><p>个人有定期导出视频的习惯，例如将 B 站的视频全部离线缓存防止 404，还有一些以前抖音的（目前卸载了）<br>将其全部保存在 <code>Eagle</code> 进行管理</p><p>全部视频看起来都是干货，但同上面遇到 Obsidian 遇到的问题一致，实际观看的次数寥寥无几，收藏后再没有打开过。<br>所以整理了下，也删除了很多可能个人今生都不会去触碰的，接触的</p><p>管理方面<br>之前通过 <code>Eagle</code> 进行视频管理，因为可以打标签，也可以进行多文件夹嵌套，也可以做视频笔记，简直不要太完美<br>但手机端没法看，决定迁移到阿里云，增加看的次数</p><blockquote><p>手机完全没有办法再看，或者说打开太过于麻烦（采用 <code>Eagle</code> + <code>坚果云</code>）<br>主要受限于 <code>Eagle</code> 的数据结构，所以手机上并不能直接打开视频看而是要搜索，或者打开多个文件夹下去找视频</p></blockquote><p>目前将保存在 <code>Ealge</code> 的视频全部上传到阿里云，阿里云可以直接播放，整理后图示<br><img src="/../images/Pasted%20image%2020230424235341.png" alt="Pasted image 20230424235341"></p><h2 id="文件断舍离"><a href="#文件断舍离" class="headerlink" title="文件断舍离"></a>文件断舍离</h2><p>软件包个人是有做备用方案，为了防止软件更新后，变成个人不喜欢的，例如一个软件如果更新了你不想要的功能，就可以通过备份的软件包回退，并且关闭更新解决问题<br>另外环境迁移也方便，所以将对应版本的软件包进行了备份<br>不过目前没有找到比较好的管理方案，后续知道有 <code>Chocolatey </code> 这些，但还离个人的理想方案有点差距</p><p>个人对 Chrome 的插件也进行了备份，防止出意外删除了，可以快速恢复，因为有时候清理垃圾，可能会附带删除了插件，所以备份下</p><p>但现在也不管那么多了，软件包、插件全部统统删除<br>互联网那么大该找到的总归总能找到，与其要一直花费时间整理维护，不如断个干净，需要的时候再找<br>另外软件如果更新了自己不要的功能，自己对其没爱了，果断放弃便是，你值得更加好的</p><p>其他下载包、代码文件也是用不到的统统删除<br>只求个内心舒适，让自己觉的没有被太多的东西所束缚</p><h2 id="专注核心点"><a href="#专注核心点" class="headerlink" title="专注核心点"></a>专注核心点</h2><p>Obsidian 也是、博客也是</p><p>Obsidian 专注于内容，而非专注于玩弄插件<br>博客同理，专注于内容，而非专注于设计主题<br>希望有好看的主题、希望有拓展更棒的功能没什么不好，但希望始终不忘使用的目的和初心</p><p>所有一切皆资源，代码，笔记</p><h1 id="物品断舍离"><a href="#物品断舍离" class="headerlink" title="物品断舍离"></a>物品断舍离</h1><p>近期的感想就是，很多东西没有经常用<br>却占着地方（现实或者精神世界），还要花费时间打理，觉得不值</p><p>另外，老哥这几天去广州了<br>我看大包小包的携带，也非常麻烦</p><p>所以近期进行几天的断舍离，每天清理一点<br>减轻些包袱，生活轻装上阵</p><p>物品其实可以不去理会，当作没看见，精神上的自我欺骗<br>但实际上心理上、精神上还是知道那个东西是在那里的<br>过不了心理的关，果断清理</p><p>在这几天，卖了以前的很多以前的东西，血亏也要卖</p><ul><li>年轻时玩的无人机套餐（已出）</li><li>小蚁运动相机（已出）</li><li>老笔记本电脑</li><li>老微波炉</li><li>等等</li></ul><p>以后增加东西的同时，使用以下信念告诫自己</p><ul><li>一切的点关注于现在，而不是未来，资源围绕现在而转</li><li>如无必要，切勿增加实体</li><li>能用就上，不能用就下，常用的换更好，不常用的删除</li><li>东西的增加，意味着维护的增加</li></ul><h1 id="对于资源的一点感想"><a href="#对于资源的一点感想" class="headerlink" title="对于资源的一点感想"></a>对于资源的一点感想</h1><p>不要让自己的资源闲置着</p><p>资源可以是代码，可以是金钱，可以是衣服，可以是生活用品，总而言之，是自己拥有的一切</p><p>要不就抛弃，不必打理，要不就经常用上不要吃灰</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      
+      <comments>http://example.com/2023/04/24/2023.04.24/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>讲讲Rss</title>
+      <link>http://example.com/2023/04/10/2023.04.10%20130500/</link>
+      <guid>http://example.com/2023/04/10/2023.04.10%20130500/</guid>
+      <pubDate>Mon, 10 Apr 2023 05:05:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;写写近 10 天做的事，做事的一些过程、思考&lt;br&gt;近期在做 RSS 阅读器上花费了大把时间&lt;/p&gt;
+&lt;p&gt;其实原先也可以不做，或者说技术方面某些地方还是有点欠缺&lt;br&gt;自己来做这个项目肯定会卡在某些细节上，花费更多的时间&lt;/p&gt;
+&lt;p&gt;近一个月因为有 Cha</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>写写近 10 天做的事，做事的一些过程、思考<br>近期在做 RSS 阅读器上花费了大把时间</p><p>其实原先也可以不做，或者说技术方面某些地方还是有点欠缺<br>自己来做这个项目肯定会卡在某些细节上，花费更多的时间</p><p>近一个月因为有 ChatGPT 的加入，就不知不觉中就折腾了起来</p><h1 id="为什么需要自建"><a href="#为什么需要自建" class="headerlink" title="为什么需要自建"></a>为什么需要自建</h1><p>说说如果是使用现有软件的弊端</p><ul><li><strong>广告</strong>：个人经历过印象笔记的广告恶心人，当然国内目前好像就独此一家，真的败坏自己名声，那其他笔记软件保不定哪天也这么做，来一手，另外国内的软件基本都有广告作为营收，看个视频有广告、看个文章也有广告</li><li><strong>制度随意变更</strong>：订阅制笔记软件 notability 变更制度的事件，具体可以搜索# notability 自 2021 年 11 月 1 日起由买断制变为订阅制</li><li><strong>数据锁死</strong>：国内的软件都担心用户流失，都想把用户锁在自己的软件里面，将数据格式设计自己独有的格式，数据无法迁移，或者迁移非常难，这不由得让我想起以前的闭关锁国….</li><li><strong>功能变化</strong>：软件可能会因为后续的升级而添加功能，有些可能是个人不想要的，国内大多数软件基本都是全家桶软件，用过都知道，非常臃肿，这也是 flomo 声明只做记录，不会添加多余的功能，会让人觉得是一股清流的原因</li></ul><p>自建优点：</p><ul><li>数据掌握权：数据在自己手上</li><li>稳定性：<ul><li>不会因为商业模式，因为没钱关闭（服务器的钱还是交得起的）</li><li>不会政治话题等等原因关闭，</li></ul></li><li>拓展性：可以根据自己想要的方案，增添删改功能</li></ul><p>总的来说就是会变化，以及变化后的不确定因素<br>商业软件，盈利的情况下，能运行多少年？10 年、20 年、30 年？<br>而且怎么确定运行这么多年不会变化？不会变化成臃肿的应用，例如印象笔记（点名批评😒）</p><p>而自己搭建的话，软件会保持一个恒定的版本，不会随意变更，不会随意添加<br>最主要的就是<strong>稳定性</strong>吧<br>个人经历过几个应用的起伏了，所以放弃使用商业应用了<br>有使用 RSS 的应该多多少少知道以下应用（RSS 类、剪辑类）</p><ul><li>轻芒：太可惜了，说是运营问题，但估计涉及什么敏感话题请喝茶了？</li><li>收趣：中途好像出了问题（忘记啥原因），放弃使用了</li><li>印象笔记：从简单演变为 4 不像的臃肿应用，添加广告，一个笔记应用在其内疯狂打广告也是没谁了</li><li>必收：不错的应用，后期不知道是不运营模式，还是什么，抓取方面挂了，非常喜欢的一个应用，可惜了</li><li>等等</li></ul><h1 id="Rss-方案选择"><a href="#Rss-方案选择" class="headerlink" title="Rss 方案选择"></a>Rss 方案选择</h1><p>需要先了解下 RSS 是什么<br>rss 可以分为 <strong>RSS 阅读器</strong>和 <strong>RSS 源</strong></p><ul><li>RSS 源就是记录网址的一个 html（好像是xml），有更新，都会写在这里面</li><li>RSS 阅读器就是解析 RSS 源，将里面信息显示出来的</li></ul><p>两者的关系其实有点类似浏览器与 html 文档，html 文档负责记录，浏览器负责解析渲染</p><h2 id="RSS-源"><a href="#RSS-源" class="headerlink" title="RSS 源"></a>RSS 源</h2><p>Rss 源可以是使用别人提供，也可以是自己抓取生成</p><p>大致分为以下 3 种，以下名字是自己定义的，方便理解</p><ol><li>官方源：官方自己生成分享出来的，很稳定，像知乎日报、少数派这些都有自己提供的源</li><li>第三方源：有些网站没有提供源，这时候就只能自己去抓取网页内容生成 rss 源了，有些博主会将自己抓取生成后的源提供出来。</li><li>自建：自己抓取网页生成源</li></ol><p>有些网站没有官方源，只能使用第三方源<br>而第三方源，虽然说可以使用，但保不准哪天就挂掉，或者博主不想维护了<br>所以个人也采用自建，来抓取一些没有官方源的网址</p><p>个人以前看过 RssHub，但可能看的不仔细吧，觉得搭建很难，就没有在关注了<br>今年回过头来看，发现意外的简单，并不是因为技术提升<br>就确实蛮简单的，采用 nodejs 的方式来运行，几条命令就搞定了</p><p>然后个人之前一直在微信公众号阅读，也有几个项目可以抓取，个人刚好有部手机，就采用了Feeddd这个项目</p><p>所以源的生成这方面，个人采用以下两个方案</p><ul><li><p><a href="https://github.com/DIYgod/RSSHub">RssHub</a> ：能够抓取大部分网站</p></li><li><p><a href="https://feeddd.org/how-to-contribute">Feeddd</a>：抓取微信文章，免费，需要有部废弃手机， 一点折腾时间</p><ul><li>付费备选方案：<a href="https://werss.app/">werss</a></li></ul></li></ul><h2 id="RSS阅读器"><a href="#RSS阅读器" class="headerlink" title="RSS阅读器"></a>RSS阅读器</h2><p>Rss 阅读器其实网络有现成的方案、工具可以使用<br>如果说之前国内比较少，那近期付费买了梯子，可以说能使用的方案多出来很多</p><ul><li><p>国内</p><ul><li><p><a href="https://www.qireader.com/">QiReader - A modern web RSS reader</a></p></li><li><p><a href="https://egorss.com/zh/">Ego Reader - RSS阅读器</a></p></li></ul></li><li><p>国外</p><ul><li><p>Feedly</p></li><li><p>feed43</p></li><li><p>inoreader</p></li></ul></li></ul><p>可以使用上述软件，因为个人要自建，所以在 ChatGPT 的技术辅助支持下，投入了一些时间成本基于 Django 自建个非常简陋的 Web 应用<br>但因为个人没有多的域名可以演示，所以没有具体 Demo 给大家展示</p><h3 id="蚁阅方案"><a href="#蚁阅方案" class="headerlink" title="蚁阅方案"></a>蚁阅方案</h3><p>一开始其实想要使用<a href="https://github.com/anyant/rssant">Rssant</a>这个项目，毕竟有现成的轮子</p><p>其实也是基于Django，不过因为个人技术不过关，原本想用这个自建尝试了下放弃了，不过这个项目确实很好，为博主点start</p><p>而且会员也很便宜（会员版价格：<strong>5元&#x2F;月</strong> 或者 <strong>30元&#x2F;年</strong>），如果不想折腾的话，使用这个方案也可以，因为是Web端，所以手机和电脑的数据都是同步的</p><p>现在很多RSS阅读器，都只有一端，所以不能全平台阅读，而有全平台的没有同步阅读的记录这个功能</p><p>所以这个项目非常nice，如果不是自建，个人也会用这个应用</p><h3 id="Cubox-方案"><a href="#Cubox-方案" class="headerlink" title="Cubox 方案"></a>Cubox 方案</h3><p>个人之前其实有采用Cubox作为RSS阅读器，通过抓取RSS源中链接，然后去请求到Cubox中去<br>请求后就会放到对应生成的文件夹下面</p><p><img src="/../images/image-20230410141733597.png" alt="image-20230410141733597"></p><p>但这个方案放弃了，怎么说，个人感觉因为不是针对RSS所设计的，所以使用起来，没有达到个人所想的那么丝滑<br>当然这个方案也用了几个月，目前也处于可用的状态</p><p>感兴趣的小伙伴可以参考这个<a href="https://github.com/l739217783/Rss2Cubox">仓库</a>，不过没有时间写ReadMe，需要自行研究</p><h1 id="建议"><a href="#建议" class="headerlink" title="建议"></a>建议</h1><p>总体而言，个人推荐使用在线 RSS 应用，而非单客户端的应用<br>或者说支持数据同步的，因为有的应用虽然有开发电脑端和手机端，但两者间数据并不同步<br>数据不同步，你不知道哪些有阅读，哪些没有阅读，电脑上看了，手机上还是显示未看<br>所以个人主推在线 RSS 阅读器，而非本地 Rss 阅读器</p><p>国内目前好像没有全平台的应用（容易产生版权问题、涉及敏感话题、商业模式等等问题导致挂比）</p><h1 id="工具总结"><a href="#工具总结" class="headerlink" title="工具总结"></a>工具总结</h1><p>现在自己已经实现自建，全部自产自足<br>在这里总结下收录的工具，个人或许大概率不会用到了（有 1、2 个目前在用的）<br>以后有需要再翻回来看看</p><ul><li>类似功能<ul><li><a href="https://withpinbox.com/pricing">Pinbox - 跨平台收藏工具</a> ：稍后读应用</li><li><a href="http://wheremylife.cn/">WhereMyLife Kindle RSS 订阅新闻推送</a> ：可以在 Kindle 上阅读 RSS</li><li><a href="https://courier.toptopn.com/?from=i&c=2834">网页更新提醒</a> ：对网页进行监控的一个工具</li><li>快知：信息聚合app</li><li><a href="https://github.com/easychen/checkchan-dist">Check酱</a> ：网页内容变化监测</li><li><a href="https://sspai.com/post/73255">n8n</a> ：开源自动化流程搭建工具</li></ul></li><li>Rss源<ul><li>寻找源方法<ul><li>搜索「XX 个必读的 RSS 订阅源」</li><li>网站名 + RSS（关键字搜索）</li></ul></li><li>导航网站类（已整理好的）<ul><li><a href="https://rss-source.com/">RSS Source | RSS订阅源推荐</a></li><li><a href="https://getpodcast.xyz/">播客 RSS Feed</a></li><li><a href="https://shimo.im/docs/iwRFK7VNmZIxnuL7/read">RSS 订阅源整理</a></li></ul></li><li><a href="https://feed43.com/">Feed43</a>：需要魔法，任意网页转Rss</li><li>在线工具系列<ul><li><a href="https://rss.lilydjwg.me/">知乎转Rss</a></li><li><a href="http://jianshu.milkythinking.com/">简书转 RSS</a></li><li><a href="https://github.com/LiMingYuGuang/bilibili2rss">bilibili 转 RSS</a></li><li><a href="https://werss.app/">WeRss - 微信公众号 RSS 订阅</a> ：付费提供 RSS 源</li></ul></li><li>油猴脚本，检查网站是否有Rss源<ul><li><a href="https://github.com/idealclover/Easy-to-RSS">Easy-to-RSS</a></li><li><a href="https://github.com/DIYgod/RSSHub-Radar/">RSSHub Rader</a> ：Chrome 插件，有的话，插件会提示</li><li><a href="https://greasyfork.org/zh-CN/scripts/373252-rss-show-site-all-rss">RSS+</a> ：油猴脚本，有的话，右下角有圆点提示</li></ul></li><li><a href="https://feedx.best/zhihudaily">FeedX</a> : 一个博主在维护的源</li><li><a href="https://hamibot.com/login">Hamibot</a> ：配合 Feeddd 项目生成源</li><li>Huginn：开源抓取工具，门槛较高<ul><li><a href="https://github.com/huginn/huginn">Github 仓库</a></li><li><a href="https://huginn.cn/">博客介绍</a></li></ul></li><li><a href="https://wx.qnmlgb.tech/">瓦斯阅读</a> ：付费订阅，获取 RSS 订阅地址</li><li><a href="http://www.jintiankansha.me/">今天看啥</a> ：一个专注于通过 RSS 订阅微信公众号的平台</li><li>Feddd：一个免费提供源的网站、也可以配合上面 Hamibot 自己抓取<ul><li><a href="https://feeddd.org/how-to-contribute">官网</a></li><li><a href="https://github.com/feeddd/feeds">github项目</a></li></ul></li><li><a href="https://github.com/DIYgod/RSSHu">RSSHub</a>：为网站创建源，适配大多网站<ul><li>可以使用别人搭建的 RSSHub 站点，用搜索引擎搜索关键字 <code>Welcome to RSSHub!</code></li></ul></li></ul></li><li>Rss 阅读器<ul><li>Feedly：要魔法</li><li>RSS Tracker：WIN10应用商店查找，试用 14 天，¥14.00</li><li><a href="https://www.microsoft.com/zh-cn/p/rss-stalker/9n85pv1rjd6v">RSS Stalker</a>(RSS追踪)：WIN10，售价 7 元人民币，可试用7天</li><li><a href="https://www.innoreader.com/apps">Inoreader</a> ：国外老牌 RSS 应用，国内访问有时候不稳定，支持免费和付费方案，虽说不稳定，但功能很强大，该有的都有</li><li><a href="https://www.qireader.com/login">qireader</a> : 一个不错的在线 Rss 阅读器，界面优雅</li><li><a href="https://egorss.com/zh/">Ego Reader</a> ：手机端 Rss 阅读器</li><li><a href="https://github.com/yang991178/fluent-reader">Fluent Reader</a> ：电脑端很好用的 Rss 阅读器，免费使用、支持自定义词语过滤</li><li><a href="http://irreader.fatecore.com/">irreader 阅读器</a> ：很强的 RSS 阅读器，不过界面不够优雅</li><li><a href="https://gitee.com/anyant/rssant#%E4%BD%9C%E8%80%85%E8%BF%91%E5%86%B5">蚁阅</a> ：开源以及付费的在线 RSS 服务</li><li>自建系列（开源Rss阅读器）<ul><li>FreshRss</li><li>TinyTinyRss</li></ul></li></ul></li><li>一些相关教程<ul><li><a href="https://sspai.com/post/64289">再次折腾 RSS 之搭建 FreshRSS 服务</a>：FreshRSS 构建教程</li><li><a href="https://sspai.com/post/57498">找不到满意的 RSS 服务？你可以自己搭建一个</a>：Tiny Tiny RSS 构建教程</li><li><a href="https://sspai.com/post/41302"># 如何搭建属于自己的 RSS 服务，高效精准获取信息 - 少数派</a>：Tiny Tiny RSS 构建教程 2</li><li><a href="https://www.tjsky.net/tutorial/644">翻译 RSS 订阅源</a></li></ul></li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E8%BD%AF%E4%BB%B6/">软件</category>
+      
+      
+      <comments>http://example.com/2023/04/10/2023.04.10%20130500/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2023.01.27</title>
+      <link>http://example.com/2023/01/27/2023.01.27/</link>
+      <guid>http://example.com/2023/01/27/2023.01.27/</guid>
+      <pubDate>Fri, 27 Jan 2023 04:15:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;写写昨晚想到的几点想法&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;循序渐进&lt;/li&gt;
+&lt;li&gt;健康与不健康的意识&lt;/li&gt;
+&lt;li&gt;系统&lt;/li&gt;
+&lt;li&gt;游戏的死亡&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;循序渐进&quot;&gt;&lt;a href=&quot;#循序渐进&quot; class=&quot;headerlink&quot; title=&quot;循序渐进&quot;&gt;&lt;/a&gt;循序渐进&lt;/h1&gt;&lt;p&gt;什么事情都一样，有一个循序渐进的过程&lt;/p&gt;
+&lt;p&gt;成长上是如此</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>写写昨晚想到的几点想法</p><ol><li>循序渐进</li><li>健康与不健康的意识</li><li>系统</li><li>游戏的死亡</li></ol><h1 id="循序渐进"><a href="#循序渐进" class="headerlink" title="循序渐进"></a>循序渐进</h1><p>什么事情都一样，有一个循序渐进的过程</p><p>成长上是如此，其他事情上也是如此</p><p>成长以前提过一个概念：渐变带来突变</p><p>想到的是复盘上的一个做法</p><p>年复盘，如果说要等到一年的最后集中一天来复盘，也不是不可以，但这样很累</p><p>月复盘同理</p><p>那为什么不放到日常中去呢？拿月复盘举例</p><p>日常会写些感想、感悟，那在周末的时候，完全可以抽出些时间，把觉得不错的，就添加到月复盘里面去</p><p>日复盘的同时，月复盘同步进行</p><p>年复盘跟月复盘同理，同步进行（并发进行）</p><p>其实就是分摊开来，不集中在一块处理，压力太大</p><p>将目标分解，平摊到多处</p><h1 id="健康与不健康的意识"><a href="#健康与不健康的意识" class="headerlink" title="健康与不健康的意识"></a>健康与不健康的意识</h1><p>突然想想最近的不健康生活，再想到以前的胃，去医院看病的担心</p><p>那为什么不在身体好的时候，好好珍惜，爱惜自己的身体</p><p>而要等到自己的身体垮的时候才后悔莫及</p><p>要有一种健康的意识，不断提醒自己</p><p>不健康的生活是要付出代价的！</p><h1 id="系统性思考"><a href="#系统性思考" class="headerlink" title="系统性思考"></a>系统性思考</h1><p>个人脑海中的东西，一直缺乏一种思考体系</p><p>PKM的体系，是因为这两天一直在整理，所以才又清晰了</p><p>有点抽象，但就是意思脑海要中有一个框架</p><p>知道什么问题，用什么样的心态，什么样的解决问题，什么样的能力来解决</p><p>就是会一个很清晰的思路</p><p>举例：</p><p>PKM因为现在有建立了体系</p><p>我就知道一个笔记应该怎么放，应该怎么处理，按什么样的标准+标签</p><p>书写应该按照什么样的规范等等</p><p>这就是体系所带来的</p><p>而对过往能力、感悟、思考的运用，目前还没有一个系统性的框架</p><p>所以在考虑搭建…</p><p>打算用思维导图整理出来，因为体系这东西，没有调用的时候，可能过几天就忘记了</p><p>如果进行书面化，可以重新调用</p><h1 id="游戏的死亡"><a href="#游戏的死亡" class="headerlink" title="游戏的死亡"></a>游戏的死亡</h1><p>其实个人有时候还是蛮喜欢玩游戏的</p><p>像《原神》一天玩个 4-5 小时不在话下</p><p>但昨天想到，游戏终将死亡</p><p>一个游戏其实就是一个软件</p><p>软件都有一个生命周期</p><p>像以前的《球球大作战》、《穿越火线》、《荒野求生》、《明日之后》等等</p><p>像大家一开始用QQ、后来大部分都转去微信…..</p><p>想表达的是，一个游戏随着时间推移，总归会有退游的一天</p><p>或是运营不佳倒闭了，或是人气不够，大部分人走了，亦或者是其他情况</p><p>而你在游戏上浪费的时间（有氪金的还花钱）带给你什么？</p><p>这一点值的思考，除了快乐，快乐过后呢？</p><p>并不能给你带来任何的成长</p><p>而且随着倒闭（关闭运营）更惨，连数据保留的权力都没有</p><p>一切随着服务器的关闭，烟消云散</p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      
+      <comments>http://example.com/2023/01/27/2023.01.27/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>对RIME替换的思考</title>
+      <link>http://example.com/2023/01/22/2023.01.22/</link>
+      <guid>http://example.com/2023/01/22/2023.01.22/</guid>
+      <pubDate>Sun, 22 Jan 2023 06:34:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;RIME&quot;&gt;&lt;a href=&quot;#RIME&quot; class=&quot;headerlink&quot; title=&quot;RIME&quot;&gt;&lt;/a&gt;RIME&lt;/h1&gt;&lt;p&gt;花费些时间，写一点昨天折腾一天的感想&lt;/p&gt;
+&lt;p&gt;昨天原本是有安排学习计划的（&lt;code&gt;Git&lt;/code&gt;之类的）&lt;/p&gt;
+&lt;p&gt;然后计划其中有一项是替换下输入法&lt;/p&gt;
+&lt;p&gt;就这个折腾了我近6、7小时时间，可以说一天的时间都耗费在上面</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="RIME"><a href="#RIME" class="headerlink" title="RIME"></a>RIME</h1><p>花费些时间，写一点昨天折腾一天的感想</p><p>昨天原本是有安排学习计划的（<code>Git</code>之类的）</p><p>然后计划其中有一项是替换下输入法</p><p>就这个折腾了我近6、7小时时间，可以说一天的时间都耗费在上面</p><p>怎么想怎么不值</p><p>事情的起因是，因为担忧，手机的输入法好像会记录输入，进行用户画像</p><blockquote><p>这样虽然说有点阴谋论，或者说对其的一种防范</p><p>包括电脑的，可以发现输入的，过一段时间各个平台有推送相应的</p><p>我猜测为输入法后台会存储输入的数据，然后对数据进行关键字检测，再对用户进行画像</p></blockquote><p>一开始的解决方案是对联网权限进行设置，这样就无法发送数据（没有数据自然无法分析）</p><p>但输入法为系统应用没办法对其修改网络权限（能关闭移动数据的网络，但没办法关闭Wifi的网络）</p><p>就是说连上WIFI还是会对服务器发送数据</p><p>中途尝试了下<code>Shizuku</code>+<code>AppOs</code>对其联网权限进行控制，发现行不通</p><p>切换方案，更换输入法，换一个开源的，背后没有厂商，自然不会卖数据</p><p>软件的选择是<code>同文</code>，也就是<code>RIME</code>，只是不同不同平台不同名称</p><ul><li>电脑：<code>RIME</code></li><li>手机：<code>同文</code></li><li>….</li></ul><p>网上一开始一些评论说对新人不太友好（配置），我还不太在意，直到昨天自己上手</p><p>emmm….，确实不太友好</p><p>像我这种对电脑非常熟悉，而且经常看文档的，包括对其配置的文档写法YAML也熟悉，也花费了那么多时间才配置可用（还没扩充词库）</p><p>想想如果是电脑不熟悉，不懂相关编程概念的，完全没法上手，或者说可能需要更长的时间折腾</p><p>难怪说是只适合极客和程序员专用</p><h1 id="感想与思考"><a href="#感想与思考" class="headerlink" title="感想与思考"></a>感想与思考</h1><p>昨天配置了近一天6-7小时，后续手机端没法用，然后电脑端的也卸载</p><blockquote><p>电脑端的卸载，主要考虑长期使用搜狗输入法的输入习惯问题，个人用的是智慧版</p><p>因为键位关闭了动态调频，所以基本每个键位都很熟悉，什么词在几号都知道</p><p>虽然说RIME也可以通过转换搜狗的词库解决，主要原因还是个人不想花费时间折腾了，所以还是卸载了</p><p>值的一提的是RIME的电脑端使用起来还是非常的顺滑的</p></blockquote><p>昨晚幡然醒悟，开始思考<strong>值与不值</strong>的相关思考</p><p>整个流程是：</p><p><img src="/../images/image-20230122145920040.png" alt="image-20230122145920040"></p><p>其实一开始就该思考<strong>利弊关系</strong>与<strong>权衡</strong>，个人总是会缺乏一种全局观</p><p>这种局部视野的限制包括在解决问题，详见：[[2023.01.18 161100###Front-matter的Bug]]中也有提到过</p><h2 id="思考框架"><a href="#思考框架" class="headerlink" title="思考框架"></a>思考框架</h2><p>更佳的解决方案如下（全局），1和2可以进行对调：</p><ol><li><p>计划：如果决定一件事情要做，那么罗列全部流程</p><blockquote><p>不可能推算未来，但可以是一种推测，主要是方便后续资源投入的权衡，以及思考事情是否要继续</p><p>像上面的整个流程，其实开始执行前就可以先花费个10-30分钟写个这样的计划流程，而非等到事后复盘才懊悔不及</p></blockquote></li><li><p>资源投入权衡：思考这件事情要投入多少资源，达成什么事情</p><blockquote><p>个人的体系有个概念叫：投入产出比，其实这里就是指那个，但在实际的运用中寥寥无几，还是得多实践</p><p>成年人的世界都是功利的，时间都是有限的，你不可能再像青少年一样有大把的时间给你去挥霍</p><p>所以会思考利弊、权衡是否值得，思考这件事情要投入多少资源，达成什么事情，思考值与不值得</p><p>这个点主要是思考，做成这件事情，需要投入多少时间精力和金钱（少部分涉及）</p><p>对这件事情的投入产出的评估，如果花费太多时间和精力，但对实际的改变很小，就不值得进行，哪怕再想要进行，也要克制住自己（上头），放弃项目</p></blockquote></li><li><p>解决方案的思考（多种方案选择、不完美）</p><blockquote><p>如果决定进行项目，要对解决方案进行以下几点进行思考</p><ol start="4"><li>思考是否有更佳的解决方案</li></ol><blockquote><p>解决方案不只有一种，是否可能通过别的途径达成目的（要做什么事、项目）</p><p>人生的大多数问题别人已经遇到过了，所以上网查找相关答案进行参考</p></blockquote><ol start="5"><li>完成优于完美<blockquote><p>这个是任务管理的一条准则吧</p></blockquote></li></ol><blockquote><p>先达成目的再说，而不要想着先去精雕细琢，那会耗费大量的时间</p><p>就好比你现在还有30秒就要饿死了，给你2个选择</p><p>一：让厨师给你做道精美的菜</p><p>二：给你米饭有口吃的就行</p><p>相信大多数都会选择第二种，当然你可以说不，我就要优雅，</p><p>也可以，死的比较体面，优雅的死了[doeg]</p></blockquote></blockquote></li></ol><p><img src="/../images/image-20230122153111111.png"></p><p>而如果按照上面的框架来思考这件事情</p><ol><li><p>担忧数据泄露</p></li><li><p>利弊权衡思考</p><blockquote><p>虽然数据泄露可能会个人进行用户画像，但不会对自己进行困扰</p><p>担忧的是用户画像和推送，用户画像主要用于信息推送</p><p>而信息推送依赖于信息浏览</p><p>而个人的信息浏览采用RSS中心化阅读，除非自己上网冲浪漫游，但那也是自己的选择（漫游）</p><p>结论：不会对自己产生任何困扰，所以可以不进行</p></blockquote></li></ol><p>可以发现在第二步就搁浅了，自然节约了7-8小时的浪费，拿来打游戏，它不香吗</p><h2 id="准则"><a href="#准则" class="headerlink" title="准则"></a>准则</h2><p>思考的一些<strong>工具</strong>或者<strong>软件</strong>或者<strong>其他</strong>替换上的准则吧</p><p>现有的、稳定的、可达成的 &gt; 新鲜的、更新的</p><blockquote><p>现有的软件或者工具如果已经实现了你所要的功能，就不要考虑进行更换</p><p>即它的工具属性满足你的使用，而非玩具属性</p><p>你可以尝鲜，但不要无脑梭哈</p><p>主要考虑几方面</p><ol><li>长久以来使用这个工具的习惯（例如搜狗的键位）</li><li>新工具可能<strong>用不习惯</strong>或<strong>无法满足需求</strong>或存在某些<code>Bug</code>，又要回退，数据的迁移尤为麻烦，每个平台都不尽相同，虽然说可以写脚本，但写脚本也要时间，而回退原先软件，意味着什么，意味着你使用新软件的时间，折腾的时间全部是无效时间</li></ol><p>一个例子是以前换浏览器</p><p>当时是Chrome换到Vivaldi，无脑梭哈，结果使用不习惯，又回退到Chrome，白费5小时左右</p><p>具体看：[[2020.01.24]]</p></blockquote><p>总体如上，算是复盘个思路吧~</p><p><img src="/../images/girl_grass_city_213102_2560x1440.jpg" alt="girl_grass_city_213102_2560x1440"></p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      <category domain="http://example.com/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+      
+      <category domain="http://example.com/tags/%E6%80%9D%E8%80%83/">思考</category>
+      
+      
+      <comments>http://example.com/2023/01/22/2023.01.22/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2023.01.18 204040</title>
+      <link>http://example.com/2023/01/18/2023.01.18%20204040/</link>
+      <guid>http://example.com/2023/01/18/2023.01.18%20204040/</guid>
+      <pubDate>Wed, 18 Jan 2023 12:36:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;写篇笔记记录下近期的生活吧，顺便想到啥写啥&lt;/p&gt;
+&lt;h1 id=&quot;放纵&quot;&gt;&lt;a href=&quot;#放纵&quot; class=&quot;headerlink&quot; title=&quot;放纵&quot;&gt;&lt;/a&gt;放纵&lt;/h1&gt;&lt;p&gt;辞职后到现在也有快一周的生活了吧&lt;/p&gt;
+&lt;p&gt;想着休息放纵一段时间&lt;/p&gt;
+&lt;p&gt;所以刚开始几天就是自我放纵，每天打游戏+刷番剧度过😅&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;游戏玩原神，一天玩个5、6个小</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>写篇笔记记录下近期的生活吧，顺便想到啥写啥</p><h1 id="放纵"><a href="#放纵" class="headerlink" title="放纵"></a>放纵</h1><p>辞职后到现在也有快一周的生活了吧</p><p>想着休息放纵一段时间</p><p>所以刚开始几天就是自我放纵，每天打游戏+刷番剧度过😅</p><ul><li><p>游戏玩原神，一天玩个5、6个小时</p><blockquote><p>刚好近期有搞活动充雷电将军</p><p>pv做的很赞，然后首充又有2倍的原石</p><p>差点心动的充值，还好克制住自己</p><p>一方面没工作了，一方面百来块Cubox我都舍不得冲了，游戏想想还是算了</p></blockquote></li><li><p>番剧刷了<a href="https://www.bilibili.com/bangumi/play/ss43164">《孤独摇滚》</a>、<a href="https://www.bilibili.com/bangumi/play/ss5058">《灵能百分百》</a>都非常好的番剧，安利</p><blockquote><p>这里吐槽下某长安汽车吧，之前还给我哥说3D给艺画做，稳了</p><p>因为灵珑后期2集确实封神，结果疯狂打脸，各种垮（动画、叙事、疯狂魔改）</p></blockquote></li></ul><p>辞职后，也基本没有出门，除了有时候拿上一两个快递、顺便加今天理发，除此之外就一直呆家里</p><p>生活作息因为放纵，完全颠倒了，之前一直是22:30-23:10左右睡，然后现在一直是1:00-3:00左右睡</p><p>然后还睡不着，也不知道跟新冠有没有关（新冠背锅🤣），今天有听老妈说外婆阳后睡不着</p><p>我确实也是这样，不过是这几天，晚上睡了还在想博客的各种事情，想着很多东西</p><p>就脑子停不下了，自然无法入睡</p><h1 id="搭博客"><a href="#搭博客" class="headerlink" title="搭博客"></a>搭博客</h1><p>前期3-4天的话就各种放纵自我</p><p>近期4-5天的话，就是搭建博客了</p><blockquote><p>说说搭博客的缘由吧</p><p>搭建博客是为了有一个可以对外输出的窗口，哪怕没什么人看</p><p>个人有在用flomo，但只能做一个卡片笔记，也支持分享，但只能是非常短的笔记的分享</p><p>像技术类这种，或者日记这种胡说八道，长篇大论就完全不能分享了</p><p>说说个人的知识体系方案，目前是：</p><ul><li>flomo：记录闪念（居多） + 记录短文</li><li>Obsidian：记录日记 + 各种笔记</li></ul><p>flomo不支持分享</p><p>而Obsidian费用非常贵</p><ul><li>同步一个月70元，一年近700的同步费用</li><li>分享一个月140，一年1000多的费用</li></ul><p>无奈放弃官方的渠道，不是我等平民能高攀的</p><p>Obsidian的同步后来采用了<code>Remotely Save</code>+阿里云的OSS解决了，一个月不用10元</p><p>Obsidian是我的所有记录最终去处，但目前缺乏一个对外输出的窗口，所以只能搭建博客了</p></blockquote><p>方案选择</p><blockquote><p>一开始考虑的就是自建，所以CSDN、博客园、简书之类不在考虑范围之内</p></blockquote><p>刚开始，采用的是Gridea+Netlify的方案来搭建博客</p><p>但搭建完毕后，后面测试的时候，发现很严重的问题就是同步，一篇文章从上午挂后台，转到下午还没有同步上去</p><p>要你有何用，就放弃了，换方案</p><p>网上看了几种方案，减小范围到2种</p><ul><li>Vuepress</li><li>Hexo</li></ul><p>然后考虑到Hexo有很多主题，有些博主也推荐，就决定使用了Hexo</p><p>这几天就一直折腾这玩意</p><ul><li><p>看板娘：二次元吉祥物，看看心情确实会好些</p></li><li><p>评论修改为Valine</p><blockquote><p>评论还要登录，换我我也放弃</p><p>像现在有些网站，我觉的博主写的不错，但是要给对方点赞，要求你登录</p><p>我就放弃了</p><p>所以不采用<code>gitalk</code>，改用不用登录无后端的<code>Valine</code></p></blockquote></li><li><p>域名的修改</p><blockquote><p>忍痛花费百来块大洋，购买2年域名</p><p>服务器想想就算了，白嫖Github的仓库，使用Netlify拉取</p></blockquote></li><li><p>主题</p><blockquote><p>主题也折腾蛮久的，其实一开始打算用的是<a href="https://github.com/techmovie/hexo-theme-instapaper">instapaper</a></p><p>因为这个主题非常简约，但是后面由于对Hexo的目录架构完全不懂</p><p>懂了之后，又发现改不动，我之前还天真的以为我能改改</p><p>这个主题可以自定义的选项很少，他的文档就简单写了个配置（评论、明暗模式开关..）</p><p>其他啥可以定义修改都没有，自定义选项非常少</p><p>后面查了下Hexo的文档，好家伙，采用的渲染我是一个都不知道&#x3D; &#x3D;</p><ul><li>自带的 <a href="https://mozilla.github.io/nunjucks/">Nunjucks</a> 模板引擎</li><li><a href="https://github.com/hexojs/hexo-renderer-ejs">EJS</a></li><li><a href="https://github.com/hexojs/hexo-renderer-haml">Haml</a></li><li><a href="https://github.com/hexojs/hexo-renderer-jade">Jade</a></li><li><a href="https://github.com/maxknee/hexo-render-pug">Pug</a></li></ul><p>然后知道这个主题是采用<code>pug</code>这个来渲染，我还想着去学习这个，再来改….,因为这个风格确实挺喜欢</p><p>后来发现了<code>Fluid</code>，对instapaper告辞，没爱了</p><p><code>Fluid</code>这个主题非常赞</p><p>自定义选项非常多，完全就开箱即用的级别，所以就用这个主题了</p></blockquote></li><li><p>主题配置</p><blockquote><p>选定<a href="https://github.com/fluid-dev/hexo-theme-fluid">Fluid</a>主题，就是对主题的各种配置修改</p></blockquote></li></ul><h1 id="写脚本"><a href="#写脚本" class="headerlink" title="写脚本"></a>写脚本</h1><p>写脚本就是近2天一直在做的事情了</p><p>博客搭建完毕后，总不可能自己将Markdown文件手动复制到Hexo目录下吧</p><p>一次、二次还好，上百次就是对生命的浪费</p><p>流程化的东西就该让其自动化起来</p><p>完成脚本——&gt;完善功能——&gt;修复Bug——&gt;完善功能——&gt;测试——&gt;发布平台</p><p>基本就一直重复几样，今天收工</p><p>主要还是水平束缚了、外加没有计划好，解决问题的思路方面的问题</p><blockquote><p>水平束缚另一方面，体现在不会<code>Nodejs</code>，如果会的话，完全可以做个插件集成在Obsidian中</p><p>当然学的多，学的杂，有一个坏处就是很多方法名称都不记得</p><p>像个人就是，有时候要一直翻文档</p></blockquote><p>目前文章正常发布+文章图片正常显示</p><p>该有的功能都有了，后续完善的话，也就支持双链而已了</p><p>完整的项目见：<a href="https://github.com/l739217783/Obsidian2Hexo">Obsidian2Hexo</a></p><h1 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h1><p>花费些许时间总结下近期，也不算浪费时间吧</p><p>总好过打游戏5-6个小时</p><p><img src="/../images/girl_anime_books_library_104833_1280x1024.jpg" alt="girl_anime_books_library_104833_1280x1024"></p>]]></content:encoded>
+      
+      
+      
+      <category domain="http://example.com/tags/%E6%97%A5%E8%AE%B0/">日记</category>
+      
+      
+      <comments>http://example.com/2023/01/18/2023.01.18%20204040/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

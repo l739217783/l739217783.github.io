@@ -1,0 +1,199 @@
+.index2-box {
+    -ms-grid-row: 4;
+    -ms-grid-column: 1;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-rows: 1fr;
+    -ms-grid-columns: auto 50px auto;
+    grid-template: 1fr/auto auto;
+    gap: 50px;
+    max-width: 1000px;
+    grid-area: content;
+    height: 100%;
+    padding: 50px
+}
+
+.index2-left {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-rows: -webkit-min-content 10px -webkit-min-content;
+    -ms-grid-rows: min-content 10px min-content;
+    -ms-grid-columns: -webkit-min-content 10px -webkit-min-content;
+    -ms-grid-columns: min-content 10px min-content;
+    grid-template: -webkit-min-content min-content/-webkit-min-content -webkit-min-content;
+    grid-template: min-content min-content/min-content min-content;
+    gap: 10px
+}
+
+.index2-photos {
+    position: relative;
+    width: 450px;
+    height: 350px;
+    border: 1px solid var(--color-surface-3);
+    border-radius: 15px;
+    -ms-grid-row: 1;
+    -ms-grid-row-span: 1;
+    -ms-grid-column: 1;
+    -ms-grid-column-span: 2;
+    grid-area: 1/1/2/3
+}
+
+.index2-random-post,.index2-websites {
+    -ms-grid-row: 2;
+    -ms-grid-row-span: 1;
+    -ms-grid-column-span: 1;
+    width: 220px;
+    height: 220px
+}
+
+.index2-photos img {
+    position: absolute;
+    width: 180px;
+    height: 240px;
+    -o-object-fit: cover;
+    object-fit: cover;
+    border-radius: 10px
+}
+
+.index2-photos img:first-child {
+    translate: -90px;
+    rotate: 351deg
+}
+
+.index2-photos img:nth-child(2) {
+    translate: 90px 40px;
+    rotate: 5deg
+}
+
+.index2-photos img:last-child {
+    translate: 0 -20px
+}
+
+.index2-random-post {
+    -ms-grid-column: 1;
+    grid-area: 2/1/3/2;
+    border: var(--color-surface-3) solid 1px;
+    border-radius: 15px;
+    padding: 20px
+}
+
+.index2-websites {
+    -ms-grid-column: 2;
+    grid-area: 2/2/3/3;
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-rows: 1fr 10px 1fr 10px 1fr 10px 1fr;
+    -ms-grid-columns: 1fr;
+    grid-template: repeat(4,1fr)/1fr;
+    gap: 10px
+}
+
+.index2-website {
+    border: var(--color-surface-3) solid 1px;
+    border-radius: 15px;
+    display: flex;
+    gap: 15px;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-left: 15px;
+    color: inherit;
+    -webkit-transition: .1s;
+    -o-transition: .1s;
+    transition: .1s
+}
+
+.index2-right {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    gap: 40px
+}
+
+.index2-post-title {
+    color: inherit;
+    font-weight: 700;
+    font-size: 1.4em;
+    margin: 5px 0;
+    display: block
+}
+
+.index2-post-desc {
+    margin: 5px 0;
+    font-size: .9em
+}
+
+.index2-recent-title {
+    font-size: 1.1em;
+    margin: 2px 0
+}
+
+.index2-post-date {
+    margin: 5px 0;
+    display: flex;
+    gap: 10px
+}
+
+.index2-post-date a,.index2-post-date span {
+    color: var(--color-base--subtle);
+    font-size: .8em
+}
+
+.index2-recent-posts {
+    margin: 2px 0;
+    display: flex;
+    gap: 5px;
+    -ms-flex-direction: column;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column
+}
+
+.imqi1-footer2,.index2-random-post {
+    display: -webkit-box;
+    -webkit-box-direction: normal
+}
+
+.index2-website-icon {
+    margin-left: auto;
+    margin-right: 20px;
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none
+}
+
+.index2-website:hover .index2-website-icon {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: initial
+}
+
+.imqi1-footer2 {
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: space-evenly;
+    -ms-flex-pack: space-evenly;
+    justify-content: space-evenly;
+    -webkit-transition: .1s;
+    -o-transition: .1s;
+    transition: .1s
+}
+
+.imqi1-footer2 span {
+    padding-right: 10px;
+    color: inherit
+}

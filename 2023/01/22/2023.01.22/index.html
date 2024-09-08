@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html>
+    <!-- 引入头部 -->
+    <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>浮生一梦</title>
+    <link rel="stylesheet" href="/css/main copy.css" />
+    <link rel="stylesheet" href="/css/remixicon.css" />
+    <link rel="stylesheet" href="/css/resource.css" />
+    <script src="/js/theme.js"></script>
+
+    <!-- 代码块样式 -->
+    <link rel="stylesheet" href="/css/monokai.css">
+
+  
+    <!-- 代码块复制功能 -->
+    <script src="/js/clipboard.min.js"></script>
+    <script src="/js/clipboard_use.js"></script>
+    
+    <!-- 灯箱(排除首页) -->
+    
+    <link rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css">
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+    
+
+<meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/feed.xml" title="Hexo" type="application/rss+xml">
+</head>
+
+    <body>
+        <!-- 导航栏 -->
+        <header class="imqi1-header">
+  <!-- 标题 -->
+  
+  <div class="imqi1-header-title">
+  <!-- 面包屑 -->
+  
+
+
+  <!-- 路径包含日期格式，转换并显示 -->
+  <span>
+    <a href="/">浮生一梦</a> /
+    2023.01.22
+  </span>
+
+  </div>
+
+  <!-- links -->
+  <div class="imqi1-header-links">
+    <div class="imqi1-header-search" style="display:none;">
+      <input type="text" id="searchInput" class="imqi1-search-input" />
+      <button id="searchSubmit"><i class="ri-search-line"></i></button>
+    </div>
+    
+    <div class="imqi1-header-links">
+      
+      <a class="imqi1-header-links-item" href="/messages">
+        <i class="ri-chat-1-line"></i>
+        留言
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/tags">
+        <i class="ri-hashtag"></i>
+        标签
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/archives">
+        <i class="ri-menu-line"></i>
+        归档
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/about">
+        <i class="ri-user-line"></i>
+        关于
+      </a>
+      
+    </div>
+</header>
+        
+        <!-- 文档主体-->
+        <div class="imqi1-body-container" id="main" role="main">
+            <!-- 大标题 -->
+<div class="imqi1-big-title-box imqi1-fadeUp">
+    <h1 class="imqi1-post-big-title">
+        对RIME替换的思考
+    </h1>
+    <div class="imqi1-post-description">
+        
+    </div>
+</div>
+
+
+<!-- 生成目录 -->
+
+
+
+  <div class="imqi1-content imqi1-fadeUp imqi1-has-toc">
+    <div class="imqi1-toc">
+        <nav id="panel-toc" class="imqi1-toc-card imqi1-menu-checkbox-target">
+            <div id="panel-toc-label" class="imqi1-toc-header">目录</div>
+            <div class="toc-target">
+                <ol class="toc-list">
+                    
+                        <li class="toc-list-item">
+                            <a title="RIME" href="#RIME"
+                                class="toc-link node-name--H1 is-active">
+                                RIME
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="感想与思考" href="#感想与思考"
+                                class="toc-link node-name--H1">
+                                感想与思考
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="思考框架" href="#思考框架"
+                                class="toc-link node-name--H2">
+                                思考框架
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="准则" href="#准则"
+                                class="toc-link node-name--H2">
+                                准则
+                            </a>
+                        </li>
+                    
+                </ol>
+            </div>
+        </nav>
+    </div>
+
+    <div class="imqi1-post-content imqi1-fadeUp">
+      <h1 id="RIME"><a href="#RIME" class="headerlink" title="RIME"></a>RIME</h1><p>花费些时间，写一点昨天折腾一天的感想</p>
+<p>昨天原本是有安排学习计划的（<code>Git</code>之类的）</p>
+<p>然后计划其中有一项是替换下输入法</p>
+<p>就这个折腾了我近6、7小时时间，可以说一天的时间都耗费在上面</p>
+<p>怎么想怎么不值</p>
+<p>事情的起因是，因为担忧，手机的输入法好像会记录输入，进行用户画像</p>
+<blockquote>
+<p>这样虽然说有点阴谋论，或者说对其的一种防范</p>
+<p>包括电脑的，可以发现输入的，过一段时间各个平台有推送相应的</p>
+<p>我猜测为输入法后台会存储输入的数据，然后对数据进行关键字检测，再对用户进行画像</p>
+</blockquote>
+<p>一开始的解决方案是对联网权限进行设置，这样就无法发送数据（没有数据自然无法分析）</p>
+<p>但输入法为系统应用没办法对其修改网络权限（能关闭移动数据的网络，但没办法关闭Wifi的网络）</p>
+<p>就是说连上WIFI还是会对服务器发送数据</p>
+<p>中途尝试了下<code>Shizuku</code>+<code>AppOs</code>对其联网权限进行控制，发现行不通</p>
+<p>切换方案，更换输入法，换一个开源的，背后没有厂商，自然不会卖数据</p>
+<p>软件的选择是<code>同文</code>，也就是<code>RIME</code>，只是不同不同平台不同名称</p>
+<ul>
+<li>电脑：<code>RIME</code></li>
+<li>手机：<code>同文</code></li>
+<li>….</li>
+</ul>
+<p>网上一开始一些评论说对新人不太友好（配置），我还不太在意，直到昨天自己上手</p>
+<p>emmm….，确实不太友好</p>
+<p>像我这种对电脑非常熟悉，而且经常看文档的，包括对其配置的文档写法YAML也熟悉，也花费了那么多时间才配置可用（还没扩充词库）</p>
+<p>想想如果是电脑不熟悉，不懂相关编程概念的，完全没法上手，或者说可能需要更长的时间折腾</p>
+<p>难怪说是只适合极客和程序员专用</p>
+<h1 id="感想与思考"><a href="#感想与思考" class="headerlink" title="感想与思考"></a>感想与思考</h1><p>昨天配置了近一天6-7小时，后续手机端没法用，然后电脑端的也卸载</p>
+<blockquote>
+<p>电脑端的卸载，主要考虑长期使用搜狗输入法的输入习惯问题，个人用的是智慧版</p>
+<p>因为键位关闭了动态调频，所以基本每个键位都很熟悉，什么词在几号都知道</p>
+<p>虽然说RIME也可以通过转换搜狗的词库解决，主要原因还是个人不想花费时间折腾了，所以还是卸载了</p>
+<p>值的一提的是RIME的电脑端使用起来还是非常的顺滑的</p>
+</blockquote>
+<p>昨晚幡然醒悟，开始思考<strong>值与不值</strong>的相关思考</p>
+<p>整个流程是：</p>
+<p><img src="/../images/image-20230122145920040.png" alt="image-20230122145920040"></p>
+<p>其实一开始就该思考<strong>利弊关系</strong>与<strong>权衡</strong>，个人总是会缺乏一种全局观</p>
+<p>这种局部视野的限制包括在解决问题，详见：[[2023.01.18 161100###Front-matter的Bug]]中也有提到过</p>
+<h2 id="思考框架"><a href="#思考框架" class="headerlink" title="思考框架"></a>思考框架</h2><p>更佳的解决方案如下（全局），1和2可以进行对调：</p>
+<ol>
+<li><p>计划：如果决定一件事情要做，那么罗列全部流程</p>
+<blockquote>
+<p>不可能推算未来，但可以是一种推测，主要是方便后续资源投入的权衡，以及思考事情是否要继续</p>
+<p>像上面的整个流程，其实开始执行前就可以先花费个10-30分钟写个这样的计划流程，而非等到事后复盘才懊悔不及</p>
+</blockquote>
+</li>
+<li><p>资源投入权衡：思考这件事情要投入多少资源，达成什么事情</p>
+<blockquote>
+<p>个人的体系有个概念叫：投入产出比，其实这里就是指那个，但在实际的运用中寥寥无几，还是得多实践</p>
+<p>成年人的世界都是功利的，时间都是有限的，你不可能再像青少年一样有大把的时间给你去挥霍</p>
+<p>所以会思考利弊、权衡是否值得，思考这件事情要投入多少资源，达成什么事情，思考值与不值得</p>
+<p>这个点主要是思考，做成这件事情，需要投入多少时间精力和金钱（少部分涉及）</p>
+<p>对这件事情的投入产出的评估，如果花费太多时间和精力，但对实际的改变很小，就不值得进行，哪怕再想要进行，也要克制住自己（上头），放弃项目</p>
+</blockquote>
+</li>
+<li><p>解决方案的思考（多种方案选择、不完美）</p>
+<blockquote>
+<p>如果决定进行项目，要对解决方案进行以下几点进行思考</p>
+<ol start="4">
+<li>思考是否有更佳的解决方案</li>
+</ol>
+<blockquote>
+<p>解决方案不只有一种，是否可能通过别的途径达成目的（要做什么事、项目）</p>
+<p>人生的大多数问题别人已经遇到过了，所以上网查找相关答案进行参考</p>
+</blockquote>
+<ol start="5">
+<li>完成优于完美<blockquote>
+<p>这个是任务管理的一条准则吧</p>
+</blockquote>
+</li>
+</ol>
+<blockquote>
+<p>先达成目的再说，而不要想着先去精雕细琢，那会耗费大量的时间</p>
+<p>就好比你现在还有30秒就要饿死了，给你2个选择</p>
+<p>一：让厨师给你做道精美的菜</p>
+<p>二：给你米饭有口吃的就行</p>
+<p>相信大多数都会选择第二种，当然你可以说不，我就要优雅，</p>
+<p>也可以，死的比较体面，优雅的死了[doeg]</p>
+</blockquote>
+</blockquote>
+</li>
+</ol>
+<p><img src="/../images/image-20230122153111111.png"></p>
+<p>而如果按照上面的框架来思考这件事情</p>
+<ol>
+<li><p>担忧数据泄露</p>
+</li>
+<li><p>利弊权衡思考</p>
+<blockquote>
+<p>虽然数据泄露可能会个人进行用户画像，但不会对自己进行困扰</p>
+<p>担忧的是用户画像和推送，用户画像主要用于信息推送</p>
+<p>而信息推送依赖于信息浏览</p>
+<p>而个人的信息浏览采用RSS中心化阅读，除非自己上网冲浪漫游，但那也是自己的选择（漫游）</p>
+<p>结论：不会对自己产生任何困扰，所以可以不进行</p>
+</blockquote>
+</li>
+</ol>
+<p>可以发现在第二步就搁浅了，自然节约了7-8小时的浪费，拿来打游戏，它不香吗</p>
+<h2 id="准则"><a href="#准则" class="headerlink" title="准则"></a>准则</h2><p>思考的一些<strong>工具</strong>或者<strong>软件</strong>或者<strong>其他</strong>替换上的准则吧</p>
+<p>现有的、稳定的、可达成的 &gt; 新鲜的、更新的</p>
+<blockquote>
+<p>现有的软件或者工具如果已经实现了你所要的功能，就不要考虑进行更换</p>
+<p>即它的工具属性满足你的使用，而非玩具属性</p>
+<p>你可以尝鲜，但不要无脑梭哈</p>
+<p>主要考虑几方面</p>
+<ol>
+<li>长久以来使用这个工具的习惯（例如搜狗的键位）</li>
+<li>新工具可能<strong>用不习惯</strong>或<strong>无法满足需求</strong>或存在某些<code>Bug</code>，又要回退，数据的迁移尤为麻烦，每个平台都不尽相同，虽然说可以写脚本，但写脚本也要时间，而回退原先软件，意味着什么，意味着你使用新软件的时间，折腾的时间全部是无效时间</li>
+</ol>
+<p>一个例子是以前换浏览器</p>
+<p>当时是Chrome换到Vivaldi，无脑梭哈，结果使用不习惯，又回退到Chrome，白费5小时左右</p>
+<p>具体看：[[2020.01.24]]</p>
+</blockquote>
+<p>总体如上，算是复盘个思路吧~</p>
+<p><img src="/../images/girl_grass_city_213102_2560x1440.jpg" alt="girl_grass_city_213102_2560x1440"></p>
+
+    </div>
+  </div>
+
+
+<!-- 评论 -->
+
+    <div class="imqi1-comment imqi1-fadeUp" id="comments">
+        <!-- Waline 评论容器 -->
+        <div id="waline"></div>
+    </div>
+
+    <!-- 异步加载 Waline 样式 -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+        id="waline-style"
+    />
+
+    <!-- 异步加载 Waline 脚本 -->
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            var script = document.createElement('script');
+            script.src = "/js/comment.js";
+            script.type = "module"
+            script.async = true; // 或者使用 script.defer = true;
+            document.body.appendChild(script);
+        });
+    </script>
+
+
+
+<!-- 代码块复制、高亮 -->
+
+<script src="/js/highlight.min.js"></script>
+<script src="/js/highlightjs-line-numbers.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+  // 初始化高亮
+  hljs.highlightAll();
+
+  // 为每个代码块添加行号
+  document.querySelectorAll('code.hljs').forEach((el) => {
+    hljs.lineNumbersBlock(el);
+  });
+});
+</script>
+<script>
+  // 更新目录高亮的函数
+  function updateTocHighlight() {
+        // 获取所有的标题和目录链接
+    const headings = document.querySelectorAll('.imqi1-content h1, .imqi1-content h2, .imqi1-content h3, .imqi1-content h4, .imqi1-content h5, .imqi1-content h6');
+    const tocLinks = document.querySelectorAll('.toc-list .toc-list-item a');
+    // 清除所有活跃状态
+    tocLinks.forEach(link => link.classList.remove('is-active'));
+
+    // 获取滚动位置
+    const scrollPosition = window.scrollY + (window.innerHeight || document.documentElement.clientHeight) / 2;
+    let currentActive = null;
+
+    // 遍历所有标题，找到最接近视口顶部的标题
+    headings.forEach(heading => {
+      const headingPosition = heading.offsetTop;
+      const headingId = heading.id;
+      const link = document.querySelector(`.toc-list .toc-link[href="#${headingId}"]`);
+      if (headingPosition <= scrollPosition && (!currentActive || headingPosition > currentActive.position)) {
+        currentActive = { link: link, position: headingPosition };
+      }
+    });
+
+    // 如果找到了活跃的标题，添加活跃状态
+    if (currentActive && currentActive.link) {
+      currentActive.link.classList.add('is-active');
+    }
+  }
+// 当文档加载完成后执行
+document.addEventListener('DOMContentLoaded', function () {
+
+// 监听页面滚动事件
+window.addEventListener('scroll', updateTocHighlight);
+
+// 初次调用更新函数，以确保加载页面时高亮正确的目录项
+updateTocHighlight();
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // 获取包含所有目录链接的父元素
+  const tocList = document.querySelector(".toc-list");
+  if (tocList) {
+    // 使用事件委托监听点击事件
+    tocList.addEventListener("click", function (event) {
+        
+      // 检查点击的是否是 a 标签
+      if (event.target.tagName === "A") {
+        // 移除已有（移除所有链接的 'is-active' 类）
+        document.querySelectorAll(".toc-link").forEach((link) => {
+          link.classList.remove("is-active");
+        });
+        // 为被点击的链接添加 'is-active' 类
+        event.target.classList.add("is-active");
+
+        // 阻止默认的锚点导航行为
+        event.preventDefault();
+
+        // 获取锚点对应的元素 ID
+        const targetId = event.target.getAttribute('href').substring(1);
+        // 找到对应的元素
+        const targetElement = document.getElementById(targetId);
+        if (targetElement) {
+          // 计算目标元素相对于文档顶部的位置
+          const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+
+          // 检查目标元素是否是 h2 标签
+          if (targetElement.tagName === 'H2' || targetElement.tagName === 'H3') {
+            // 如果是 h2 标签，添加额外的偏移量
+            const additionalOffset = 70; // 根据实际情况调整这个值
+            window.scroll({
+              top: targetPosition - additionalOffset,
+              left: 0,
+              behavior: 'smooth'
+            });
+          } else {
+            // 如果不是 h2 标签，直接滚动到目标位置
+            targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+          // 移除滚动事件（显示阅读进度），防止相互影响
+          window.removeEventListener('scroll', updateTocHighlight);
+        }
+      }
+    // 点击事件结束后再添加回去滚动事件（显示阅读进度）
+    window.addEventListener('scroll', updateTocHighlight);
+    });
+
+  }
+});
+
+</script>
+        </div>
+
+        <!-- 脚本 -->
+        <script src="/js/events.js"></script>
+        
+<script src="/js/fancybox.js"></script>
+
+        <footer class="imqi1-footer2">
+
+  <!-- 备案信息 -->
+  <div class="footer-beian">
+    <span>2024 © <a href="https://imqi1.com/" target="_blank">ImQi1</a></span> |
+    <!-- ICP -->
+    
+        <a href="https://beian.miit.gov.cn" target="_blank">京ICP证123456号</a>
+
+        <a href="https://beian.miit.gov.cn" target="_blank">京公网安备12345678号</a>
+    
+  </div>
+
+
+  <div class="footer-links">
+    
+        <a href="/feed.xml" style="padding-left:2px;">RSS</a>
+    
+        <a target="_blank" rel="noopener" href="https://travellings.cn/go.html" style="padding-left:2px;">开往</a>
+    
+        <a target="_blank" rel="noopener" href="https://foreverblog.cn/go.html" style="padding-left:2px;">虫洞</a>
+    
+        <a target="_blank" rel="noopener" href="https://www.upyun.com/?utm_source=lianmeng&amp;utm_medium=referral" style="padding-left:2px;">又拍云</a>
+    
+  </div>
+  
+</footer>
+        <!-- 悬浮按钮组 -->
+
+<div class="imqi1-footer-buttons">
+    <div class="imqi1-footer-button" id="scroll-top">
+        <i class="ri-arrow-up-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="theme-toggle">
+        <i class="ri-moon-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="music-player">
+        <i class="ri-headphone-line"></i>
+    </div>
+</div>
+
+    </body>
+
+</html>

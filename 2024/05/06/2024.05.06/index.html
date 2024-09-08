@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html>
+    <!-- 引入头部 -->
+    <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>浮生一梦</title>
+    <link rel="stylesheet" href="/css/main copy.css" />
+    <link rel="stylesheet" href="/css/remixicon.css" />
+    <link rel="stylesheet" href="/css/resource.css" />
+    <script src="/js/theme.js"></script>
+
+    <!-- 代码块样式 -->
+    <link rel="stylesheet" href="/css/monokai.css">
+
+  
+    <!-- 代码块复制功能 -->
+    <script src="/js/clipboard.min.js"></script>
+    <script src="/js/clipboard_use.js"></script>
+    
+    <!-- 灯箱(排除首页) -->
+    
+    <link rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css">
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+    
+
+<meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/feed.xml" title="Hexo" type="application/rss+xml">
+</head>
+
+    <body>
+        <!-- 导航栏 -->
+        <header class="imqi1-header">
+  <!-- 标题 -->
+  
+  <div class="imqi1-header-title">
+  <!-- 面包屑 -->
+  
+
+
+  <!-- 路径包含日期格式，转换并显示 -->
+  <span>
+    <a href="/">浮生一梦</a> /
+    2024.05.06
+  </span>
+
+  </div>
+
+  <!-- links -->
+  <div class="imqi1-header-links">
+    <div class="imqi1-header-search" style="display:none;">
+      <input type="text" id="searchInput" class="imqi1-search-input" />
+      <button id="searchSubmit"><i class="ri-search-line"></i></button>
+    </div>
+    
+    <div class="imqi1-header-links">
+      
+      <a class="imqi1-header-links-item" href="/messages">
+        <i class="ri-chat-1-line"></i>
+        留言
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/tags">
+        <i class="ri-hashtag"></i>
+        标签
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/archives">
+        <i class="ri-menu-line"></i>
+        归档
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/about">
+        <i class="ri-user-line"></i>
+        关于
+      </a>
+      
+    </div>
+</header>
+        
+        <!-- 文档主体-->
+        <div class="imqi1-body-container" id="main" role="main">
+            <!-- 大标题 -->
+<div class="imqi1-big-title-box imqi1-fadeUp">
+    <h1 class="imqi1-post-big-title">
+        软件分享：Obsidian高亮插件与Teable
+    </h1>
+    <div class="imqi1-post-description">
+        
+    </div>
+</div>
+
+
+<!-- 生成目录 -->
+
+
+
+  <div class="imqi1-content imqi1-fadeUp imqi1-has-toc">
+    <div class="imqi1-toc">
+        <nav id="panel-toc" class="imqi1-toc-card imqi1-menu-checkbox-target">
+            <div id="panel-toc-label" class="imqi1-toc-header">目录</div>
+            <div class="toc-target">
+                <ol class="toc-list">
+                    
+                        <li class="toc-list-item">
+                            <a title="前言" href="#前言"
+                                class="toc-link node-name--H1 is-active">
+                                前言
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="Obsidian插件" href="#Obsidian插件"
+                                class="toc-link node-name--H1">
+                                Obsidian插件
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="代码高亮" href="#代码高亮"
+                                class="toc-link node-name--H2">
+                                代码高亮
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="排版格式化" href="#排版格式化"
+                                class="toc-link node-name--H2">
+                                排版格式化
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="高亮YAML" href="#高亮YAML"
+                                class="toc-link node-name--H2">
+                                高亮YAML
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="Remotely Save新版本问题" href="#Remotely-Save新版本问题"
+                                class="toc-link node-name--H2">
+                                Remotely Save新版本问题
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="Teable" href="#Teable"
+                                class="toc-link node-name--H1">
+                                Teable
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="快" href="#快"
+                                class="toc-link node-name--H2">
+                                快
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="极简" href="#极简"
+                                class="toc-link node-name--H2">
+                                极简
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="全面 API" href="#全面-API"
+                                class="toc-link node-name--H2">
+                                全面 API
+                            </a>
+                        </li>
+                    
+                </ol>
+            </div>
+        </nav>
+    </div>
+
+    <div class="imqi1-post-content imqi1-fadeUp">
+      <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>时间过的好快，两个月没写博客了<br>上次[[2024.04.26]]写一篇，写完草草了事也没有发😅</p>
+<p>写篇近期使用的软件分享文，凑合看吧🙃</p>
+<p>主要分为2类</p>
+<ol>
+<li>Obsidian插件</li>
+<li>Teable</li>
+</ol>
+<h1 id="Obsidian插件"><a href="#Obsidian插件" class="headerlink" title="Obsidian插件"></a>Obsidian插件</h1><h2 id="代码高亮"><a href="#代码高亮" class="headerlink" title="代码高亮"></a>代码高亮</h2><ul>
+<li>插件名称：obsidian-shiki-plugin</li>
+<li>仓库：<a target="_blank" rel="noopener" href="https://github.com/mProjectsCode/obsidian-shiki-plugin">https://github.com/mProjectsCode/obsidian-shiki-plugin</a></li>
+</ul>
+<p>我想大多人，看网上的推荐代码高亮都是<a target="_blank" rel="noopener" href="https://github.com/deathau/cm-editor-syntax-highlight-obsidian">Editor Syntax Highlight</a>，我也是<br>但用习惯Vscode，回过头来看这个代码样式就会觉得代码样式好丑啊🙄</p>
+<p>个人使用的是Vscode的Monokai主题，非常喜欢这个代码配色，配色如图：</p>
+<p><img src="/../images/image-20240506224817408.png" alt="image-20240506224817408"></p>
+<p>实在接受不了<code>Editor Syntax Highlight</code>这个插件的配色，太丑了如图：</p>
+<p><img src="/../images/image-20240506225150090.png" alt="image-20240506225150090"></p>
+<p>网上高亮没有推荐其他的同类插件<br>后面还想着以后自己开发个插件，然后后续通过插件市场搜索关键字就发现了<code>obsidian-shiki-plugin</code>，发现代码竟然可以替换成想要Vscode风格，太棒了，所以这里安利一波</p>
+<p>开启后，效果图：</p>
+<p><img src="/../images/image-20240506225648007.png" alt="image-20240506225648007"></p>
+<p>还支持行号，在关键字后面加上<code>showLineNumbers</code>关键字即可</p>
+<p>编辑模式：</p>
+<p><img src="/../images/image-20240507000217401.png" alt="image-20240507000217401"></p>
+<p>渲染模式：</p>
+<p><img src="/../images/image-20240506225710547.png" alt="image-20240506225710547"></p>
+<p>支持N多种风格，我这里选择个人喜爱的Monokai</p>
+<p><img src="/../images/image-20240506225746856.png" alt="image-20240506225746856"></p>
+<p><em>注意事项：python只能写python，不能写大写PYTHON或者Python，否则不会高亮</em></p>
+<h2 id="排版格式化"><a href="#排版格式化" class="headerlink" title="排版格式化"></a>排版格式化</h2><ul>
+<li>插件名称：Linter</li>
+<li>仓库地址：<a target="_blank" rel="noopener" href="https://github.com/platers/obsidian-linter">https://github.com/platers/obsidian-linter</a></li>
+</ul>
+<p>这个插件可以对笔记进行格式化和样式化，实现排版的统一，有点类似于写代码的自动格式化<br>其实个人之前一直是使用<a target="_blank" rel="noopener" href="https://github.com/cristianvasquez/obsidian-prettify">Markdown prettifier</a>，但后来开发大大舍弃自己项目直接跑去使用Linter了🤣</p>
+<p>我从一开始就是使用Markdown prettifier，后续第一次尝试Linter发现配置项太多了！！！<br>对比图：</p>
+<p>Markdown prettifier仅有几项</p>
+<p><img src="/../images/image-20240506222727883.png" alt="image-20240506222727883"></p>
+<p>Linter密密麻麻</p>
+<p><img src="/../images/image-20240506222829255.png" alt="image-20240506222829255"></p>
+<p>第一次觉得复杂直接卸载了，但3月维护插件的时候，又想到这个，尝试下来配置好后竟然意外好用！<br>而且因为很多选项可以选，也意味着自定义程度非常高，所以非常推荐大家使用Linter，而非Markdown prettifier</p>
+<p>说说2个打动我的点，也是Markdown prettifier所不具备的</p>
+<ol>
+<li>可以自动移除YAML中标签的<code>#</code>号（YAML添加<code>#</code>，会使标签属性值失效，所以YAML的标签不能写<code>#</code>）</li>
+<li>自动更换YAML中的文件名，一般我们如果更改文件名，还要手动更改YAML，而Linter可以自动更改</li>
+</ol>
+<h2 id="高亮YAML"><a href="#高亮YAML" class="headerlink" title="高亮YAML"></a>高亮YAML</h2><p>这个是自己写的一个平替CSS，之前使用插件<code>Editor Syntax Highlight</code>来高亮YAML区域<br>Obsidian加载插件是需要时间，想着能不能少个插件，让Obsidian打开的速度加快<br>查看了下这个插件，代码也挺多，就想着通过CSS实现类似，也就有了以下代码（就2行），实现跟插件一样的功能</p>
+<p>未开效果：</p>
+<p><img src="/../images/image-20240506223933209.png" alt="image-20240506223933209"></p>
+<p>开启后效果：</p>
+<p><img src="/../images/image-20240506223948954.png" alt="image-20240506223948954"></p>
+<p>CSS代码片段如下，可以更改成自己想要的颜色</p>
+<pre><code class="css">span.cm-atom &#123;
+  /* 属性高亮 */
+  color: #f39b35;
+&#125;
+
+span.cm-hmd-frontmatter.cm-hmd-frontmatter.cm-def &#123;
+  /* 分割线高亮 */
+  color: #98e342 !important;
+&#125;
+</code></pre>
+<h2 id="Remotely-Save新版本问题"><a href="#Remotely-Save新版本问题" class="headerlink" title="Remotely Save新版本问题"></a>Remotely Save新版本问题</h2><ul>
+<li>仓库地址：<a target="_blank" rel="noopener" href="https://github.com/remotely-save/remotely-save">https://github.com/remotely-save/remotely-save</a></li>
+<li>问题参考：<a target="_blank" rel="noopener" href="https://github.com/remotely-save/remotely-save/issues/450">https://github.com/remotely-save/remotely-save/issues/450</a></li>
+</ul>
+<p>这个估计很多使用Obsidian的朋友都知道，是一个同步插件，这里讲个阿里OSS新版本的坑<br>我之前一直使用老版本没有更新，但是3月的时候，想着把所有插件更新下</p>
+<p>一更新（0.3.25&gt;0.4.16），WTF，竟然不能用了！！<br>果然能用的东西就不要频繁更新doeg</p>
+<p>插件会报错：<code>Invalid region:region was not a validDNS name.</code><br>电脑网络正常，但提示<code>DNS</code>错误，后续排查无果，看<code>issues/450</code>才知道新版本的<code>region</code>竟然变了😅<br>当然也可能一直都是这个写法，只是以前老版本可能比较兼容？（听答主的意思，好像是如此😑）</p>
+<p>说说解决方案（<code>issues</code>写了，这里再写下）</p>
+<p>老版本：</p>
+<ul>
+<li>Endpoint：<code>oss-cn-shenzhen.aliyuncs.com</code></li>
+<li>Region：<code>oss-cn-shenzhen-internal.aliyuncs.com</code></li>
+</ul>
+<p>新版本：</p>
+<ul>
+<li>Endpoint：<code>oss-cn-shenzhen.aliyuncs.com</code></li>
+<li>Region：<code>oss-cn-shenzhen</code></li>
+</ul>
+<p>也就是<code>Region</code>变化了，其他没啥</p>
+<h1 id="Teable"><a href="#Teable" class="headerlink" title="Teable"></a>Teable</h1><p>我个人经常会掏一些软件尝试进行平替，如果有更优的表现，就纳入自己的软件列表，替待掉原有的</p>
+<p>浏览<a target="_blank" rel="noopener" href="https://www.ruanyifeng.com/blog/">阮一峰的网络日志</a>的时候了解到一个在线表格软件：Teable</p>
+<p>同类软件我之前有了解过：AirTable、vika维格表<br>AirTable 国外产品，要习惯英文，英文水平不行<br>vika 维格表不够精简，对于极简主义来说不能接受</p>
+<p>说说个人的 3 个推荐理由</p>
+<ol>
+<li>快</li>
+<li>极简</li>
+<li>全面 API</li>
+</ol>
+<h2 id="快"><a href="#快" class="headerlink" title="快"></a>快</h2><p>我之前有用语雀的表格，但语雀软件本身又比较重，又有笔记、又有小记、虽然更新优化了性能，但使用起来还是给我<strong>笨重</strong>的感觉<br>软件还是得专事专做，当然这个度得自己把握好，软件分太散，割裂感太强，太紧，All in One 又会觉得过于重</p>
+<p>然后看到，Teable 的 Github 的介绍页面，百万数据的表格示例<br>打开 N 快，响应非常流畅，瞬间心动<br>具体可以示例参考：<a target="_blank" rel="noopener" href="https://app.teable.io/share/shrVgdLiOvNQABtW0yX/view">百万数据Demo</a></p>
+<h2 id="极简"><a href="#极简" class="headerlink" title="极简"></a>极简</h2><p>软件就单单只做表格，没有什么花里胡哨的东西<br>没有文档、没有模板、没有广告等等<br>没有其他不该有的东西</p>
+<p>一切深得极简主义人的心</p>
+<h2 id="全面-API"><a href="#全面-API" class="headerlink" title="全面 API"></a>全面 API</h2><p>然后 API 也是我一个心动的点，支持所有操作，是所有！<br>不管账户、表格数据、权限、空间等等….<br>这对于程序员来说就有很大的操作空间了，我能直接用脚本去操纵我的数据，简直不要太过心动</p>
+<p>上一个遇到类似的软件还是印象笔记，可惜我心中的大象已死<br>后续遇到的很多软件，例如 Flomo、Cubox 等，都没有提供全面的 API，仅仅提供一个剪藏的接口，其实觉得蛮可惜的<br>因为全面的 API 意味着我有更大的自由度操作我的数据，而非仅仅增加数据</p>
+<p>拿 Cubox举个例子，也是我之前遇到的一个痛点<br>我假设我 Obsidian 引用了 Cubox 中一篇文章，插入了Cubox 的分享链接<br>Cubox 中的这篇文章相当于仅作为文献的价值存在<br>当我把 Obsidian 的这篇笔记删除的时候，我 Cubox 的引用文怎么同步删除？因为笔记已经删除，文献也没有存在的必要了<br>我没办法去判断我 Cubox 中的文章是否还有被 Obsidian 引用</p>
+<p>当然要实际来说的话，方法肯定是比问题多<br>例如，我 Cubox 的文章可以添加 Obsidian 标签，例如我删除 Obsidian 的文章前可以先删除下 Cubox<br>但这都不够优雅，太麻烦了</p>
+<p>可以自动化的事情，就不应该自己上手来做</p>
+<p>如果我有对应的数据接口，直接爬取所有 Obsidian 文件的引用链接，再对比 Cubox 的引用链接，两者进行一个差集计算，然后自动删除没有用的文章，岂不美哉</p>
+<p>当然开放接口，也意味着服务器要应对更大的压力，也可以理解<br>只是有的话，真的是很加分的项</p>
+
+    </div>
+  </div>
+
+
+<!-- 评论 -->
+
+    <div class="imqi1-comment imqi1-fadeUp" id="comments">
+        <!-- Waline 评论容器 -->
+        <div id="waline"></div>
+    </div>
+
+    <!-- 异步加载 Waline 样式 -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+        id="waline-style"
+    />
+
+    <!-- 异步加载 Waline 脚本 -->
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            var script = document.createElement('script');
+            script.src = "/js/comment.js";
+            script.type = "module"
+            script.async = true; // 或者使用 script.defer = true;
+            document.body.appendChild(script);
+        });
+    </script>
+
+
+
+<!-- 代码块复制、高亮 -->
+
+<script src="/js/highlight.min.js"></script>
+<script src="/js/highlightjs-line-numbers.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+  // 初始化高亮
+  hljs.highlightAll();
+
+  // 为每个代码块添加行号
+  document.querySelectorAll('code.hljs').forEach((el) => {
+    hljs.lineNumbersBlock(el);
+  });
+});
+</script>
+<script>
+  // 更新目录高亮的函数
+  function updateTocHighlight() {
+        // 获取所有的标题和目录链接
+    const headings = document.querySelectorAll('.imqi1-content h1, .imqi1-content h2, .imqi1-content h3, .imqi1-content h4, .imqi1-content h5, .imqi1-content h6');
+    const tocLinks = document.querySelectorAll('.toc-list .toc-list-item a');
+    // 清除所有活跃状态
+    tocLinks.forEach(link => link.classList.remove('is-active'));
+
+    // 获取滚动位置
+    const scrollPosition = window.scrollY + (window.innerHeight || document.documentElement.clientHeight) / 2;
+    let currentActive = null;
+
+    // 遍历所有标题，找到最接近视口顶部的标题
+    headings.forEach(heading => {
+      const headingPosition = heading.offsetTop;
+      const headingId = heading.id;
+      const link = document.querySelector(`.toc-list .toc-link[href="#${headingId}"]`);
+      if (headingPosition <= scrollPosition && (!currentActive || headingPosition > currentActive.position)) {
+        currentActive = { link: link, position: headingPosition };
+      }
+    });
+
+    // 如果找到了活跃的标题，添加活跃状态
+    if (currentActive && currentActive.link) {
+      currentActive.link.classList.add('is-active');
+    }
+  }
+// 当文档加载完成后执行
+document.addEventListener('DOMContentLoaded', function () {
+
+// 监听页面滚动事件
+window.addEventListener('scroll', updateTocHighlight);
+
+// 初次调用更新函数，以确保加载页面时高亮正确的目录项
+updateTocHighlight();
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // 获取包含所有目录链接的父元素
+  const tocList = document.querySelector(".toc-list");
+  if (tocList) {
+    // 使用事件委托监听点击事件
+    tocList.addEventListener("click", function (event) {
+        
+      // 检查点击的是否是 a 标签
+      if (event.target.tagName === "A") {
+        // 移除已有（移除所有链接的 'is-active' 类）
+        document.querySelectorAll(".toc-link").forEach((link) => {
+          link.classList.remove("is-active");
+        });
+        // 为被点击的链接添加 'is-active' 类
+        event.target.classList.add("is-active");
+
+        // 阻止默认的锚点导航行为
+        event.preventDefault();
+
+        // 获取锚点对应的元素 ID
+        const targetId = event.target.getAttribute('href').substring(1);
+        // 找到对应的元素
+        const targetElement = document.getElementById(targetId);
+        if (targetElement) {
+          // 计算目标元素相对于文档顶部的位置
+          const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+
+          // 检查目标元素是否是 h2 标签
+          if (targetElement.tagName === 'H2' || targetElement.tagName === 'H3') {
+            // 如果是 h2 标签，添加额外的偏移量
+            const additionalOffset = 70; // 根据实际情况调整这个值
+            window.scroll({
+              top: targetPosition - additionalOffset,
+              left: 0,
+              behavior: 'smooth'
+            });
+          } else {
+            // 如果不是 h2 标签，直接滚动到目标位置
+            targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+          // 移除滚动事件（显示阅读进度），防止相互影响
+          window.removeEventListener('scroll', updateTocHighlight);
+        }
+      }
+    // 点击事件结束后再添加回去滚动事件（显示阅读进度）
+    window.addEventListener('scroll', updateTocHighlight);
+    });
+
+  }
+});
+
+</script>
+        </div>
+
+        <!-- 脚本 -->
+        <script src="/js/events.js"></script>
+        
+<script src="/js/fancybox.js"></script>
+
+        <footer class="imqi1-footer2">
+
+  <!-- 备案信息 -->
+  <div class="footer-beian">
+    <span>2024 © <a href="https://imqi1.com/" target="_blank">ImQi1</a></span> |
+    <!-- ICP -->
+    
+        <a href="https://beian.miit.gov.cn" target="_blank">京ICP证123456号</a>
+
+        <a href="https://beian.miit.gov.cn" target="_blank">京公网安备12345678号</a>
+    
+  </div>
+
+
+  <div class="footer-links">
+    
+        <a href="/feed.xml" style="padding-left:2px;">RSS</a>
+    
+        <a target="_blank" rel="noopener" href="https://travellings.cn/go.html" style="padding-left:2px;">开往</a>
+    
+        <a target="_blank" rel="noopener" href="https://foreverblog.cn/go.html" style="padding-left:2px;">虫洞</a>
+    
+        <a target="_blank" rel="noopener" href="https://www.upyun.com/?utm_source=lianmeng&amp;utm_medium=referral" style="padding-left:2px;">又拍云</a>
+    
+  </div>
+  
+</footer>
+        <!-- 悬浮按钮组 -->
+
+<div class="imqi1-footer-buttons">
+    <div class="imqi1-footer-button" id="scroll-top">
+        <i class="ri-arrow-up-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="theme-toggle">
+        <i class="ri-moon-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="music-player">
+        <i class="ri-headphone-line"></i>
+    </div>
+</div>
+
+    </body>
+
+</html>

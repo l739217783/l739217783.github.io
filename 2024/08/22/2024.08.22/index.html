@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html>
+    <!-- 引入头部 -->
+    <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>浮生一梦</title>
+    <link rel="stylesheet" href="/css/main copy.css" />
+    <link rel="stylesheet" href="/css/remixicon.css" />
+    <link rel="stylesheet" href="/css/resource.css" />
+    <script src="/js/theme.js"></script>
+
+    <!-- 代码块样式 -->
+    <link rel="stylesheet" href="/css/monokai.css">
+
+  
+    <!-- 代码块复制功能 -->
+    <script src="/js/clipboard.min.js"></script>
+    <script src="/js/clipboard_use.js"></script>
+    
+    <!-- 灯箱(排除首页) -->
+    
+    <link rel="stylesheet" href="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css">
+    <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+    
+
+<meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/feed.xml" title="Hexo" type="application/rss+xml">
+</head>
+
+    <body>
+        <!-- 导航栏 -->
+        <header class="imqi1-header">
+  <!-- 标题 -->
+  
+  <div class="imqi1-header-title">
+  <!-- 面包屑 -->
+  
+
+
+  <!-- 路径包含日期格式，转换并显示 -->
+  <span>
+    <a href="/">浮生一梦</a> /
+    2024.08.22
+  </span>
+
+  </div>
+
+  <!-- links -->
+  <div class="imqi1-header-links">
+    <div class="imqi1-header-search" style="display:none;">
+      <input type="text" id="searchInput" class="imqi1-search-input" />
+      <button id="searchSubmit"><i class="ri-search-line"></i></button>
+    </div>
+    
+    <div class="imqi1-header-links">
+      
+      <a class="imqi1-header-links-item" href="/messages">
+        <i class="ri-chat-1-line"></i>
+        留言
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/tags">
+        <i class="ri-hashtag"></i>
+        标签
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/archives">
+        <i class="ri-menu-line"></i>
+        归档
+      </a>
+      
+      <a class="imqi1-header-links-item" href="/about">
+        <i class="ri-user-line"></i>
+        关于
+      </a>
+      
+    </div>
+</header>
+        
+        <!-- 文档主体-->
+        <div class="imqi1-body-container" id="main" role="main">
+            <!-- 大标题 -->
+<div class="imqi1-big-title-box imqi1-fadeUp">
+    <h1 class="imqi1-post-big-title">
+        Waline_自定义表情包
+    </h1>
+    <div class="imqi1-post-description">
+        
+    </div>
+</div>
+
+
+<!-- 生成目录 -->
+
+
+
+  <div class="imqi1-content imqi1-fadeUp imqi1-has-toc">
+    <div class="imqi1-toc">
+        <nav id="panel-toc" class="imqi1-toc-card imqi1-menu-checkbox-target">
+            <div id="panel-toc-label" class="imqi1-toc-header">目录</div>
+            <div class="toc-target">
+                <ol class="toc-list">
+                    
+                        <li class="toc-list-item">
+                            <a title="参考资料" href="#参考资料"
+                                class="toc-link node-name--H1 is-active">
+                                参考资料
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="前言" href="#前言"
+                                class="toc-link node-name--H1">
+                                前言
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="自部署" href="#自部署"
+                                class="toc-link node-name--H1">
+                                自部署
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="资源准备" href="#资源准备"
+                                class="toc-link node-name--H2">
+                                资源准备
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="托管" href="#托管"
+                                class="toc-link node-name--H2">
+                                托管
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="Gihtub+jsdelivr" href="#Gihtub-jsdelivr"
+                                class="toc-link node-name--H3">
+                                Gihtub+jsdelivr
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="又拍云" href="#又拍云"
+                                class="toc-link node-name--H3">
+                                又拍云
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="开箱即用" href="#开箱即用"
+                                class="toc-link node-name--H1">
+                                开箱即用
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="资源" href="#资源"
+                                class="toc-link node-name--H2">
+                                资源
+                            </a>
+                        </li>
+                    
+                        <li class="toc-list-item">
+                            <a title="Waline配置" href="#Waline配置"
+                                class="toc-link node-name--H2">
+                                Waline配置
+                            </a>
+                        </li>
+                    
+                </ol>
+            </div>
+        </nav>
+    </div>
+
+    <div class="imqi1-post-content imqi1-fadeUp">
+      <h1 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h1><ol>
+<li><a target="_blank" rel="noopener" href="https://www.jsdelivr.com/?docs=gh">jsdelivr</a>：开源CDN使用教程</li>
+<li><a target="_blank" rel="noopener" href="https://waline.netlify.app/client/emoji.html#%E9%A2%84%E8%AE%BE">自定义表情 - Waline</a>：Waline官方文档</li>
+<li><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/info.json">sticker-heo</a>：参考写法</li>
+<li><a target="_blank" rel="noopener" href="https://www.emojiall.com/zh-hans/image-emoji-platform/telegram/animation/jQuery">Telegram Emoji - EMOJIALL</a>：Telegram Emoji资源下载</li>
+<li><a target="_blank" rel="noopener" href="https://github.com/zhheo/Sticker-Heo">Heo -Github</a>：Heo表情资源</li>
+<li><a target="_blank" rel="noopener" href="https://www.shimoko.com/p/emojiandelse/">网站一些小变化</a>：参考使用、表情包资源</li>
+</ol>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>前端时间看到个博友的评论支持Telegram Emoji，博客圈感觉比较少见<br>就自己摸索尝试下自己添加，行的通，不过后续为了访问速度考虑（由于表情是动态的），还是删除了，另外也把现有的表情精简了下，仅保留了一个<a target="_blank" rel="noopener" href="https://blog.zhheo.com/">张洪大大</a>设计的Heo表情包</p>
+<p>Waline官方其实写的蛮清楚，不过个人再记录总结下整体流程，以后也有可能用的上</p>
+<p>我分为2个板块来讲</p>
+<ol>
+<li>自部署：自己部署表情包、自定义表情包，不怕404、减少404的概率</li>
+<li>开箱即用：别的博主、Waline封装好的链接，直接添加到Waline的设置中即可</li>
+</ol>
+<h1 id="自部署"><a href="#自部署" class="headerlink" title="自部署"></a>自部署</h1><h2 id="资源准备"><a href="#资源准备" class="headerlink" title="资源准备"></a>资源准备</h2><p>第一步准备2样东西</p>
+<ol>
+<li>表情包合集（图片资源）</li>
+<li><code>info.json</code>：Waline读取使用</li>
+</ol>
+<p>先要准备些图片资源或者表情包资源，如果是图片资源的话，要求尺寸大小一致，例如都是100*100<br>将这些图片放在一个文件夹下，并且在该文件夹下创建一个<code>info.json</code></p>
+<p>示例（Heo表情包）</p>
+<p><img src="/../images/image-20240822223049031.png" alt="image-20240822223049031"></p>
+<p><code>info.json</code> 是一个 json文件，下面讲解各个参数</p>
+<pre><code class="json">&#123;
+  &quot;name&quot;: &quot;我的 Emoji&quot;,
+  &quot;prefix&quot;: &quot;my_&quot;,
+  &quot;type&quot;: &quot;png&quot;,
+  &quot;icon&quot;: &quot;cute&quot;,
+  &quot;items&quot;: [&quot;laugh&quot;, &quot;sob&quot;, &quot;rage&quot;, &quot;cute&quot;]
+&#125;
+</code></pre>
+<ul>
+<li><p><code>name</code>：Emoji 名称（不被任何其他地方引用，仅json文件中定义知道）</p>
+</li>
+<li><p><code>prefix</code> (可选的)：Emoji 图片名称的通用前缀，建议是为一个系列的表情包添加一个共用前缀，以防与其他 Emoji 缩写相冲突（例如有多个表情包，表情包1系列中有叫A，表情包2系列中有叫A）</p>
+</li>
+<li><p><code>type</code> (可选的): 图片的类型，会用作图片的后缀名，如果使用不同类型的图片，将此项留空并在之后的两个选项中手动指定后缀名。</p>
+</li>
+<li><p><code>icon</code>：选项卡中显示的图片 （代表性的图标）<br><img src="/../images/20240822234856.png" alt="image.png"></p>
+</li>
+<li><p><code>items</code>：表情包图片</p>
+</li>
+</ul>
+<p>Heo示例（<code>info.json</code>写法）</p>
+<pre><code class="json">&#123;
+  &quot;name&quot;: &quot;Heo&quot;,
+  &quot;type&quot;: &quot;png&quot;,
+  &quot;icon&quot;: &quot;亲亲&quot;,
+  &quot;items&quot;: [
+    &quot;亲亲&quot;,
+    &quot;倚墙笑&quot;,
+    &quot;值得肯定&quot;,
+    &quot;偷偷看&quot;,
+    &quot;危险&quot;,
+    &quot;吃瓜&quot;,
+    &quot;吵架&quot;,
+    &quot;呲牙笑&quot;,
+    &quot;喜欢&quot;,
+    &quot;嘿哈&quot;,
+    &quot;大笑&quot;,
+    &quot;好的&quot;,
+    &quot;害羞&quot;,
+    &quot;开心&quot;,
+    &quot;微笑&quot;,
+    &quot;思考&quot;,
+    &quot;惊吓&quot;,
+    &quot;惊吓白眼&quot;,
+    &quot;惊讶&quot;,
+    &quot;感动&quot;,
+    &quot;愤怒&quot;,
+    &quot;扶额&quot;,
+    &quot;捂嘴笑&quot;,
+    &quot;捂脸&quot;,
+    &quot;擦汗&quot;,
+    &quot;没招&quot;,
+    &quot;流汗微笑&quot;,
+    &quot;滑稽&quot;,
+    &quot;滑稽吃瓜&quot;,
+    &quot;滑稽喝水&quot;,
+    &quot;滑稽奶茶&quot;,
+    &quot;滑稽柠檬&quot;,
+    &quot;滑稽狂汗&quot;,
+    &quot;狗头&quot;,
+    &quot;狗头意外&quot;,
+    &quot;疑问&quot;,
+    &quot;眩晕&quot;,
+    &quot;笑哭&quot;,
+    &quot;翻白眼&quot;,
+    &quot;被打&quot;
+  ]
+&#125;
+</code></pre>
+<h2 id="托管"><a href="#托管" class="headerlink" title="托管"></a>托管</h2><h3 id="Gihtub-jsdelivr"><a href="#Gihtub-jsdelivr" class="headerlink" title="Gihtub+jsdelivr"></a>Gihtub+jsdelivr</h3><p>先新建一个Github仓库（名字自定，我这里仅是示例）<br><img src="/../images/image-20240822231526966.png" alt="image-20240822231526966"></p>
+<p>然后将自己的表情包文件夹中的文件（表情包+<code>info.json</code>）上传到仓库<br>我这里使用Github直接上传文件（会使用Git的应该不用我讲解&#x3D; &#x3D;，直接上传）</p>
+<p><img src="/../images/image-20240822231559437.png" alt="image-20240822231559437"></p>
+<p><img src="/../images/image-20240822231713327.png" alt="image-20240822231713327"></p>
+<p>上传后，我们在这个仓库的主页，点击右侧创建第一个版本</p>
+<p><img src="/../images/image-20240822231848061.png" alt="image-20240822231848061"></p>
+<p>输入0.1，点击create创建第一个版本发布<br>由于我们是自用，下面都随便填好了，我这里都填写0.1</p>
+<p><img src="/../images/image-20240822232027583.png" alt="image-20240822232027583"></p>
+<p>然后发布这个0.1版本</p>
+<p><img src="/../images/image-20240822232045465.png" alt="image-20240822232045465"></p>
+<p>之后参考<a target="_blank" rel="noopener" href="https://www.jsdelivr.com/?docs=gh">jsdelivr</a>的写法，建立一个公共CDN</p>
+<p>写法为：<code>https://cdn.jsdelivr.net/gh/user/repo@version/file</code></p>
+<p>我们先写一个（这里做参考使用，用户名、仓库名、版本名自己改）：<code>https://github.com/l739217783/demo@0.1/info.json</code></p>
+<p>运行一次后，会建立一个公共CDN节点<br>之后我们就可以在Waline中配置该链接（<code>https://github.com/l739217783/demo@0.1/</code>），使用该表情包，具体配置见<a href="#Waline%E9%85%8D%E7%BD%AE">Waline配置</a></p>
+<h3 id="又拍云"><a href="#又拍云" class="headerlink" title="又拍云"></a>又拍云</h3><p>有时候<code>jsdelivr</code>不够稳定，甚至会挂比<br>我们可以托管在又拍云上，或者自己的服务器上，我有使用又拍云，所以分享下</p>
+<p>首先，确保我们使用了云存储服务</p>
+<p><img src="/../images/image-20240822232708228.png" alt="image-20240822232708228"></p>
+<p>然后使用「文件管理」功能，在根目录下创建一个emoji文件夹</p>
+<p><img src="/../images/image-20240822232749982.png" alt="image-20240822232749982"></p>
+<p>再在下面创建一个表情包合集的文件夹，例如我使用heo，那么建立一个heo文件夹<br><img src="/../images/image-20240822232858350.png" alt="image-20240822232858350"></p>
+<p>之后，将表情包（所有表情包图片+<code>info.json</code>）上传到这个文件夹</p>
+<p><img src="/../images/image-20240822232942332.png" alt="image-20240822232942332"></p>
+<p> 之后就可以通过绑定的域名，来访问这些表情包<br>例如，你绑定的域名是<code>www.baidu.com</code>，我们路径是<code>/emoji/heo</code><br>那么你的URL则是<code>https://www.baidu.com/emoji/heo</code>，自己类推</p>
+<p>之后在Waline配置即可，参考<a href="#Waline%E9%85%8D%E7%BD%AE">Waline配置</a></p>
+<p>需要注意的是，如果你已经启用了HTTPS，在本地先调试的，要配置下CORS跨域<br>因为本地调试是http协议，而又拍云启用HTTPS，链接则是https协议，这样访问会造成了CORS跨域问题，导致Waline加载<code>info.json</code>失败，间接导致所有的表情包合集加载不出来</p>
+<p><img src="/../images/image-20240822233315265.png" alt="image-20240822233315265"></p>
+<p>Referer 防盗链也是，如果在在本地先调试的，可以暂时关闭下<br>否则可能也加载不出来资源，会被拦截掉</p>
+<p><img src="/../images/image-20240822233435635.png" alt="image-20240822233435635"></p>
+<h1 id="开箱即用"><a href="#开箱即用" class="headerlink" title="开箱即用"></a>开箱即用</h1><h2 id="资源"><a href="#资源" class="headerlink" title="资源"></a>资源</h2><table>
+<thead>
+<tr>
+<th>表情包名称</th>
+<th>类型</th>
+<th>地址</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Alus（阿鲁）</td>
+<td>静态</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus</a></td>
+</tr>
+<tr>
+<td>Bilibili</td>
+<td>静态</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili</a></td>
+</tr>
+<tr>
+<td>QQ</td>
+<td>动态</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq</a></td>
+</tr>
+<tr>
+<td>Tieba</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba</a></td>
+</tr>
+<tr>
+<td>Weibo</td>
+<td>静态</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo</a></td>
+</tr>
+<tr>
+<td>Heo</td>
+<td>静态</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/">https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/</a></td>
+</tr>
+<tr>
+<td>menhera酱原版</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://img.shimoko.com/waline_emojis/emojis-main/menhera">https://img.shimoko.com/waline_emojis/emojis-main/menhera</a></td>
+</tr>
+<tr>
+<td>menhera酱-变猫猫</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://img.shimoko.com/waline_emojis/emojis-main/menhera-Cat">https://img.shimoko.com/waline_emojis/emojis-main/menhera-Cat</a></td>
+</tr>
+<tr>
+<td>menhera酱-情人节</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://img.shimoko.com/waline_emojis/emojis-main/menhera-Valentine">https://img.shimoko.com/waline_emojis/emojis-main/menhera-Valentine</a></td>
+</tr>
+<tr>
+<td>menhera酱-小魔女</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://img.shimoko.com/waline_emojis/emojis-main/menhera-Witch">https://img.shimoko.com/waline_emojis/emojis-main/menhera-Witch</a></td>
+</tr>
+<tr>
+<td>Bilibili-233表情</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://img.shimoko.com/waline_emojis/emojis-main/bilibili-2233">https://img.shimoko.com/waline_emojis/emojis-main/bilibili-2233</a></td>
+</tr>
+<tr>
+<td>Whatcccat</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://img.shimoko.com/waline_emojis/emojis-main/whatcccat">https://img.shimoko.com/waline_emojis/emojis-main/whatcccat</a></td>
+</tr>
+<tr>
+<td>Twitter - emoji</td>
+<td>静态</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji</a></td>
+</tr>
+<tr>
+<td>Twitter - Full</td>
+<td>静态</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw</a></td>
+</tr>
+<tr>
+<td>Twitter - People</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-people">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-people</a></td>
+</tr>
+<tr>
+<td>Twitter - Body</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-body">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-body</a></td>
+</tr>
+<tr>
+<td>Twitter - Flag</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-flag">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-flag</a></td>
+</tr>
+<tr>
+<td>Twitter - Food</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-food">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-food</a></td>
+</tr>
+<tr>
+<td>Twitter - Natural</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-natural">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-natural</a></td>
+</tr>
+<tr>
+<td>Twitter - Object</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-object">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-object</a></td>
+</tr>
+<tr>
+<td>Twitter - Sport</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-sport">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-sport</a></td>
+</tr>
+<tr>
+<td>Twitter - Symbol</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-symbol">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-symbol</a></td>
+</tr>
+<tr>
+<td>Twitter - Time</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-time">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-time</a></td>
+</tr>
+<tr>
+<td>Twitter - Travel</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-travel">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-travel</a></td>
+</tr>
+<tr>
+<td>Twitter - Weather</td>
+<td>？？？</td>
+<td><a target="_blank" rel="noopener" href="https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-weather">https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-weather</a></td>
+</tr>
+</tbody></table>
+<p>注：</p>
+<ol>
+<li><code>？？？</code>代表个人未尝试，所以不知道是什么图片类型，感兴趣的自己尝试下</li>
+<li><code>https://img.shimoko.com/</code> 开头链接，均为 <a target="_blank" rel="noopener" href="https://www.shimoko.com/">Shimoko</a> 博主自托管提供，使用他的表情包的话，最好感谢下，毕竟是自托管分享（用爱发电），也没有设置限制，我这里仅是作为合集。</li>
+</ol>
+<h2 id="Waline配置"><a href="#Waline配置" class="headerlink" title="Waline配置"></a>Waline配置</h2><p>Waline是通过<code>emoji</code>选项设置表情包的，<code>emoji</code>选项的值是一个列表，直接往里面丢别人托管好的表情包即可</p>
+<p>每个主题都是大同小异，找到Waline对应的配置（大多肯定有这个选项，没有的话就去布局文件夹里面找实例自己动手修改）</p>
+<pre><code class="js">Waline(&#123;
+  el: &#39;#waline&#39;,
+  serverURL: &#39;&lt;YOUR SERVER URL&gt;&#39;,
+
+  // 设置 emoji 为微博与哔哩哔哩
+  emoji: [
+    &#39;https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo&#39;,
+    &#39;https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili&#39;,
+  ],
+&#125;);
+</code></pre>
+<p>我个人使用Fluid主题，是在主题配置文件修改<br>像这样</p>
+<pre><code class="yaml">waline:
+  emoji: [&#39;https://image.linguoguang.com/emoji/heo&#39;]
+</code></pre>
+<p>配置完，重新部署即可</p>
+
+    </div>
+  </div>
+
+
+<!-- 评论 -->
+
+    <div class="imqi1-comment imqi1-fadeUp" id="comments">
+        <!-- Waline 评论容器 -->
+        <div id="waline"></div>
+    </div>
+
+    <!-- 异步加载 Waline 样式 -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+        id="waline-style"
+    />
+
+    <!-- 异步加载 Waline 脚本 -->
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            var script = document.createElement('script');
+            script.src = "/js/comment.js";
+            script.type = "module"
+            script.async = true; // 或者使用 script.defer = true;
+            document.body.appendChild(script);
+        });
+    </script>
+
+
+
+<!-- 代码块复制、高亮 -->
+
+<script src="/js/highlight.min.js"></script>
+<script src="/js/highlightjs-line-numbers.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', (event) => {
+  // 初始化高亮
+  hljs.highlightAll();
+
+  // 为每个代码块添加行号
+  document.querySelectorAll('code.hljs').forEach((el) => {
+    hljs.lineNumbersBlock(el);
+  });
+});
+</script>
+<script>
+  // 更新目录高亮的函数
+  function updateTocHighlight() {
+        // 获取所有的标题和目录链接
+    const headings = document.querySelectorAll('.imqi1-content h1, .imqi1-content h2, .imqi1-content h3, .imqi1-content h4, .imqi1-content h5, .imqi1-content h6');
+    const tocLinks = document.querySelectorAll('.toc-list .toc-list-item a');
+    // 清除所有活跃状态
+    tocLinks.forEach(link => link.classList.remove('is-active'));
+
+    // 获取滚动位置
+    const scrollPosition = window.scrollY + (window.innerHeight || document.documentElement.clientHeight) / 2;
+    let currentActive = null;
+
+    // 遍历所有标题，找到最接近视口顶部的标题
+    headings.forEach(heading => {
+      const headingPosition = heading.offsetTop;
+      const headingId = heading.id;
+      const link = document.querySelector(`.toc-list .toc-link[href="#${headingId}"]`);
+      if (headingPosition <= scrollPosition && (!currentActive || headingPosition > currentActive.position)) {
+        currentActive = { link: link, position: headingPosition };
+      }
+    });
+
+    // 如果找到了活跃的标题，添加活跃状态
+    if (currentActive && currentActive.link) {
+      currentActive.link.classList.add('is-active');
+    }
+  }
+// 当文档加载完成后执行
+document.addEventListener('DOMContentLoaded', function () {
+
+// 监听页面滚动事件
+window.addEventListener('scroll', updateTocHighlight);
+
+// 初次调用更新函数，以确保加载页面时高亮正确的目录项
+updateTocHighlight();
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  // 获取包含所有目录链接的父元素
+  const tocList = document.querySelector(".toc-list");
+  if (tocList) {
+    // 使用事件委托监听点击事件
+    tocList.addEventListener("click", function (event) {
+        
+      // 检查点击的是否是 a 标签
+      if (event.target.tagName === "A") {
+        // 移除已有（移除所有链接的 'is-active' 类）
+        document.querySelectorAll(".toc-link").forEach((link) => {
+          link.classList.remove("is-active");
+        });
+        // 为被点击的链接添加 'is-active' 类
+        event.target.classList.add("is-active");
+
+        // 阻止默认的锚点导航行为
+        event.preventDefault();
+
+        // 获取锚点对应的元素 ID
+        const targetId = event.target.getAttribute('href').substring(1);
+        // 找到对应的元素
+        const targetElement = document.getElementById(targetId);
+        if (targetElement) {
+          // 计算目标元素相对于文档顶部的位置
+          const targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+
+          // 检查目标元素是否是 h2 标签
+          if (targetElement.tagName === 'H2' || targetElement.tagName === 'H3') {
+            // 如果是 h2 标签，添加额外的偏移量
+            const additionalOffset = 70; // 根据实际情况调整这个值
+            window.scroll({
+              top: targetPosition - additionalOffset,
+              left: 0,
+              behavior: 'smooth'
+            });
+          } else {
+            // 如果不是 h2 标签，直接滚动到目标位置
+            targetElement.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+          // 移除滚动事件（显示阅读进度），防止相互影响
+          window.removeEventListener('scroll', updateTocHighlight);
+        }
+      }
+    // 点击事件结束后再添加回去滚动事件（显示阅读进度）
+    window.addEventListener('scroll', updateTocHighlight);
+    });
+
+  }
+});
+
+</script>
+        </div>
+
+        <!-- 脚本 -->
+        <script src="/js/events.js"></script>
+        
+<script src="/js/fancybox.js"></script>
+
+        <footer class="imqi1-footer2">
+
+  <!-- 备案信息 -->
+  <div class="footer-beian">
+    <span>2024 © <a href="https://imqi1.com/" target="_blank">ImQi1</a></span> |
+    <!-- ICP -->
+    
+        <a href="https://beian.miit.gov.cn" target="_blank">京ICP证123456号</a>
+
+        <a href="https://beian.miit.gov.cn" target="_blank">京公网安备12345678号</a>
+    
+  </div>
+
+
+  <div class="footer-links">
+    
+        <a href="/feed.xml" style="padding-left:2px;">RSS</a>
+    
+        <a target="_blank" rel="noopener" href="https://travellings.cn/go.html" style="padding-left:2px;">开往</a>
+    
+        <a target="_blank" rel="noopener" href="https://foreverblog.cn/go.html" style="padding-left:2px;">虫洞</a>
+    
+        <a target="_blank" rel="noopener" href="https://www.upyun.com/?utm_source=lianmeng&amp;utm_medium=referral" style="padding-left:2px;">又拍云</a>
+    
+  </div>
+  
+</footer>
+        <!-- 悬浮按钮组 -->
+
+<div class="imqi1-footer-buttons">
+    <div class="imqi1-footer-button" id="scroll-top">
+        <i class="ri-arrow-up-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="theme-toggle">
+        <i class="ri-moon-line"></i>
+    </div>
+    <div class="imqi1-footer-button" id="music-player">
+        <i class="ri-headphone-line"></i>
+    </div>
+</div>
+
+    </body>
+
+</html>
